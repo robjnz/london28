@@ -24,24 +24,20 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "A Womb of One's Own">
+<b-card bg-variant="dark" text-variant="white" title= "Improvised Therapy">
   <p class="title-color">
     Greenwich Theatre<br>
-    Wed 29 May 2019 @ 7.30pm
+    Tues 11 June 2019 @7.30pm
     </p>
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "In The Night Garden">
+<b-card bg-variant="dark" text-variant="white" title= "Dave Chappelle">
   <p class="title-color">
-      <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/-wv-MkkErQ0"
-          allowfullscreen
-  ></b-embed>
+
     Hackney Empire<br>
-    Sat 01 - Sun 02 Jun 2019
+    Mon 03 - Tues 04 June 2019
 
     </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
@@ -52,10 +48,10 @@
         <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Block Universe">
+<b-card bg-variant="dark" text-variant="white" title= "100 Years of Jazz in Britain">
   <p class="title-color">
     Hoxton Hall<br>
-    Thurs 30 - Fri 31 May @ 7.30pm
+    Sun 9 June 2019 @ 12.30pm & 3.15pm
     </p>
     <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
 
@@ -72,13 +68,18 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Jeff Short Big Swing Band & Singers">
+<b-card bg-variant="dark" text-variant="white" title= "Charge">
 
 
   <p class="title-color">
+    <b-embed type = "iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/sXYFAjzNtXs"
+          allowfullscreen
+  ></b-embed>
 
     Queen's Theatre Hornchurch<br>
-    Wed 29 May 2019 @ 2.30pm
+    Tues 11 June 2019 @ 7.30pm
 
     </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
@@ -94,12 +95,12 @@
       <p class="title-color">
     <b-embed type = "iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/rdIhxQSm6Rg"
+          src    = "https://www.youtube.com/embed/XYM4rYtOVkI"
           allowfullscreen
   ></b-embed>
 
     Theatre Royal Stratford East<br>
-    Fri 17 - Sat 15 June 2019
+    Fri 17 May - Sat 15 June 2019
 
     </p>
     <b-button href="https://kutt.it/stratfordeastT" target="_blank" variant="info">open</b-button>

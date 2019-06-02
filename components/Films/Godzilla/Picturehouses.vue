@@ -29,13 +29,13 @@
 
 
 <Date /><!--Date-->
-<Saturday />
-<Sunday />
 <Monday />
 <Tuesday />
 <Wednesday />
 <Thursday />
 <!--<Friday />-->
+<!--<Saturday />-->
+<!--<Sunday />-->
   <br><br>
 
 
@@ -44,13 +44,14 @@
   </b-button-group>
   <br><br>
 <Date /><!--Date-->
-<Saturday />
-<Sunday />
+
 <Monday />
 <Tuesday />
 <Wednesday />
 <Thursday />
 <!--<Friday />-->
+<!--<Saturday />-->
+<!--<Sunday />-->
   <br><br>
 
 

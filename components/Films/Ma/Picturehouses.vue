@@ -26,14 +26,16 @@
 <br><br>
 
 
-<!--<Sunday />-->
-<!--<Monday />-->
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<!--<Thursday />-->
-<!--<Friday />-->
 <Date /><!--Date-->
-<Saturday />
+<Monday />
+<Tuesday />
+<Wednesday />
+<Thursday />
+
+
+<!--<Friday />-->
+<!--<Saturday />-->
+<!--<Sunday />-->
   <br><br>
 
 
@@ -42,14 +44,16 @@
   </b-button-group>
   <br><br>
 
- <!--<Sunday />-->
+ 
+<Date /><!--Date-->
+
 <!--<Monday />-->
 <!--<Tuesday />-->
 <!--<Wednesday />-->
 <!--<Thursday />-->
 <!--<Friday />-->
-<Date /><!--Date-->
 <!--<Saturday />-->
+<!--<Sunday />-->
   <br><br>
 
 

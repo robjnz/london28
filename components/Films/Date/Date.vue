@@ -1,4 +1,4 @@
 <template>
-  <b-badge variant="success">01 June</b-badge>
+  <b-badge variant="success">03 June</b-badge>
  
 </template>
