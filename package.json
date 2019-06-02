@@ -1,0 +1,22 @@
+{
+  "name"       : "london",
+  "version"    : "1.0.0",
+  "description": "Monday 3rd June 2019, What’s on today @ the local cinemas, theatres, nightclubs & football matches, free online movies, places to visit for days out in east London, places to eat, job search resources and much more!",
+  "author"     : "robin harris",
+  "private"    : true,
+  "scripts"    : {
+    "dev"     : "nuxt",
+    "build"   : "nuxt build",
+    "start"   : "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap"    : "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.22",
+    "cross-env"    : "^5.2.0",
+    "nuxt"         : "^2.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
