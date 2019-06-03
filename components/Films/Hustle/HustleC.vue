@@ -10,8 +10,8 @@ Anne Hathaway and Rebel Wilson star as female scam artists, one low rent and the
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<!--<Bexleyheathbutton />-->
-<Greenwichbutton />
+<Bexleyheathbutton />
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>
@@ -37,12 +37,12 @@ Anne Hathaway and Rebel Wilson star as female scam artists, one low rent and the
 
   <h4 class="title-color">Showcase</h4>
   <b-button-group>
-  <Newhambutton />
+  <!--<Newhambutton />-->
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>
   <b-button-group>
-  <Romfordbutton />
+  <!--<Romfordbutton />-->
   <Vstratford />
   </b-button-group>
 

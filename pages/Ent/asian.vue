@@ -3,18 +3,20 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Saturday 1st June 2019</h2>
+    <h2>Wednesday 5 June 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
-    <KalankC /><!--Kalank-->
     <StudentC /><!--Student of the year 2 -->
+    <Blank />
     <Blank />
     </b-card-group>
 
     <!--Asian movies-->
     <!--<GallanC />--Dil Diyan Gallan -->
     <!--<BlackiaC />--Blackia-->
+    <!--<KalankC />--Kalank-->
+
     <!--<MaharshiC />--Maharshi-->
 
 

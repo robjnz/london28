@@ -11,7 +11,7 @@ Ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
 <Bexleyheathbutton />
-<Greenwichbutton />
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>
@@ -22,13 +22,13 @@ Ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
  <Ogreenwichbutton />
-  <Osouthbutton />
+  <!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>
   <b-button-group>
-  <Pgreenwichbutton />
-  <Phackneybutton />
+  <!--<Pgreenwichbutton />-->
+  <!--<Phackneybutton />-->
   </b-button-group>
 <br><br>
   <b-button-group>

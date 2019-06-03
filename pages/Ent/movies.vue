@@ -4,26 +4,19 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas</h1>
     <br>
-    <h2>Saturday 1st - Thursday 6th June 2019</h2>
+    <h2>Wednesday 4th - Thursday 6th June 2019</h2>
 
     <b-card-group deck
     class="mb-3">
-    <DogC /><!--A Dog's Way Home-->
     <AladdinC /><!--Aladdin-->
     <GraceC /><!--Amazing Grace-->
+    <AvengersC /><!--Avengers Endgame -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <AvengersC /><!--Avengers Endgame -->
     <BooksmartC /><!--booksmart-->
     <BreakthroughC /> <!--Breakthrough -->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <MarvelC /><!-- Captain Marvel -->
-    <DumboC /><!--Dumbo -->
     <EighthC /><!--Eighth Grade -->
     </b-card-group>
 
@@ -31,28 +24,21 @@
   class="mb-3 ">
     <GodzillaC /><!--Godzilla king Of The Monsters -->
     <JohnwickC /><!--Johnwick Parbellum -->
-    <Lego /><!--Lego2-->
+    <LittleC /><!--Little -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <LittleC /><!--Little -->
     <ShotC /><!--Long shot-->
     <MaC /><!--Ma-->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <PawpupsC /><!--Paw Patrol Mighty Pups -->
-    <Peppa /><!--Peppa Pig Festival of Fun-->
-    <PetC /><!--Pet Sematary-->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <PetC /><!--Pet Sematary-->
     <PokemonC /><!-- Pokemon Detective Pikachu-->
     <RocketmanC /><!--Rocketman -->
-    <ShazamC /><!--Shazam-->
 </b-card-group>
 
   <b-card-group deck
@@ -66,12 +52,20 @@
   class="mb-3 ">
     <PetstwoC /><!--The Secret Life of Pets 2 -->
     <TolkienC /><!--Tolkien-->
+    <UsC /><!--Us-->
+    </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <WomanC /><!--Woman at war -->
+    <Blank />
+    <Blank />
     </b-card-group>
 
 
       <!--<Ml --90ML -->
       <!--<True />--All Is True-->
+      <!--<DogC />-A Dog's Way Home-->
 
       <!--<Star --A star is Born-->
       <!-- <AlitaC --Alita Battle Angel -->
@@ -99,6 +93,7 @@
 
       <!--<Dragon --Dragon Ball Super -->
       <!--<DragonworldC /--How to Train Your Dragon the Hidden -->
+      <!--<DumboC />--Dumbo -->
 
       <!--<EscapeC --Escape Room -->
       <!--<Lion /--Eaten by Lion -->
@@ -112,6 +107,7 @@
 
       <!--<GlassC --Glass-->
       <!--<GreenC /--Green Book-->
+      <!--<Lego /--Lego2-->
 
 
       <!--<Guddiyan />--Guddiyan Patole -->
@@ -128,7 +124,7 @@
       <!--<LifeC /--High Life -->
 
       <!--<Luka />--Luka Chuppi  -->
-<!--  <Lords /--Lords of chaos-->
+<!--<Lords /--Lords of chaos-->
 
       <!--<Bala --Miss Bala-->
   <!--<FavouriteC />--The Favourite -->
@@ -139,6 +135,7 @@
 
       <!--<Milan -Milan Talkies-->
       <!--<MissingC />--Missing Link-->
+      <!--<MarvelC />-- Captain Marvel -->
 
       <!--<PoppinsC />--Mary Poppins-->
 
@@ -147,6 +144,7 @@
       <!--<Rabb /--Rabb Da Radio-->
       <!--<Ralph />--Ralph Breaks The Internet: Wreck-It -->
       <!--<JoanC />--Red Joan-->
+      <!--<Peppa />--Peppa Pig Festival of Fun-->
 
       <!--<Ring --Ring-->
       <!--Serenityx--Serenity -->
@@ -155,6 +153,7 @@
       <!--<SisterC />--The sisters Brother -->
 
       <!--<Spider />--Spider-Man Into The Spider-Verse -->
+      <!--<ShazamC />--Shazam-->
 
       <!--<StyxC />--Styx -->
       <!--<CorruptedC/>--The Corrupted-->
@@ -169,7 +168,6 @@
         <!--<Vice /--Vice-->
         <!--<Rose />----Wild Rose -->
         <!--<WeddingC />--Destination Wedding -->
-        <!--<UsC />--Us-->
 
       <!--<WonderC />--Wonder park -->
 
