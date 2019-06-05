@@ -4,7 +4,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas</h1>
     <br>
-    <h2>Wednesday 4th - Thursday 6th June 2019</h2>
+    <h2>Wednesday 5th - Thursday 6th June 2019</h2>
 
     <b-card-group deck
     class="mb-3">
