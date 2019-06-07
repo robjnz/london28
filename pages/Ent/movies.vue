@@ -311,7 +311,7 @@ import RocketmanC from '@/components/Films/Rocketman/RocketmanC'
 import BooksmartC from '@/components/Films/Booksmart/BooksmartC'
 import GodzillaC from '@/components/Films/Godzilla/GodzillaC'
 import MaC from '@/components/Films/Ma/MaC'
-import xmenC from '@/components/Films/xmen/xmenC'
+import xmenC from '@/components/Films/Xmen/xmenC'
 
 
 

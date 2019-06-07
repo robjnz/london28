@@ -40,13 +40,13 @@
 
 
 
-import xmenR from '@/components/Films/xmen/xmenR'
+import xmenR from '@/components/Films/Xmen/xmenR'
 import Nineteen from '@/components/Films/Year/Nineteen'
 import Cineworld from '@/components/Films/xmen/Cineworld'
-import Odeon from '@/components/Films/xmen/Odeon'
-import Picturehouses from '@/components/Films/xmen/Picturehouses'
-import Showcase from '@/components/Films/xmen/Showcase'
-import Vue from '@/components/Films/xmen/Vue'
+import Odeon from '@/components/Films/Xmen/Odeon'
+import Picturehouses from '@/components/Films/Xmen/Picturehouses'
+import Showcase from '@/components/Films/Xmen/Showcase'
+import Vue from '@/components/Films/Xmen/Vue'
 
 
 
