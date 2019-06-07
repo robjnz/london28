@@ -9,16 +9,15 @@
   <br><br>
 
 
-  <Date /><!--Date-->   
+
+  <Date /><!--Date-->
+  <Saturday />
+  <Sunday />
   <Monday />
   <Tuesday />
   <Wednesday />
   <Thursday />
-
-
-<!--<Friday />-->
-<!--<Saturday />-->
-<!--<Sunday />-->
+  <!--Friday />-->
   <br><br>
 
 

@@ -4,7 +4,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas</h1>
     <br>
-    <h2>Wednesday 5th - Thursday 6th June 2019</h2>
+    <h2>Wednesday 5th - Thursday 13th June 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -58,7 +58,7 @@
   <b-card-group deck
   class="mb-3 ">
     <WomanC /><!--Woman at war -->
-    <Blank />
+    <xmenC /><!--X men Dark Phoenix -->
     <Blank />
     </b-card-group>
 
@@ -131,7 +131,6 @@
     <!--<HellboyC />--Heliboy-->
 
       <!--Maiden --Maiden-->
-      <!--<MidC />--Mid 90s -->
 
       <!--<Milan -Milan Talkies-->
       <!--<MissingC />--Missing Link-->
@@ -312,6 +311,7 @@ import RocketmanC from '@/components/Films/Rocketman/RocketmanC'
 import BooksmartC from '@/components/Films/Booksmart/BooksmartC'
 import GodzillaC from '@/components/Films/Godzilla/GodzillaC'
 import MaC from '@/components/Films/Ma/MaC'
+import xmenC from '@/components/Films/xmen/xmenC'
 
 
 
@@ -464,6 +464,7 @@ export default {
     WeddingC,
     WomanC,
     WonderC,
+    xmenC,
       }
 }
 </script>

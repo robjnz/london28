@@ -56,79 +56,38 @@
   class="mb-3 ">
   <Shot /><!--Long shot-->
   <Maharshi /><!--Maharshi-->
-  <Mid /><!--Mid 90s -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <Missing /><!--Missing Link-->
-  <Pet /><!--Pet Sematary-->
-  <Pokemon /><!-- Pokemon Detective Pikachu-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Pokemon /><!-- Pokemon Detective Pikachu-->
   <Joan /><!--Red Joan-->
   <Second /><!--Second Act-->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Shazam /><!--Shazam-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Stan/><!--Stan & Ollie -->
-  <Styx /><!--Styx -->
   <Llorona /><!--The curse of la Llorona-->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-  <Favourite /><!--The Favourite -->
-  <Grinch /><!--The Grinch-->
   <Hole /><!--The Hole In The Ground-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
   <King /><!--The Kid Who Would Be King-->
-  <Teacher /><!--The Kinder Teacher -->
-  <Sister /><!--The sisters Brother -->
-  </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
   <Upside /><!--The Upside -->
   <Vanishing /><!--The Vanishing-->
-  <Tolkien /><!--Tolkien -->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-  <Had /><!--What They Had -->
+  <Tolkien /><!--Tolkien -->
   <Wonder /><!--Wonder park -->
   <Blank />
   </b-card-group>
 
 
-
-      <!--<Ml --90ML -->
-      <!--True --All Is True 12A"-->
-      <!--<Bell --Bell bottom-->
-      <!--Black --Blackklansman -->
-      <!--Burning --Burning-->
-      <!--<Dragonworld />--How to Train Your Dragon the Hidden -->
-
-      <!--<Fight --The Fight-->
-      <!--<Hannah --Hannah-->
-      <!--<Kobiety --Kobiety Mafii 2 -->
-      <!--kodathi --Kodathi Samaksham Balan Vakkeel-->
-      <!--Kumbalangi --Kumbalangi Nights-->
-      <!--Maiden --Maiden-->
-      <!--<Milan -Milan Talkies-->
-      <!--<Ralph --Ralph Breaks The Internet: Wreck-It -->
-      <!--<Ring --Ring-->
-      <!--Serenityx--Serenity -->
-      <!--<Kala /> Kala Shah Kala -->
-      <!--<Rose --Wild Rose -->
       </b-container>
       </section>
 
@@ -151,12 +110,10 @@ import Dragonball from '@/components/Films/Dragonball/Dragonball'
 import Colette from '@/components/Films/Colette'
 import Lego from '@/components/Films/Lego'
 import True from '@/components/Films/True'
-import Grinch from '@/components/Films/Grinch/Grinch'
 import Caper from '@/components/Films/Caper'
 import Black from '@/components/Films/Black'
 import War from '@/components/Films/War'
 import Aftermath from '@/components/Films/Aftermath'
-import Had from '@/components/Films/Had/Had'
 import Serenityx from '@/components/Films/Serenityx'
 import Gully from '@/components/Films/Gully'
 import Kala from '@/components/Films/Kala'
@@ -210,19 +167,12 @@ import Escape from '@/components/Films/Escape/Escape'
 import Dragonworld from '@/components/Films/Dragonworld/Dragonworld'
 import Peppa from '@/components/Films/Peppa/Peppa'
 import ShazamC from '@/components/Films/Shazam/ShazamC'
-import Pet from '@/components/Films/Pet/Pet'
 import Shazam from '@/components/Films/Shazam/Shazam'
 import King from '@/components/Films/King/King'
-import Sister from '@/components/Films/Sister/Sister'
 import Wonder from '@/components/Films/Wonder/Wonder'
-import Stan from '@/components/Films/Stan/Stan'
-import Mid from '@/components/Films/Mid/Mid'
-import Teacher from '@/components/Films/Teacher/Teacher'
-import Favourite from '@/components/Films/Favourite/Favourite'
 import Avengers from '@/components/Films/Avengers/Avengers'
 import Joan from '@/components/Films/Joan/Joan'
 import Missing from '@/components/Films/Missing/Missing'
-import Styx from '@/components/Films/Styx/Styx'
 import Llorona from '@/components/Films/Llorona/Llorona'
 import Pokemon from '@/components/Films/Pokemon/Pokemon'
 import Shot from '@/components/Films/Shot/Shot'
@@ -280,16 +230,13 @@ export default {
     Dumbo,
     Escape,
     Everybody,
-    Favourite,
     Fight,
     Fighting,
     Fisherman,
     Five,
     Glass,
-    Grinch,
     Guddiyan,
     Gully,
-    Had,
     Hannah,
     Happy,
     Hole,
@@ -311,14 +258,12 @@ export default {
     Maharshi,
     Marvel,
     MarvelC,
-    Mid,
     Milan,
     Missing,
     Ml,
     Mule,
     Notebook,
     Peppa,
-    Pet,
     Pokemon,
     Preview,
     Prodigy,
@@ -330,11 +275,7 @@ export default {
     Serenityx,
     Shazam,
     Shot,
-    Sister,
     Spider,
-    Stan,
-    Styx,
-    Teacher,
     Tolkien,
     Total,
     True,

@@ -11,13 +11,13 @@
 
 
 <Date /><!--Date-->
-<Monday />
+<Saturday />
+<!--<Sunday />-->
+<!--<Monday />-->
 <Tuesday />
 <Wednesday />
 <Thursday />
-<!--<Friday />-->
-<!--<Saturday />-->
-<!--<Sunday />-->
+<!--Friday />-->
   <br><br>
 
 
@@ -27,13 +27,13 @@
   <br><br>
 
 <Date /><!--Date-->
+<Saturday />
+<Sunday />
 <Monday />
 <Tuesday />
 <Wednesday />
 <Thursday />
-<!--<Friday />-->
-<!--<Saturday />-->
-<!--<Sunday />-->
+<!--Friday />-->
   <br><br>
 
 

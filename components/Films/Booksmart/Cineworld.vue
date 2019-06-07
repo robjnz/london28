@@ -8,15 +8,14 @@
 <br><br>
 
 <Date /><!--Date-->
-<Monday />
-<Tuesday />
-<Wednesday />
-<Thursday />
-<!--Friday-->
+
 <!--<Saturday />-->
 <!--<Sunday />-->
-
-
+<!--<Monday />-->
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--Friday />-->
 <br><br>
 
 
@@ -27,14 +26,14 @@
 
 
 <Date /><!--Date-->
+
+<Saturday />
+<!--<Sunday />-->
 <Monday />
 <Tuesday />
 <Wednesday />
 <Thursday />
-<!--<Friday />-->
-<!--<Saturday />-->
-<!--<Sunday />-->
-
+<!--Friday />-->
 
 
 
@@ -46,15 +45,13 @@
 <br><br>
 
 <Date /><!--Date-->
+<!--<Saturday />-->
+<!--<Sunday />-->
 <!--<Monday />-->
 <!--<Tuesday />-->
 <!--<Wednesday />-->
 <!--<Thursday />-->
-<!--<Friday />-->
-<!--<Saturday />-->
-<!--<Sunday />-->
-
-
+<!--Friday />-->
 <br><br>
 
 <b-button-group>
@@ -65,13 +62,14 @@
 
 
 <Date /><!--Date-->
-<Monday />
-<Tuesday />
-<Wednesday />
-<Thursday />
-<!--<Friday />-->
 <!--<Saturday />-->
 <!--<Sunday />-->
+<!--<Monday />-->
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--Friday />-->
+
 <br><br>
 
 </b-card>

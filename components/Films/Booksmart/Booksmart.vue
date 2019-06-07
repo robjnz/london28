@@ -9,7 +9,6 @@
     <p class="title-color">
       Academic overachievers Amy and Molly thought keeping their noses to the grindstone gave them a leg up on their high school peers. But on the eve of graduation, the best friends suddenly realize that they may have missed out on the special moments. Determined to make up for lost time, the girls decide to cram four years of not-to-be missed fun into one night.
     </p>
-    <b-button block href="/Movies/Booksmart" target="_blank" variant="info">Booksmart Showing This Week &rArr;</b-button>
 
 
 
