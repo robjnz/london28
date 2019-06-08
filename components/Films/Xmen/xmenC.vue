@@ -7,7 +7,7 @@
   ></b-embed>
 
     <p class="title-color">
-      Jean Grey, as she evolves into the iconic dark phoenix. During a life-threatening rescue mission in space, Jean is hit by a cosmic force that transforms her into one of the most powerful mutants of all. Wrestling with this increasingly unstable power as well as her own personal demons, Jean spirals out of control, tearing the X-Men family apart and threatening to destroy the very fabric of our planet.    </p>
+      Jean Grey, as she evolves into the iconic dark phoenix. During a life-threatening rescue mission in space, Jean is hit by a cosmic force that transforms her into one of the most powerful mutants of all. Wrestling with this increasingly unstable power as well as her own personal demons, Jean spirals out of control, tearing the Xmen family apart and threatening to destroy the very fabric of our planet.    </p>
     <b-button block href="/Movies/Xmen" target="_blank" variant="info">Xmen Showing This Week &rArr;</b-button>
 
 
