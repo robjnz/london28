@@ -7,15 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Sherlock Holmes The Sign of Four">
+<b-card bg-variant="dark" text-variant="white" title= "Future Faces - Bugsy Malone">
   <p class="title-color">
-  <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/7eiwlCWhRFQ"
-          allowfullscreen
-  ></b-embed>
+
     Broadway Theatre Barking<br>
-    Thurs 6 - Fri 7 June 2019
+    Sun 16 June 2019 @ 7.30pm
 
 
     </p>
@@ -33,11 +29,11 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Dave Chappelle">
+<b-card bg-variant="dark" text-variant="white" title= "Paul Chowdhry Live Innit">
   <p class="title-color">
 
     Hackney Empire<br>
-    Mon 03 - Tues 04 June 2019
+    15 Jun 2019 5pm & 9pm
 
     </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
@@ -48,20 +44,20 @@
         <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "100 Years of Jazz in Britain">
+<b-card bg-variant="dark" text-variant="white" title= "Chasing Rainbows">
   <p class="title-color">
     Hoxton Hall<br>
-    Sun 9 June 2019 @ 12.30pm & 3.15pm
+    Tue 25 June - Sat 20 July 2019
     </p>
     <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Copacabanna">
+<b-card bg-variant="dark" text-variant="white" title= "Imagine">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Thu 6 - Sat 8 June 2019
+    Fri 21 - Sat 22 June 2019
 
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
@@ -107,10 +103,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Tame Impala">
+<b-card bg-variant="dark" text-variant="white" title= "Mamma Mia! The Party">
   <p class="title-color">
     The O2 arena<br>
-    Sat 8 June 2019 @ 6.30 pm
+    Summer 2019 
 
     </p>
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>

@@ -21,7 +21,7 @@
 
   <h4 class="title-color"></h4>
   <b-button-group>
-    <xmenR />
+    <XmenR />
     <Nineteen />
   </b-button-group>
 
@@ -40,9 +40,9 @@
 
 
 
-import xmenR from '@/components/Films/Xmen/xmenR'
+import XmenR from '@/components/Films/Xmen/XmenR'
 import Nineteen from '@/components/Films/Year/Nineteen'
-import Cineworld from '@/components/Films/xmen/Cineworld'
+import Cineworld from '@/components/Films/Xmen/Cineworld'
 import Odeon from '@/components/Films/Xmen/Odeon'
 import Picturehouses from '@/components/Films/Xmen/Picturehouses'
 import Showcase from '@/components/Films/Xmen/Showcase'
@@ -62,7 +62,7 @@ export default {
     }
   },
   components: {
-    xmenR,
+    XmenR,
     Nineteen,
     Cineworld,
     Odeon,

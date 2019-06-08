@@ -3,12 +3,12 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Wednesday 5 June 2019</h2>
+    <h2>Wed 5 - Thurs 13 June 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
+    <BharatC /><!--Bharat-->
     <StudentC /><!--Student of the year 2 -->
-    <Blank />
     <Blank />
     </b-card-group>
 
@@ -206,6 +206,7 @@ import GallanC from '@/components/Films/Gallan/GallanC'
 import MaharshiC from '@/components/Films/Maharshi/MaharshiC'
 import PremakadhaC from '@/components/Films/Premakadha/PremakadhaC'
 import StudentC from '@/components/Films/Student/StudentC'
+import BharatC from '@/components/Films/Bharat/BharatC'
 
 
 
@@ -235,6 +236,7 @@ export default {
     BealeC,
     Bell,
     Ben,
+    BharatC,
     Black,
     Blank,
     BlackiaC,

@@ -58,7 +58,7 @@
   <b-card-group deck
   class="mb-3 ">
     <WomanC /><!--Woman at war -->
-    <xmenC /><!--X men Dark Phoenix -->
+    <XmenC /><!--X men Dark Phoenix -->
     <Blank />
     </b-card-group>
 
@@ -169,6 +169,7 @@
         <!--<WeddingC />--Destination Wedding -->
 
       <!--<WonderC />--Wonder park -->
+      <!--<Yesterday />--Yesterday-->
 
 
       </b-container>
@@ -311,7 +312,8 @@ import RocketmanC from '@/components/Films/Rocketman/RocketmanC'
 import BooksmartC from '@/components/Films/Booksmart/BooksmartC'
 import GodzillaC from '@/components/Films/Godzilla/GodzillaC'
 import MaC from '@/components/Films/Ma/MaC'
-import xmenC from '@/components/Films/Xmen/xmenC'
+import XmenC from '@/components/Films/Xmen/XmenC'
+import YesterdayC from '@/components/Films/Yesterday/YesterdayC'
 
 
 
@@ -464,7 +466,8 @@ export default {
     WeddingC,
     WomanC,
     WonderC,
-    xmenC,
+    XmenC,
+    YesterdayC,
       }
 }
 </script>

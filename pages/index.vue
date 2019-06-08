@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Sturday<br>8th June 2019</font></h1>
+    <h1> <font color="gold"><br>Sunday<br>9th June 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -17,22 +17,22 @@ Charlton Athletic F.C.‎ <br>Womans Team<br>V<br>Leicester City<br>
 </h3>
 -->
 <h3 class ="tory">
-<br>Aladdin<br>
+<br>Bharat<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/foyufD52aog"
+          src    = "https://www.youtube.com/embed/Ea_GKoe81GY"
           allowfullscreen
   ></b-embed>
     Showing today @
-  <br>Vue
+  <br>Cineworld
 
 <br>
-Statford
+Ilford
 
 </h3>
 
-<b-button href="https://kutt.it/vue-stratford" target="_blank" variant="info">open</b-button>
+<b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
 <br>
 <br>
 <!--
