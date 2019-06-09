@@ -21,7 +21,7 @@
 
   <h4 class="title-color"></h4>
   <b-button-group>
-    <XmenR />
+    <XmendarkR />
     <Nineteen />
   </b-button-group>
 
@@ -38,13 +38,13 @@
 <script>
 
 
-import XmenR from '@/components/Films/Xmen/XmenR'
+import XmendarkR from '@/components/Films/Xmendark/XmendarkR'
 import Nineteen from '@/components/Films/Year/Nineteen'
-import Cineworld from '@/components/Films/Xmen/Cineworld'
-import Odeon from '@/components/Films/Xmen/Odeon'
-import Picturehouses from '@/components/Films/Xmen/Picturehouses'
-import Showcase from '@/components/Films/Xmen/Showcase'
-import Vue from '@/components/Films/Xmen/Vue'
+import Cineworld from '@/components/Films/Xmendark/Cineworld'
+import Odeon from '@/components/Films/Xmendark/Odeon'
+import Picturehouses from '@/components/Films/Xmendark/Picturehouses'
+import Showcase from '@/components/Films/Xmendark/Showcase'
+import Vue from '@/components/Films/Xmendark/Vue'
 
 
 
@@ -60,7 +60,7 @@ export default {
     }
   },
   components: {
-    XmenR,
+    XmendarkR,
     Nineteen,
     Cineworld,
     Odeon,

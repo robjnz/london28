@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Wed 5 - Thurs 13 June 2019</h2>
+    <h2>Wednesday 5th - Thursday 13th June 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
