@@ -38,7 +38,7 @@ export default {
     return {
       titleTemplate: '%s todays events',
       meta         : [
-        { hid: 'description', name: 'description', content: 'This moths events in east London June 2019' }
+        { hid: 'description', name: 'description', content: 'This months events in east London June 2019' }
       ]
     }
   }
