@@ -18,14 +18,13 @@
 <Bexleyheathbutton />
 </b-button-group>
 <br><br>
-
-
-<Friday />
-<Saturday />
-<Sunday />
-<Monday />
-<Tuesday />
-<Wednesday />
+<!--<Sunday />-->
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
 
 <br><br>
 
@@ -35,12 +34,13 @@
 </b-button-group>
 <br><br>
 
-<Friday />
-<Saturday />
 <Sunday />
-<Monday />
-<Tuesday />
-<Wednesday />
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
 
 <br><br>
 
@@ -49,14 +49,13 @@
 <Ilfordbutton />
 </b-button-group>
 <br><br>
-
-
-<Friday />
-<Saturday />
-<Sunday />
-<Monday />
-<Tuesday />
-<Wednesday />
+<!--<Sunday />-->
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
 
 <br><br>
 
@@ -67,13 +66,13 @@
 
   <br><br>
 
-
-<Friday />
-<Saturday />
-<Sunday />
-<Monday />
-<Tuesday />
-<Wednesday />
+<!--<Sunday />-->
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
 <br><br>
 
   <h4 class="title-color">Odeon</h4>
@@ -84,12 +83,13 @@
   <br><br>
 
 
-  <Friday />
-  <Saturday />
-  <Sunday />
-  <Monday />
-  <Tuesday />
-  <Wednesday />
+  <!--<Sunday />-->
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
 <!--Southwoodford -->
@@ -97,14 +97,13 @@
   <Osouthbutton />
   </b-button-group>
   <br><br>
-
-
-  <Friday />
-  <Saturday />
-  <Sunday />
-  <Monday />
-  <Tuesday />
-  <Wednesday />
+<!--<Sunday />-->
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
   <h4 class="title-color">Picturehouses</h4>
@@ -114,13 +113,13 @@
   </b-button-group>
 <br><br>
 
-
-  <Friday />
-  <Saturday />
-  <!--<Sunday />-->
-  <Monday />
-  <Tuesday />
-  <Wednesday />
+<!--<Sunday />-->
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
 <!--Hackney -->
@@ -130,14 +129,13 @@
 
 <br><br>
 
-
-
-  <Friday />
-  <Saturday />
-  <Sunday />
-  <Monday />
-  <Tuesday />
-  <Wednesday />
+<!--<Sunday />-->
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
 <!--stratford-->
@@ -146,13 +144,13 @@
   </b-button-group>
   <br><br>
 
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <!--<Thursday />-->
-  <Friday />
-  <Saturday />
-  <Sunday />
+ <!--<Sunday />-->
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
   <h4 class="title-color">Showcase</h4>
@@ -161,15 +159,13 @@
   <Newhambutton />
   </b-button-group>
   <br><br>
-
-
-
-  <Friday />
-  <Saturday />
-  <Sunday />
-  <Monday />
-  <Tuesday />
-  <Wednesday />
+<Sunday />
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
   <h4 class="title-color">Vue</h4>
@@ -179,13 +175,13 @@
   </b-button-group>
   <br><br>
 
-
-  <Friday />
-  <Saturday />
-  <Sunday />
-  <Monday />
-  <Tuesday />
-  <Wednesday />
+<Sunday />
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
   <!--Stratford -->
@@ -194,12 +190,13 @@
   </b-button-group>
   <br><br>
 
-  <Friday />
-  <Saturday />
   <Sunday />
-  <Monday />
-  <Tuesday />
-  <Wednesday />
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
   <h4 class="title-color"></h4>

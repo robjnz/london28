@@ -9,13 +9,13 @@
   <br><br>
 
   <Date />
-  <Sunday />
-  <Monday />
-  <Tuesday />
-  <Wednesday />
-  <Thursday />
-  <!--<Friday />-->
-  <!--<Saturday />-->
+ <!--<Sunday />-->
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
 
@@ -25,13 +25,13 @@
   <br><br>
 
   <Date />
-  <Sunday />
-  <Monday />
-  <Tuesday />
-  <Wednesday />
-  <Thursday />
-  <!--<Friday />-->
-  <!--<Saturday />-->
+ <Sunday />
+<!--<Monday />--> 
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
 
