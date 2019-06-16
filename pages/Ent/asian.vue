@@ -3,12 +3,19 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Sunday 16th June 2019</h2>
+    <h2>Sunday 16th - Thursday 20th June 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
     <BharatC /><!--Bharat-->
-    <StudentC /><!--Student of the year 2 -->
+    <ChhalawaC /><!--Chhalawa-->
+    <DastaanC /><!--Dastaan-E-Miri Piri -->
+    </b-card-group>
+
+    <b-card-group deck
+  class="mb-3 ">
+    <GameC /><!--Game Over-->
+    <Blank />
     <Blank />
     </b-card-group>
 
@@ -18,6 +25,7 @@
     <!--<KalankC />--Kalank-->
 
     <!--<MaharshiC />--Maharshi-->
+    <!--<StudentC />--Student of the year 2 -->
 
 
 
@@ -207,6 +215,9 @@ import MaharshiC from '@/components/Films/Maharshi/MaharshiC'
 import PremakadhaC from '@/components/Films/Premakadha/PremakadhaC'
 import StudentC from '@/components/Films/Student/StudentC'
 import BharatC from '@/components/Films/Bharat/BharatC'
+import ChhalawaC from '@/components/Films/Chhalawa/ChhalawaC'
+import DastaanC from '@/components/Films/Dastaan/DastaanC'
+import GameC from '@/components/Films/Game/GameC'
 
 
 
@@ -248,6 +259,7 @@ export default {
     Bumblebee,
     Burning,
     Caper,
+    ChhalawaC,
     Cold,
     Colette,
     Creed,
@@ -257,6 +269,7 @@ export default {
     DogC,
     Dragonworld,
     DragonworldC,
+    DastaanC,
     Escape,
     EscapeC,
     Everybody,
@@ -272,6 +285,7 @@ export default {
     FiveC,
     Forgive,
     GallanC,
+    GameC,
     Glass,
     GlassC,
     Green,

@@ -12,7 +12,7 @@
 
 <Date />
 <!--<Sunday />-->
-<!--<Monday />--> 
+<!--<Monday />-->
 <!--<Tuesday />-->
 <!--<Wednesday />-->
 <!--<Thursday />-->
@@ -31,10 +31,11 @@
 
 <Date />
 <Sunday />
-<!--<Monday />--> 
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<!--<Thursday />-->
+<Monday />
+<Tuesday />
+<Wednesday />
+<Thursday />
+
 <!--<Friday />-->
 <!--<Saturday />-->
 
@@ -49,10 +50,10 @@
 
 <Date />
 <Sunday />
-<!--<Monday />--> 
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<!--<Thursday />-->
+<Monday />
+<Tuesday />
+<Wednesday />
+<Thursday />
 <!--<Friday />-->
 <!--<Saturday />-->
 
@@ -69,7 +70,7 @@
 
 <Date />
 <!--<Sunday />-->
-<!--<Monday />--> 
+<!--<Monday />-->
 <!--<Tuesday />-->
 <!--<Wednesday />-->
 <!--<Thursday />-->

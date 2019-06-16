@@ -8,16 +8,14 @@
   </b-button-group>
   <br><br>
 
-
-
- <!-- <Friday />-->
-  <!--<Saturday />-->
   <Date /><!--Date-->
-  <!--<Sunday />-->
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <Wednesday />
-  <!--<Thursday />-->
+<!--<Sunday />-->
+<!--<Monday />-->
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
 
@@ -25,15 +23,14 @@
   <Vstratford /><!--Stratford -->
   </b-button-group>
   <br><br>
-
-  <Friday />
-  <Saturday />
-  <Date /><!--Date-->
-  <Sunday />
-  <Monday />
-  <Tuesday />
-  <Wednesday />
-  <!--<Thursday />-->
+<Date /><!--Date-->
+<!--<Sunday />-->
+<!--<Monday />-->
+<!--<Tuesday />-->
+<!--<Wednesday />-->
+<!--<Thursday />-->
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
 

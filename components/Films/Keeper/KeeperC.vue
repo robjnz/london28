@@ -38,7 +38,7 @@
 
   <h4 class="title-color">Showcase</h4>
   <b-button-group>
-  <Newhambutton />
+  <!--<Newhambutton />-->
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>

@@ -10,13 +10,14 @@
 
 
 <Date /><!--Date-->
-  <Saturday />
+
   <Sunday />
   <Monday />
   <Tuesday />
   <Wednesday />
   <Thursday />
-<!--Friday />-->
+  <!--Friday />-->
+  <!--<Saturday />-->
 <br><br>
 
 
@@ -27,13 +28,14 @@
 
 
 <Date /><!--Date-->
-  <Saturday />
+
   <Sunday />
   <Monday />
   <Tuesday />
   <Wednesday />
   <Thursday />
-<!--Friday />-->
+  <!--Friday />-->
+  <!--<Saturday />-->
 
 <br><br>
 
@@ -41,16 +43,15 @@
 <Ilfordbutton /><!--Ilford -->
 </b-button-group>
 <br><br>
-
-
 <Date /><!--Date-->
-  <Saturday />
+
   <Sunday />
   <Monday />
   <Tuesday />
   <Wednesday />
   <Thursday />
-<!--Friday />-->
+  <!--Friday />-->
+  <!--<Saturday />-->
 
 <br><br>
 
@@ -59,15 +60,15 @@
   </b-button-group>
 
   <br><br>
-
 <Date /><!--Date-->
-  <Saturday />
+
   <Sunday />
   <Monday />
   <Tuesday />
   <Wednesday />
   <Thursday />
   <!--Friday />-->
+  <!--<Saturday />-->
 <br><br>
 
 </b-card>

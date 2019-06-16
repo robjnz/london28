@@ -20,20 +20,20 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Improvised Therapy">
+<b-card bg-variant="dark" text-variant="white" title= "Sirens">
   <p class="title-color">
     Greenwich Theatre<br>
-    Tues 11 June 2019 @7.30pm
+    Thurs 20 - Sun 23 June 2019 @7.30pm
     </p>
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Paul Chowdhry Live Innit">
+<b-card bg-variant="dark" text-variant="white" title= "An Evening with Sandi Toksvig">
   <p class="title-color">
 
     Hackney Empire<br>
-    15 Jun 2019 5pm & 9pm
+    Thurs 27 June 2019 7.30pm
 
     </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
@@ -106,7 +106,7 @@
 <b-card bg-variant="dark" text-variant="white" title= "Mamma Mia! The Party">
   <p class="title-color">
     The O2 arena<br>
-    Summer 2019 
+    Summer 2019
 
     </p>
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>

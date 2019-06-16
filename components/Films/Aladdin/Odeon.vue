@@ -7,12 +7,12 @@
  </b-button-group>
   <br><br>
 
-<Date /><!--Date-->
+<Date />
 <Sunday />
-<!--<Monday />--> 
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<!--<Thursday />-->
+<Monday />
+<Tuesday />
+<Wednesday />
+<Thursday />
 <!--<Friday />-->
 <!--<Saturday />-->
   <br><br>
@@ -23,12 +23,12 @@
   </b-button-group>
   <br><br>
 
-<Date /><!--Date-->
+<Date />
 <Sunday />
-<!--<Monday />--> 
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<!--<Thursday />-->
+<Monday />
+<Tuesday />
+<Wednesday />
+<Thursday />
 <!--<Friday />-->
 <!--<Saturday />-->
   <br><br>

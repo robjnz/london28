@@ -26,7 +26,7 @@
 
   <b-card-group deck
   class="mb-3 ">
-  <Marvel /><!-- Captain Marvel --> 
+  <Marvel /><!-- Captain Marvel -->
   <Dragonball /><!--Dragon Ball Super -->
   <Dumbo /><!--Dumbo -->
   </b-card-group>
@@ -62,29 +62,29 @@
   <b-card-group deck
   class="mb-3 ">
   <Pokemon /><!-- Pokemon Detective Pikachu-->
+  <Rocketman /><!--Rocketman -->
   <Joan /><!--Red Joan-->
-  <Second /><!--Second Act-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Second /><!--Second Act-->
   <Shazam /><!--Shazam-->
   <Llorona /><!--The curse of la Llorona-->
-  <Hole /><!--The Hole In The Ground-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Hole /><!--The Hole In The Ground-->
   <King /><!--The Kid Who Would Be King-->
   <Upside /><!--The Upside -->
-  <Vanishing /><!--The Vanishing-->
   </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+  <Vanishing /><!--The Vanishing-->
   <Tolkien /><!--Tolkien -->
   <Wonder /><!--Wonder park -->
-  <Blank />
   </b-card-group>
 
 
@@ -94,7 +94,8 @@
 </template>
 
 <script>
-
+import nineteenB from '@/pages/Ent/nineteenB'
+import eighteenB from '@/pages/Ent/eighteenB'
 import Alert from '@/components/Films/Alert/Alert'
 import Second from '@/components/Films/Second/Second'
 import Mule from '@/components/Films/Mule'
@@ -184,8 +185,7 @@ import Breakthrough from '@/components/Films/Breakthrough/Breakthrough'
 import Johnwick from '@/components/Films/Johnwick/Johnwick'
 import Aladdin from '@/components/Films/Aladdin/Aladdin'
 import Booksmart from '@/components/Films/Booksmart/Booksmart'
-import nineteenB from '@/pages/Ent/nineteenB'
-import eighteenB from '@/pages/Ent/eighteenB'
+import Rocketman from '@/components/Films/Rocketman/Rocketman'
 
 
 
@@ -270,6 +270,7 @@ export default {
     Rabb,
     Ralph,
     Ring,
+    Rocketman,
     Rose,
     Second,
     Serenityx,

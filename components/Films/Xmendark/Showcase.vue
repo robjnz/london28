@@ -8,16 +8,15 @@
   </b-button-group>
   <br><br>
 
+<Date />
 
-    
-    <Date /><!--Date-->
-    <Saturday />
-    <Sunday />
-    <Monday />
-    <Tuesday />
-    <Wednesday />
-    <!--<Thursday />-->
-    <!--Friday />-->
+<Sunday />
+<Monday />
+<Tuesday />
+<Wednesday />
+<Thursday />
+<!--<Friday />-->
+<!--<Saturday />-->
   <br><br>
 
 

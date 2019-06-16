@@ -10,8 +10,8 @@ Ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old
 
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
-<Bexleyheathbutton />
-<!--<Greenwichbutton />-->
+<!--<Bexleyheathbutton />-->
+<Greenwichbutton />
   </b-button-group>
 <br><br>
 <b-button-group>
