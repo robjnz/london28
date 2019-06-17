@@ -7,11 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Future Faces - Bugsy Malone">
+<b-card bg-variant="dark" text-variant="white" title= "UBAH in Prison">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Sun 16 June 2019 @ 7.30pm
+    Thurs 20 Jun 2019 @ 7pm
 
 
     </p>
@@ -64,18 +64,14 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Charge">
+<b-card bg-variant="dark" text-variant="white" title= "Bugsy Malone">
 
 
   <p class="title-color">
-    <b-embed type = "iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/sXYFAjzNtXs"
-          allowfullscreen
-  ></b-embed>
+
 
     Queen's Theatre Hornchurch<br>
-    Tues 11 June 2019 @ 7.30pm
+    Wed 26 - Sat 29 June 2019
 
     </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
@@ -86,17 +82,12 @@
 
     <b-card-group deck
       class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "King Hedley II">
+  <b-card bg-variant="dark" text-variant="white" title= "Noye's Fludde">
   <p class="title-color">
       <p class="title-color">
-    <b-embed type = "iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/XYM4rYtOVkI"
-          allowfullscreen
-  ></b-embed>
 
     Theatre Royal Stratford East<br>
-    Fri 17 May - Sat 15 June 2019
+    Mon 01 - Sat 13 July 2019
 
     </p>
     <b-button href="https://kutt.it/stratfordeastT" target="_blank" variant="info">open</b-button>
