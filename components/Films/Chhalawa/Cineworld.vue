@@ -40,10 +40,10 @@
 </b-button-group>
 <br><br>
 
-<Date /><!--Date-->
-<Sunday />
-<Monday />
-<Tuesday />
+<Date />
+<!--<Sunday />-->
+<!--<Monday />-->
+<!--<Tuesday />-->
 <!--<Wednesday />-->
 <!--<Thursday />-->
 <!--<Friday />-->

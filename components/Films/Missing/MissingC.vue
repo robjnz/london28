@@ -9,7 +9,7 @@
 <h4 class="title-color">Cineworld</h4>
 <b-button-group>
 <!--<Bexleyheathbutton />-->
-<Greenwichbutton />
+<!--<Greenwichbutton />-->
   </b-button-group>
 <br><br>
 <b-button-group>
@@ -20,7 +20,7 @@
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
  <Ogreenwichbutton />
-  <Osouthbutton />
+  <!--<Osouthbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Picturehouses</h4>

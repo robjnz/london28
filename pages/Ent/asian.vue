@@ -3,28 +3,33 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Sunday 16th - Thursday 20th June 2019</h2>
+    <h2>Sunday 23rd June 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
     <BharatC /><!--Bharat-->
-    <ChhalawaC /><!--Chhalawa-->
-    <DastaanC /><!--Dastaan-E-Miri Piri -->
+    <KabirC /><!--Kabir Singh -->
+    <MaharshiC /><!--Maharshi-->
     </b-card-group>
+
 
     <b-card-group deck
   class="mb-3 ">
-    <GameC /><!--Game Over-->
-    <Blank />
-    <Blank />
+  <MundaC /><!--Munda Faridkotia -->
+  <ShadaaC /><!--Shadaa-->
+  <Blank />
     </b-card-group>
 
     <!--Asian movies-->
+    <!--<ChhalawaC />--Chhalawa-->
+    <!--<DastaanC />--Dastaan-E-Miri Piri -->
+
     <!--<GallanC />--Dil Diyan Gallan -->
+    <!--<GameC />--Game Over-->
+
     <!--<BlackiaC />--Blackia-->
     <!--<KalankC />--Kalank-->
 
-    <!--<MaharshiC />--Maharshi-->
     <!--<StudentC />--Student of the year 2 -->
 
 
@@ -218,6 +223,9 @@ import BharatC from '@/components/Films/Bharat/BharatC'
 import ChhalawaC from '@/components/Films/Chhalawa/ChhalawaC'
 import DastaanC from '@/components/Films/Dastaan/DastaanC'
 import GameC from '@/components/Films/Game/GameC'
+import KabirC from '@/components/Films/Kabir/KabirC'
+import MundaC from '@/components/Films/Munda/MundaC'
+import ShadaaC from '@/components/Films/Shadaa/ShadaaC'
 
 
 
@@ -296,6 +304,7 @@ export default {
     Happy,
     HappyC,
     HellboyC,
+    KabirC,
     Kala,
     KalankC,
     KanchanaC,
@@ -322,6 +331,7 @@ export default {
     MissingC,
     Ml,
     Mule,
+    MundaC,
     NadhooC,
     Notebook,
     Peppa,
@@ -338,6 +348,7 @@ export default {
     Scots,
     ScotsC,
     Serenityx,
+    ShadaaC,
     ShazamC,
     SherdilC,
     SisterC,

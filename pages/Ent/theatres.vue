@@ -7,11 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "UBAH in Prison">
+<b-card bg-variant="dark" text-variant="white" title= "Fusion">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Thurs 20 Jun 2019 @ 7pm
+    Mon 24 Jun 2019 @ 7pm
 
 
     </p>
@@ -20,10 +20,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Sirens">
+<b-card bg-variant="dark" text-variant="white" title= "M.E.H.">
   <p class="title-color">
     Greenwich Theatre<br>
-    Thurs 20 - Sun 23 June 2019 @7.30pm
+    Thurs 27 - Sat 29 June 2019
     </p>
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
@@ -53,11 +53,11 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Imagine">
+<b-card bg-variant="dark" text-variant="white" title= "The Sound Of Music">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Fri 21 - Sat 22 June 2019
+    Thu 4 - Sat 6 July 2019 @ 7.30pm
 
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
@@ -94,26 +94,21 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Mamma Mia! The Party">
+<b-card bg-variant="dark" text-variant="white" title= "Cirque du Soleil Toruk">
   <p class="title-color">
     The O2 arena<br>
-    Summer 2019
+    Wed 26 - Sun 30 June 2019
 
     </p>
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Armadillo">
+<b-card bg-variant="dark" text-variant="white" title= "Beauty & The Beat Beauty">
   <p class="title-color">
-<b-embed type = "iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/RPfTLX-mxGQ"
-          allowfullscreen
-  ></b-embed>
 
     The Yard Hackney<br>
-    Thurs 30 May — Sat 22 June 2019
+    Sat 29 June 2019 @ 10pm
 
     </p>
     <b-button href="https://kutt.it/yardT" target="_blank" variant="info">open</b-button>

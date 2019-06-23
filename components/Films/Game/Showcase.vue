@@ -8,7 +8,7 @@
   </b-button-group>
   <br><br>
 <Date /><!--Date-->
-<!--<Sunday />-->
+<Sunday />
 <!--<Monday />-->
 <!--<Tuesday />-->
 <!--<Wednesday />-->

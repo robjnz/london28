@@ -16,12 +16,12 @@ Ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old
 <br><br>
 <b-button-group>
 <Ilfordbutton />
-<Westbutton />
+<!--<Westbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Odeon</h4>
   <b-button-group>
- <Ogreenwichbutton />
+ <!--<Ogreenwichbutton />-->
   <!--<Osouthbutton />-->
   </b-button-group>
 
@@ -32,12 +32,12 @@ Ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old
   </b-button-group>
 <br><br>
   <b-button-group>
-  <Pstratfordbutton />
+  <!--<Pstratfordbutton />-->
   </b-button-group>
 
   <h4 class="title-color">Showcase</h4>
   <b-button-group>
-  <Newhambutton />
+  <!--<Newhambutton />-->
   </b-button-group>
 
   <h4 class="title-color">Vue</h4>

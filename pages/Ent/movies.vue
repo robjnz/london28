@@ -4,7 +4,7 @@
   <b-container>
     <h1 class="title-color">Movies showing today @ east London cinemas</h1>
     <br>
-    <h2>Sunday 16th - Thursday 20th June 2019</h2>
+    <h2>Sunday 23rd June 2019</h2>
 
     <b-card-group deck
     class="mb-3">
@@ -22,37 +22,37 @@
 
   <b-card-group deck
   class="mb-3 ">
-    <EighthC /><!--Eighth Grade -->
     <GodzillaC /><!--Godzilla king Of The Monsters -->
     <JohnwickC /><!--Johnwick Parbellum -->
-    </b-card-group>
+    <Lego /><!--Lego2-->
+     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <Lego /><!--Lego2-->
     <LittleC /><!--Little -->
+    <ShotC /><!--Long shot-->
     <MaC /><!--Ma-->
-    </b-card-group>
+     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
     <MissingC /><!--Missing Link-->
-    <Peppa /><!--Peppa Pig Festival of Fun-->
     <PawpupsC /><!--Paw Patrol Mighty Pups -->
-    </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <PokemonC /><!-- Pokemon Detective Pikachu-->
-    <RocketmanC /><!--Rocketman -->
-    <ShazamC /><!--Shazam-->
-</b-card-group>
+     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
+    <RocketmanC /><!--Rocketman -->
     <PetstwoC /><!--The Secret Life of Pets 2 -->
     <WonderC /><!--Wonder park -->
+     </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
     <XmendarkC /><!--X men Dark Phoenix -->
+    <Blank />
+    <Blank />
     </b-card-group>
 
 
@@ -86,6 +86,7 @@
 
       <!--<Dragon --Dragon Ball Super -->
       <!--<DragonworldC /--How to Train Your Dragon the Hidden -->
+      <!--<EighthC />--Eighth Grade -->
 
       <!--<EscapeC --Escape Room -->
       <!--<Lion /--Eaten by Lion -->
@@ -116,12 +117,12 @@
       <!--<LloronaC />--The curse of la Llorona-->
 
       <!--<Luka />--Luka Chuppi  -->
-<!--<Lords /--Lords of chaos-->
+      <!--<Lords /--Lords of chaos-->
+      <!--<Peppa />--Peppa Pig Festival of Fun-->
 
       <!--<Bala --Miss Bala-->
   <!--<FavouriteC />--The Favourite -->
     <!--<HellboyC />--Heliboy-->
-    <!--<ShotC />--Long shot-->
 
       <!--Maiden --Maiden-->
 
@@ -152,6 +153,7 @@
 
       <!--<HustleC />--The Hustle-->
       <!--<KeeperC />--The Keeper -->
+      <!--<ShazamC />--Shazam-->
 
       <!--<Total /><-Total Dhamal  -->
       <!--<TolkienC />--Tolkien-->

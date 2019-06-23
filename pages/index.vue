@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Saturday<br>22th June 2019</font></h1>
+    <h1> <font color="gold"><br>Sunday<br>23rd June 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -17,11 +17,11 @@ Charlton Athletic F.C.‎ <br>Womans Team<br>V<br>Leicester City<br>
 </h3>
 -->
 <h3 class ="tory">
-<br>X men Dark Phoenix<br>
+<br>Kabir Singh<br>
 
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/whoVmwVKYJE"
+          src    = "https://www.youtube.com/embed/RiANSSgCuJk"
           allowfullscreen
   ></b-embed>
     Showing today @
