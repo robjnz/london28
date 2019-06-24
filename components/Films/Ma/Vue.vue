@@ -10,7 +10,7 @@
 
 <Date /><!--Date-->
 
-  <Sunday />
+  <!--<Sunday />-->
   <!--<Monday />-->
   <!--<Tuesday />-->
   <!--<Wednesday />-->
@@ -27,11 +27,11 @@
 
     <Date /><!--Date-->
 
-  <Sunday />
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <!--<Thursday />-->
+  <!--<Sunday />-->
+  <Monday />
+  <Tuesday />
+  <Wednesday />
+  <Thursday />
   <!--Friday />-->
   <!--<Saturday />-->
   <br><br>

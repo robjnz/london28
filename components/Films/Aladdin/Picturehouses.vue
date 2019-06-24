@@ -9,7 +9,7 @@
 <br><br>
 
 <Date />
-<Sunday />
+<!--<Sunday />-->
 <!--<Monday />-->
 <!--<Tuesday />-->
 <!--<Wednesday />-->
@@ -27,7 +27,7 @@
 <br><br>
 
 <Date />
-<Sunday />
+<!--<Sunday />-->
 <!--<Monday />-->
 <!--<Tuesday />-->
 <!--<Wednesday />-->
@@ -43,11 +43,11 @@
   <br><br>
 
   <Date />
-<Sunday />
-<!--<Monday />-->
+<!--<Sunday />-->
+<Monday />
 <!--<Tuesday />-->
 <!--<Wednesday />-->
-<!--<Thursday />-->
+<Thursday />
 <!--<Friday />-->
 <!--<Saturday />-->
   <br><br>

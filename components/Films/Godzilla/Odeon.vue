@@ -8,13 +8,13 @@
   <br><br>
 
 <Date /><!--Date-->
-  <Sunday />
-  <!--<Monday />-->
-  <!--<Tuesday />-->
-  <!--<Wednesday />-->
-  <!--<Thursday />-->
+  <!--<Sunday />-->
+  <Monday />
+  <Tuesday />
+  <Wednesday />
+  <Thursday />
   <!--Friday />-->
-  <!--<Saturday />--> 
+  <!--<Saturday />-->
   <br><br>
 
 

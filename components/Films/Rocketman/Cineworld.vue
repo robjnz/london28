@@ -8,11 +8,11 @@
 <br><br>
 
 <Date /><!--Date-->
-<Sunday />
-<!--<Monday />-->
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<!--<Thursday />-->
+<!--<Sunday />-->
+<Monday />
+<Tuesday />
+<Wednesday />
+<Thursday />
 <!--<Friday />-->
 <!--<Saturday />-->
 
@@ -26,11 +26,11 @@
 
 
 <Date /><!--Date-->
-<Sunday />
-<!--<Monday />-->
-<!--<Tuesday />-->
-<!--<Wednesday />-->
-<!--<Thursday />-->
+<!--<Sunday />-->
+<Monday />
+<Tuesday />
+<Wednesday />
+<Thursday />
 <!--<Friday />-->
 <!--<Saturday />-->
 
@@ -62,9 +62,9 @@
 
 
 <Date /><!--Date-->
-<Sunday />
-<!--<Monday />-->
-<!--<Tuesday />-->
+<!--<Sunday />-->
+<Monday />
+<Tuesday />
 <!--<Wednesday />-->
 <!--<Thursday />-->
 <!--<Friday />-->
