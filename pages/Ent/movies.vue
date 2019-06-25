@@ -9,54 +9,21 @@
     <b-card-group deck
     class="mb-3">
     <AladdinC /><!--Aladdin-->
-    <GraceC /><!--Amazing Grace-->
-    <AvengersC /><!--Avengers Endgame -->
+    <BooksmartC /><!--booksmart-->
+    <GodzillaC /><!--Godzilla king Of The Monsters -->
     </b-card-group>
 
   <b-card-group deck
   class="mb-3 ">
-    <BooksmartC /><!--booksmart-->
-    <BreakthroughC /> <!--Breakthrough -->
-    <DumboC /><!--Dumbo -->
-</b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <GodzillaC /><!--Godzilla king Of The Monsters -->
-    <JohnwickC /><!--Johnwick Parbellum -->
-    <Lego /><!--Lego2-->
-     </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <LittleC /><!--Little -->
-    <ShotC /><!--Long shot-->
     <MaC /><!--Ma-->
-     </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
-    <MissingC /><!--Missing Link-->
-    <PawpupsC /><!--Paw Patrol Mighty Pups -->
-    <PokemonC /><!-- Pokemon Detective Pikachu-->
-     </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <RocketmanC /><!--Rocketman -->
-    <PetstwoC /><!--The Secret Life of Pets 2 -->
-    <WonderC /><!--Wonder park -->
-     </b-card-group>
-
-  <b-card-group deck
-  class="mb-3 ">
     <XmendarkC /><!--X men Dark Phoenix -->
-    <Blank />
-    <Blank />
     </b-card-group>
 
 
       <!--<Ml --90ML -->
+      <!--<AvengersC />--Avengers Endgame -->
+
       <!--<True />--All Is True-->
       <!--<DogC />-A Dog's Way Home-->
 
@@ -67,20 +34,24 @@
       <!--<Badla ---Badia -->
       <!--<Border --Border -->
       <!-- <BlueC />--Out Of Blue -->
-
+      <!--<BreakthroughC />--Breakthrough -->
+      <!--<DumboC />--Dumbo -->
 
       <!--<Bell --Bell bottom-->
       <!--<Aquaman --Aquaman -->
       <!--<Band /--Band Vaaje-->
       <!--<CantoC />--Bel Canto -->
-
+      <!--<LittleC />--Little -->
+      <!--<ShotC />--Long shot-->
       <!--<ConcreteC /--Dragged Across Concrete -->
 
       <!--<BealeC --If Beale Street Could talk-->
 
       <!--Black --Blackklansman -->
       <!--<BoyC /--Beautiful Boy -->
-
+      <!--<GraceC />--Amazing Grace-->
+      <!--<JohnwickC />--Johnwick Parbellum -->
+      <!--<Lego />--Lego2-->
       <!--Burning --Burning-->
       <!--<Caper />--Capernaum -->
 
@@ -90,10 +61,13 @@
 
       <!--<EscapeC --Escape Room -->
       <!--<Lion /--Eaten by Lion -->
-
+      <!--<MissingC />--Missing Link-->
+      <!--<PawpupsC />--Paw Patrol Mighty Pups -->
+      <!--<PokemonC />-- Pokemon Detective Pikachu-->
       <!--<EverybodyC />--Everybody Knows -->
       <!--<FamilyC /--Instant Family  -->
-
+      <!--<PetstwoC />--The Secret Life of Pets 2 -->
+      <!--<WonderC />--Wonder park -->
       <!--<FightingC /--Fighting With My Family -->
       <!--<Fisherman />--Fisherman’s Friend -->
       <!--<GretaC /--Greta -->
