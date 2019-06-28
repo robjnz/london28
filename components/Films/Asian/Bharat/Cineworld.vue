@@ -47,13 +47,14 @@
 
 
 <Date />
-<!--<Sunday />-->
+<Saturday />
+<Sunday />
 <Monday />
 <Tuesday />
-<Wednesday />
-<Thursday />
+<!--<Wednesday />-->
+<!--<Thursday />-->
 <!--<Friday />-->
-<!--<Saturday />-->
+
 
 
 <br><br>

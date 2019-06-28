@@ -40,13 +40,13 @@
 
 
 
-import BharatR from '@/components/Films/Bharat/BharatR'
+import BharatR from '@/components/Films/Asian/Bharat/BharatR'
 import Nineteen from '@/components/Films/Year/Nineteen'
-import Cineworld from '@/components/Films/Bharat/Cineworld'
-import Odeon from '@/components/Films/Bharat/Odeon'
-import Picturehouses from '@/components/Films/Bharat/Picturehouses'
-import Showcase from '@/components/Films/Bharat/Showcase'
-import Vue from '@/components/Films/Bharat/Vue'
+import Cineworld from '@/components/Films/Asian/Bharat/Cineworld'
+import Odeon from '@/components/Films/Asian/Bharat/Odeon'
+import Picturehouses from '@/components/Films/Asian/Bharat/Picturehouses'
+import Showcase from '@/components/Films/Asian/Bharat/Showcase'
+import Vue from '@/components/Films/Asian/Bharat/Vue'
 
 
 

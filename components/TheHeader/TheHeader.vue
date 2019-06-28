@@ -56,7 +56,7 @@
 
       <b-nav-item-dropdown text="Entertainment" right>
         <b-dropdown-item href="/Ent/cinemas">Cinemas</b-dropdown-item>
-        <b-dropdown-item href="/Ent/movies">Movies on Today</b-dropdown-item>
+        <!--<b-dropdown-item href="/Ent/movies">Movies on Today</b-dropdown-item>-->
         <b-dropdown-item href="/Ent/asian">Asian Movies on Today</b-dropdown-item>
         <b-dropdown-item href="/Ent/free-movies">Movies free to watch online</b-dropdown-item>
         <b-dropdown-item href="/Ent/night">Nightclubs</b-dropdown-item>

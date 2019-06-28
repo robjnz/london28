@@ -33,7 +33,7 @@
 
 
 
-import BharatR from '@/components/Films/Bharat/BharatR'
+import BharatR from '@/components/Films/Asian/Bharat/BharatR'
 import Nineteen from '@/components/Films/Year/Nineteen'
 
 

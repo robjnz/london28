@@ -3,7 +3,7 @@
   <b-container>
     <h1 class="title-color">Asian Movies showing today @ east London cinemas </h1>
     <br>
-    <h2>Sunday 23rd - Thursday 27th June 2019</h2>
+    <h2>Saturday 29th June - Wednesday 3rd July 2019</h2>
 
   <b-card-group deck
   class="mb-3 ">
@@ -219,11 +219,11 @@ import GallanC from '@/components/Films/Gallan/GallanC'
 import MaharshiC from '@/components/Films/Maharshi/MaharshiC'
 import PremakadhaC from '@/components/Films/Premakadha/PremakadhaC'
 import StudentC from '@/components/Films/Student/StudentC'
-import BharatC from '@/components/Films/Bharat/BharatC'
+import BharatC from '@/components/Films/asian/Bharat/BharatC'
 import ChhalawaC from '@/components/Films/Chhalawa/ChhalawaC'
 import DastaanC from '@/components/Films/Dastaan/DastaanC'
 import GameC from '@/components/Films/Game/GameC'
-import KabirC from '@/components/Films/Kabir/KabirC'
+import KabirC from '@/components/Films/Asian/Kabir/KabirC'
 import MundaC from '@/components/Films/Munda/MundaC'
 import ShadaaC from '@/components/Films/Shadaa/ShadaaC'
 

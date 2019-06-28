@@ -41,11 +41,11 @@
 
 
 import Nineteen from '@/components/Films/Year/Nineteen'
-import Cineworld from '@/components/Films/Kabir/Cineworld'
-import Odeon from '@/components/Films/Kabir/Odeon'
-import Picturehouses from '@/components/Films/Kabir/Picturehouses'
-import Showcase from '@/components/Films/Kabir/Showcase'
-import Vue from '@/components/Films/Kabir/Vue'
+import Cineworld from '@/components/Films/Asian/Kabir/Cineworld'
+import Odeon from '@/components/Films/Asian/Kabir/Odeon'
+import Picturehouses from '@/components/Films/Asian/Kabir/Picturehouses'
+import Showcase from '@/components/Films/Asian/Kabir/Showcase'
+import Vue from '@/components/Films/Asian/Kabir/Vue'
 
 
 
