@@ -24,18 +24,24 @@
           <p>Eltham</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2Egwh3o" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1522836710/Clive_Efford_ujkjzb.jpg" fluid-grow alt="Clive Efford MP Eltham "/></a>
+    <b-button block href="http://bit.ly/effordvote" target="_blank" variant="info">Clive Efford voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Teresa Pearce MP">
   <p>Erith & Thamesmead</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2OhkwOE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1516967810/Teresa_Pearce_tsxxty.jpg" fluid-grow alt="Teresa Pearce MP Erith & Thamesmead" /></a>
+    <b-button block href="http://bit.ly/pearcevote" target="_blank" variant="info">Teresa Pearce voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Matthew Pennycook MP">
   <p>Greenwich & Woolwich</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2yu4aaJ" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1522837170/pennycook_njkaco.jpg" fluid-grow alt="Matthew Pennycook MP Greenwich & Woolwich" /></a>
+    <b-button block href="http://bit.ly/pennycookvote" target="_blank" variant="info">Matthew Pennycook voting Record &rArr;</b-button>
+
 </b-card>
 
   </b-card-group>

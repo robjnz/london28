@@ -24,12 +24,16 @@
           <p> West Ham</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2yRERjc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1523375559/lyn_brown_m9l0ly.jpg" fluid-grow alt="Lyn Brown MP west ham "/></a>
+            <b-button block href="http://bit.ly/brownvote" target="_blank" variant="info">Lyn Brown voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Stephen Timms MP">
   <p>East Ham</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2Ow1WT7" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1523375100/timms_ffq0zs.jpg" fluid-grow alt="Stephen Timms MP East Ham "/></a>
+            <b-button block href="http://bit.ly/timmesvote" target="_blank" variant="info">Stephen Timms voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Unmesh Desai AM">

@@ -24,12 +24,16 @@
         <p>Hackney North & Stoke Newington</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2OUUqAq" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1518970119/abbott_epnzxr.jpg" fluid-grow alt="Diane Abbott MP Hackney North & Stoke Newington"/></a>
+    <b-button block href="http://bit.ly/abbottvote" target="_blank" variant="info">Diane Abbott voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Meg Hillier MP">
 <p> Hackney South & Shoreditch</p>
-<p       class="labour">Labour</p>
-<a       href="http://bit.ly/2QKiEdR" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1518970496/Hillier_vd9kdp.jpg" fluid-grow alt="Meg Hillier MP Hackney South & Shoreditch"/></a>
+<p class="labour">Labour</p>
+<a href="http://bit.ly/2QKiEdR" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1518970496/Hillier_vd9kdp.jpg" fluid-grow alt="Meg Hillier MP Hackney South & Shoreditch"/></a>
+    <b-button block href="http://bit.ly/hilliervote" target="_blank" variant="info">Meg Hillier voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Jennette Arnold AM">

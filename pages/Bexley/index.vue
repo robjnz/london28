@@ -24,18 +24,24 @@
           <p>Old Bexley & Sidcup</p>
         <p class="tory">Conservative</p>
         <a href="http://bit.ly/2QGOOXP" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_180,w_200/v1516967072/brokenshire_f5tawg.jpg" fluid-grow alt="James Brokenshire MP Old Bexley & Sidcup"/></a>
+    <b-button block href="http://bit.ly/brokenshirevote" target="_blank" variant="info">James Brokenshire voting Record &rArr;</b-button>
+
 </b-card>
 
         <b-card  bg-variant="dark" text-variant="white" title="David Evennett MP">
           <p>Bexleyheath & Crayford</p>
         <p class="tory">Conservative</p>
 <a href="http://bit.ly/2OkY4Ex" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_180,w_200/v1516967470/evennett_zrvmj5.jpg" fluid-grow alt="David Evennett MP Bexleyheath and Crayford" /></a>
+    <b-button block href="http://bit.ly/evennettvote" target="_blank" variant="info">David Evennett voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Teresa Pearce MP">
 <p>Erith & Thamesmead</p>
-<p       class="labour">Labour</p>
-<a       href="http://bit.ly/2OhkwOE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1516967810/Teresa_Pearce_tsxxty.jpg" fluid-grow alt="Teresa Pearce MP Erith & Thamesmead" /></a>
+<p class="labour">Labour</p>
+<a href="http://bit.ly/2OhkwOE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1516967810/Teresa_Pearce_tsxxty.jpg" fluid-grow alt="Teresa Pearce MP Erith & Thamesmead" /></a>
+    <b-button block href="http://bit.ly/pearcevote" target="_blank" variant="info">Teresa Pearce voting Record &rArr;</b-button>
+
 </b-card>
 
   </b-card-group>
@@ -46,6 +52,7 @@
         <p>Bexley & Bromley</p>
         <p class="tory">Conservative</p>
         <a href="http://bit.ly/2pKZHMI" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1519145579/bacon_l7lpqe.jpg" fluid-grow alt="Gareth Bacon AM Bexley and Bromley"/></a>
+
 </b-card>
 
         <b-card  bg-variant="dark" text-variant="white" title="">

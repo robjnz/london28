@@ -24,18 +24,24 @@
         <p>Dagenham & Rainham</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2pBDAZa" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1538814068/cruddas_lagghr.jpg" fluid-grow alt="Jon Cruddas mp Dagenham and Rainham"/></a>
+            <b-button block href="http://bit.ly/cruddasvote" target="_blank" variant="info">Jon Cruddas voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Julia Lopez MP">
 <p>Hornchurch & Upminster</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2PuG4UE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_180,w_200/v1518367706/Lopez_v6rgkf.jpg" fluid-grow alt="Julia Lopez MP Hornchurch & Upminster"/></a>
+            <b-button block href="http://bit.ly/lopezvote" target="_blank" variant="info">Julia Lopez voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Andrew Rosindell MP">
   <p>Romford</p>
 <p class="tory">Conservative</p>
 <a href="http://bit.ly/2Om9LdU" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1518368168/Rosindell_shwekz.jpg" fluid-grow alt="Andrew Rosindell MP Romford"/></a>
+            <b-button block href="http://bit.ly/rossindalevote" target="_blank" variant="info">Andrew Rosindell voting Record &rArr;</b-button>
+
 </b-card>
 
   </b-card-group>

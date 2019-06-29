@@ -26,12 +26,16 @@
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2pBDAZa" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1538814068/cruddas_lagghr.jpg" fluid-grow alt="Jon Cruddas mp
             Dagenham and Rainham"/></a>
+            <b-button block href="http://bit.ly/cruddasvote" target="_blank" variant="info">Jon Cruddas voting Record &rArr;</b-button>
+
 </b-card>
 
         <b-card  bg-variant="dark" text-variant="white" title="Margaret Hodge MP">
           <p> Barking & Dagenham</p>
         <p class="labour">Labour</p>
 <a href="http://bit.ly/2y2xPs2" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1538813775/hodges_stl9fq.jpg" fluid-grow alt="Margaret Hodge MP Barking and Dagenham" /></a>
+    <b-button block href="http://bit.ly/hodgevote" target="_blank" variant="info">Margaret Hodge voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Unmesh Desai AM">

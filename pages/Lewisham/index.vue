@@ -24,18 +24,24 @@
           <p> Lewisham East</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2CMJFum" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1539712225/daby_jbuhjq.jpg" fluid-grow alt="Janet Daby MP Lewisham East"/></a>
+            <b-button block href="http://bit.ly/dabyvote" target="_blank" variant="info">Janet Daby voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Vicky Foxcroft MP">
   <p>Lewisham Deptford</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2AeiXrZ" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1539792210/foxcroft_gtcs2q.jpg" fluid-grow alt="Vicky Foxcroft MP Lewisham Deptford"/></a>
+            <b-button block href="http://bit.ly/foxcroftvote" target="_blank" variant="info">Vicky Foxcroft voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Ellie Reeves MP">
   <p>Lewisham West and Penge</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2AfdIIB" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1539799072/reeves_q6m3ir.jpg" fluid-grow alt="Ellie Reeves MP Lewisham West and Penge"/></a>
+            <b-button block href="http://bit.ly/reevesvote" target="_blank" variant="info">Ellie Reeves voting Record &rArr;</b-button>
+
 </b-card>
 
   </b-card-group>

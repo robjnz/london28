@@ -24,7 +24,7 @@
         <p>Leyton & Wanstead</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2yxdL1f" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517232186/John_Cryer_m1bo60.jpg" fluid-grow alt="John Cryer MP Leyton & Wanstead"/></a>
-<b-button block href="http://bit.ly/2FGp7DB" target="_blank" variant="info">John Cryer voting Record &rArr;</b-button>
+<b-button block href="https://kutt.it/cryervote" target="_blank" variant="info">John Cryer voting Record &rArr;</b-button>
 
 </b-card>
 
@@ -32,7 +32,7 @@
  <p>Ilford South</p>
 <p class="labour">The Independent Group</p>
 <a href="http://bit.ly/2NdB2eT" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces:auto,h_180,w_200/v1517232454/gapes_uaqlub.jpg" fluid-grow alt="Mike Gapes MP Ilford South"/></a>
-<b-button block href="http://bit.ly/2KNCZjM" target="_blank" variant="info">Mike Gapes voting Record &rArr;</b-button>
+<b-button block href="https://kutt.it/gapesvote" target="_blank" variant="info">Mike Gapes voting Record &rArr;</b-button>
 
 </b-card>
 
@@ -40,7 +40,7 @@
  <p> Chingford & Woodford Green</p>
 <p class="tory">Conservative</p>
 <a href="http://bit.ly/2OJDsGd" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517232998/smithmp_v5ecrw.jpg" fluid-grow alt="Iain D Smith MP Chingford & Woodford Green"/></a>
-<b-button block href="http://bit.ly/31WTK1a" target="_blank" variant="info">Iain D Smith voting Record &rArr;</b-button>
+<b-button block href="https://kutt.it/smithvote" target="_blank" variant="info">Iain D Smith voting Record &rArr;</b-button>
 
 </b-card>
 
@@ -52,7 +52,7 @@
         <p> Ilford North</p>
         <p class="labour">Labour</p>
         <a href="http://bit.ly/2yUzf7z" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517233222/streeting_pmfcgu.jpg" fluid-grow alt="Wes Streeting MP Ilford North "/></a>
-<b-button block href="http://bit.ly/2X5w8nu" target="_blank" variant="info">Wes streeting voting Record &rArr;</b-button>
+<b-button block href="https://kutt.it/streetingvote" target="_blank" variant="info">Wes streeting voting Record &rArr;</b-button>
 
 </b-card>
 

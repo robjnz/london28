@@ -25,12 +25,16 @@
     <p>Leyton & Wanstead</p>
     <p class="labour">Labour</p>
     <a href="http://bit.ly/2yxdL1f" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517232186/John_Cryer_m1bo60.jpg" fluid-grow alt="John Cryer MP Leyton & Wanstead"/></a>
+<b-button block href="https://kutt.it/cryervote" target="_blank" variant="info">John Cryer voting Record &rArr;</b-button>
+
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Stella Creasy MP">
 <p> Walthamstow</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2R9U2f0" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1521566375/creasy_kki6qh.jpg" fluid-grow alt="Stella Creasy MP Walthamstow"/></a>
+<b-button block href="http://bit.ly/creasyvote" target="_blank" variant="info">Stella Creasy voting Record &rArr;</b-button>
+
 </b-card>
 
 
@@ -38,6 +42,8 @@
 <p> Chingford & Woodford Green</p>
 <p class="tory">Conservative</p>
 <a href="http://bit.ly/2OJDsGd" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1517232998/smithmp_v5ecrw.jpg" fluid-grow alt="Iain D Smith MP Chingford & Woodford Green"/></a>
+<b-button block href="https://kutt.it/smithvote" target="_blank" variant="info">Iain D Smith voting Record &rArr;</b-button>
+
 </b-card>
 
     </b-card-group>
