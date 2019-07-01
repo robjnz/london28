@@ -4,7 +4,7 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Sunday<br>30th June 2019</font></h1>
+    <h1> <font color="gold"><br>Monday<br>1st July 2019</font></h1>
     <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
 </h2>
 <!--
@@ -16,25 +16,7 @@ Charlton Athletic F.C.‎ <br>Womans Team<br>V<br>Leicester City<br>
 <b-button href="https://kutt.it/orient-women" target="_blank" variant="info">open</b-button>
 </h3>
 -->
-<h3 class ="tory">
-<br>Kabir Singh<br>
 
-<b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/RiANSSgCuJk"
-          allowfullscreen
-  ></b-embed>
-    Showing today @
-  <br>Cineworld
-
-<br>
-Ilford
-
-</h3>
-
-<b-button href="https://kutt.it/cineworld-ilford" target="_blank" variant="info">open</b-button>
-<br>
-<br>
 <!--
 <h3 class ="asian">
 <br>Maharshi<br>
