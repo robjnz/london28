@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">This months events in East London</h1>
-    <h2>June 2019</h2>
+    <h2>July 2019</h2>
     <br>
     <b-card-group deck
 class="mb-3">
