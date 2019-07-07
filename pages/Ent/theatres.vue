@@ -7,11 +7,11 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Fusion">
+<b-card bg-variant="dark" text-variant="white" title= "The Wiz">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Mon 24 Jun 2019 @ 7pm
+    Sat 20 & Sun 21 July 2019 @ 3 pm
 
 
     </p>
@@ -20,20 +20,20 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "M.E.H.">
+<b-card bg-variant="dark" text-variant="white" title= "10 Things I Hate about Taming of the Shrew.">
   <p class="title-color">
     Greenwich Theatre<br>
-    Thurs 27 - Sat 29 June 2019
+    Tuesday 16 July 2019 @ 7.30pm
     </p>
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "An Evening with Sandi Toksvig">
+<b-card bg-variant="dark" text-variant="white" title= "Avenue Q">
   <p class="title-color">
 
     Hackney Empire<br>
-    Thurs 27 June 2019 7.30pm
+    Mon 19 - Sat 24 Aug - 7.30pm
 
     </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
@@ -46,6 +46,11 @@
 
 <b-card bg-variant="dark" text-variant="white" title= "Chasing Rainbows">
   <p class="title-color">
+    <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/AG074obtosk"
+          allowfullscreen
+  ></b-embed>
     Hoxton Hall<br>
     Tue 25 June - Sat 20 July 2019
     </p>
@@ -53,25 +58,33 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Sound Of Music">
+<b-card bg-variant="dark" text-variant="white" title= "Tina Turner Experience">
 
   <p class="title-color">
+    <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/mlQBlQ-Z94Q"
+          allowfullscreen
+  ></b-embed>
     Kenneth More Theatre Ilford<br>
-    Thu 4 - Sat 6 July 2019 @ 7.30pm
+    Sat 27 July @ 7.30pm
 
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Bugsy Malone">
+<b-card bg-variant="dark" text-variant="white" title= "The Carpenters">
 
 
   <p class="title-color">
-
-
+<b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/8JM2BTCNnH0"
+          allowfullscreen
+  ></b-embed>
     Queen's Theatre Hornchurch<br>
-    Wed 26 - Sat 29 June 2019
+    Mon 8 July 2019 @ 7.30pm
 
     </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
@@ -94,10 +107,10 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Cirque du Soleil Toruk">
+<b-card bg-variant="dark" text-variant="white" title= "Kiss">
   <p class="title-color">
     The O2 arena<br>
-    Wed 26 - Sun 30 June 2019
+    Thur 11 July 2019 @ 6.30pm
 
     </p>
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
