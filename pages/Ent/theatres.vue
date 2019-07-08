@@ -78,7 +78,7 @@
 
 
   <p class="title-color">
-<b-embed type="iframe"
+<b-embed type = "iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/8JM2BTCNnH0"
           allowfullscreen
