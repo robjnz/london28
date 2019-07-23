@@ -4,9 +4,10 @@
 
       <br><br>
     <b-badge pill variant="dark">
-    <h1> <font color="gold"><br>Friday<br>19th July 2019</font></h1>
-    <h2> What’s on today @ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
-</h2>
+      <br><br><br>
+<!--<h1> <font color="gold"><br>Friday<br>19th July 2019</font></h1>-->
+    <h1> What’s on today <br>@ <br>the local cinemas,<br> theatres & nightclubs, <br>football matches & <br>places to visit <br>for days out <br>in east London.
+</h1>
 <!--
 <h3 class="title-color">
 
