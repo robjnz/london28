@@ -418,7 +418,7 @@ export default {
     return {
       titleTemplate: '%s Support Groups',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Links to Support Groups for various disabilities and illnesses in east London ' }
+        { hid: 'description', name: 'description', content: 'Support Groups for various disabilities and illnesses in east London ' }
       ]
     }
   }

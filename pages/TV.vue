@@ -57,7 +57,7 @@ export default {
     return {
       titleTemplate: '%s tv & movies',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Links to the tv guide, free online movie chanels, 123 Movies, Yesmovies, BBC I Player and more!' }
+        { hid: 'description', name: 'description', content: 'tv guide, free online movie chanels, 123 Movies, Yesmovies, BBC I Player and more!' }
       ]
     }
   }

@@ -67,15 +67,18 @@
 </template>
 
 <script>
-import Slider from '@/pages/Barking/Slider'
-
-
-
 export default {
-  components: {
-    Slider,
+  head () {
+    return {
+      titleTemplate: '%s Barking',
+      meta         : [
+        { hid: 'description', name: 'description', content: 'Barking east London places to visit theatres, cinemas, historical and eat, information on local mp and newspaper' }
+      ]
+    }
   }
 }
 </script>
+
+
 
 

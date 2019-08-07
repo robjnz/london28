@@ -2,29 +2,42 @@
 <section main>
   <b-container>
     <h1 class="title-color">What on this month @ East London Theatres</h1>
-    <h2>July 2019</h2>
+    <h2>August 2019</h2>
     <br>
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "The Wiz">
+<b-card bg-variant="dark" text-variant="white" title= "Shadow of the Past">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Sat 20 & Sun 21 July 2019 @ 3 pm
-
-
+    Fri 6 Sep 2019 @ 8pm
     </p>
+<p class="asian">
+    Shadow of the Past is a movie full of comedy, romance and suspense.  A beautiful girl called Rachel who has a terrible past and has been abused by her uncle and her auntie has turned a blind eye.  She fell in love with a man called Mike who seemed to love her but as time goes on she realised the love was false.
+</p>
+
+<p class="labour">
+  £20 per person
+  </p>
 
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "10 Things I Hate about Taming of the Shrew.">
+<b-card bg-variant="dark" text-variant="white" title= "Shane Mauss & Adam Strauss">
   <p class="title-color">
     Greenwich Theatre<br>
-    Tuesday 16 July 2019 @ 7.30pm
+    Thurs 15 Aug 2019 @ 7.30pm
     </p>
+<p class="asian">
+    Shane Mauss and Adam Strauss a fantastic night of Psychedelic Comedy.
+</p>
+<br><br><br><br><br><br>
+<p class="labour">
+  £41 per person
+  </p>
+
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
 </b-card>
@@ -176,7 +189,7 @@ export default {
     return {
       titleTemplate: '%s theatres',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, July 2019, Hackney empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
+        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, August 2019, Hackney empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
       ]
     }
   }

@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">This months events in East London</h1>
-    <h2>July 2019</h2>
+    <h2>August 2019</h2>
     <br>
     <b-card-group deck
 class="mb-3">
@@ -38,7 +38,7 @@ export default {
     return {
       titleTemplate: '%s todays events',
       meta         : [
-        { hid: 'description', name: 'description', content: 'This months events in east London June 2019' }
+        { hid: 'description', name: 'description', content: 'This months events in east London August 2019' }
       ]
     }
   }
