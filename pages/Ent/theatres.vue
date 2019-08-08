@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">What on this month @ East London Theatres</h1>
-    <h2>August 2019</h2>
+    <h2>August - September 2019</h2>
     <br>
     <b-card-group deck
       class="mb-3">
@@ -49,6 +49,13 @@
     Mon 19 - Sat 24 Aug - 7.30pm
 
     </p>
+    <p class="asian">
+This cheekily charming musical tells the story of the loveable characters on a downtown New York street trying to make sense of life’s burning issues – like what do you do with a BA in English? How do you find your purpose?
+</p>
+<br><br><br>
+<p class="labour">
+
+  </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
 
 </b-card>
@@ -57,31 +64,37 @@
         <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Chasing Rainbows">
+<b-card bg-variant="dark" text-variant="white" title= "Walking to Jerusalem">
   <p class="title-color">
-    <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/AG074obtosk"
-          allowfullscreen
-  ></b-embed>
     Hoxton Hall<br>
-    Tue 25 June - Sat 20 July 2019
+    Thu 19 - Fri 20 Sept 2019 @ 7.30pm
     </p>
+
+    <p class="asian">
+      This is their story – walking journals and travellers’ tales on paths of pilgrimage and conquest, from monasteries and mountain passes to Bedouin camps and desert wadis across Europe and the Middle East — brought to life in a playful and inventive blend of theatre and stand-up.
+      </p>
+
+      <p class="labour">
+      From £15 per person
+      <br>
+      Running Time 75min
+  </p>
     <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Tina Turner Experience">
+<b-card bg-variant="dark" text-variant="white" title= "A Night To Remember">
 
   <p class="title-color">
-    <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/mlQBlQ-Z94Q"
-          allowfullscreen
-  ></b-embed>
     Kenneth More Theatre Ilford<br>
-    Sat 27 July @ 7.30pm
+    Sun 25 August 2019
 
+</p>
+<p class="asian">
+Redbridge Theatre Company invite you to their final ever performance at the KMT. With over 16,000 performances since the Theatre opened we mark our departure by celebrating the remarkable people and productions that have made the KMT one of the most cherished and creative community theatres in the UK.
+</p>
+<p class="labour">
+£25.00 per person
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 
@@ -189,7 +202,7 @@ export default {
     return {
       titleTemplate: '%s theatres',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, August 2019, Hackney empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
+        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, August & September 2019, Hackney empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
       ]
     }
   }
