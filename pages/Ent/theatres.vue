@@ -94,25 +94,30 @@ This cheekily charming musical tells the story of the loveable characters on a d
 Redbridge Theatre Company invite you to their final ever performance at the KMT. With over 16,000 performances since the Theatre opened we mark our departure by celebrating the remarkable people and productions that have made the KMT one of the most cherished and creative community theatres in the UK.
 </p>
 <p class="labour">
-£25.00 per person
+£25 per person
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Carpenters">
+<b-card bg-variant="dark" text-variant="white" title= "The Music of Bob Marley">
 
 
   <p class="title-color">
-<b-embed type = "iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/8JM2BTCNnH0"
-          allowfullscreen
-  ></b-embed>
+
     Queen's Theatre Hornchurch<br>
-    Mon 8 July 2019 @ 7.30pm
+    Fri 16 Aug 2019 @ 7.30pm
 
     </p>
+    </p>
+<p class="asian">
+Legend, the music of Bob Marley is an unforgettable evening celebrating this musical icon in one fantastic stage show extravaganza. Combining his superb, distinctive vocals with flawless musicianship, and a supremely talented cast.
+</p>
+<br>
+<p class="labour">
+From £20 per person<br>
+Running time 140 minutes
+</p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 
 </b-card>
@@ -121,35 +126,66 @@ Redbridge Theatre Company invite you to their final ever performance at the KMT.
 
     <b-card-group deck
       class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Noye's Fludde">
-  <p class="title-color">
+  <b-card bg-variant="dark" text-variant="white" title= "Our Lady of Kibeho">
+  <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/pWJOJX8zwXs"
+          allowfullscreen
+  ></b-embed>
       <p class="title-color">
 
     Theatre Royal Stratford East<br>
-    Mon 01 - Sat 13 July 2019
+    Wed 25 Sept – Sat 02 Nov 2019 @ 7.30pm
 
     </p>
+
+    <p class="asian">
+In 1981 at Kibeho College in Rwanda, a young girl claimed to have seen a vision of the Virgin Mary who warned her of the unimaginable: Rwanda becoming hell on earth. She was ignored by her friends and scolded by her school but then another student saw the vision, and another, and the impossible appeared to be true.</p>
+<p class="labour">
+From £10 per person<br>
+Running Time 2 hours 35 mins 
+</p>
     <b-button href="https://kutt.it/stratfordeastT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Kiss">
+<b-card bg-variant="dark" text-variant="white" title= "Aloha from Hawaii starring Gordon Hendricks">
   <p class="title-color">
     The O2 arena<br>
-    Thur 11 July 2019 @ 6.30pm
+    18 Aug 2019 @ 7pm
 
     </p>
+    <p class="asian">
+    This show in a full first half takes you through the 1968 special and Elvis in Concert period into a special acoustic section where beautiful ballads and gospel songs are presented with an intimacy that leaves the audience in raptures. You will hear many favourites like In The Ghetto, Pocket Full of Rainbows, If I Can Dream, Little Sister, Return to Sender, along with further favourites in a full 60 minutes of pure ELVIS joy.
+    </p>
+    <p class="labour">
+
+</p>
+    <br><br><br><br><br><br>
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Beauty & The Beat Beauty">
+<b-card bg-variant="dark" text-variant="white" title= "All of me by Caroline Horton">
+<b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://player.vimeo.com/video/327895659"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
 
     The Yard Hackney<br>
-    Sat 29 June 2019 @ 10pm
+    Tues 10 — Sat 28 Sept @ 10pm
 
     </p>
+<p class="asian">
+    An intimate and absurd exploration of wanting to live, wanting to die and what can happen if we sit together with the dark. 
+    </p>
+    <br><br><br><br><br><br>
+     <p class="labour">
+     From £13 per person
+</p>
+    
     <b-button href="https://kutt.it/yardT" target="_blank" variant="info">open</b-button>
 
 </b-card>

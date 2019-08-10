@@ -4,9 +4,6 @@
 <h1>Football Clubs in East London</h1>
 <h2>Home Matches</h2>
 
-
-<br>
-<br>
 <h1 class="title-color">Barking & Dagenham</h1>
 <div>
 
@@ -210,7 +207,7 @@ head () {
 return {
 titleTemplate: '%s Football',
 meta         : [
-      { hid: 'description', name: 'description', content: 'East London Football, Home Matches, 2019' }
+      { hid: 'description', name: 'description', content: 'East London Football, Home Matches, 2019 - 2020' }
       ]
 }
 },
