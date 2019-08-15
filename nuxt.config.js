@@ -43,7 +43,8 @@ module.exports = {
   */
   modules: [
     // Doc: https://bootstrap-vue.js.org/docs/
-    'bootstrap-vue/nuxt'
+    'bootstrap-vue/nuxt',
+    'portal-vue/nuxt'
   ],
 
   /*
