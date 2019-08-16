@@ -8,12 +8,17 @@
   <br><br>
   <b-card-group deck
   class="mb-3 ">
+  <Thrones /><!--Game of Thrones-->
   <Grimm /><!--Grimm-->
   <Homeland /><!--Homeland -->
+  </b-card-group>
+
+  <b-card-group deck
+  class="mb-3 ">
   <Handmaid /><!--The Handmaid's Tale-->
-  
-  
- 
+  <Blank />
+  <Blank />
+
   </b-card-group>
 
 
@@ -24,8 +29,9 @@
 </template>
 
 <script>
-import Grimm from '@/components/series/Grimm/Grimm'
-import Handmaid from '@/components/series/Handmaid/Handmaid'
+import Thrones from '@/components/series/Thrones'
+import Grimm from '@/components/series/Grimm'
+import Handmaid from '@/components/series/Handmaid'
 import Homeland from '@/components/series/Homeland'
 import Blank from '@/components/Films/Blank'
 
@@ -40,7 +46,7 @@ export default {
     return {
       titleTemplate: '%s Free-Tv Series',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Free Tv series to watch online Grimm, Homeland, The Handmaids Tale' }
+        { hid: 'description', name: 'description', content: 'Free Tv series to watch online Game of Thrones, Grimm, Homeland, The Handmaids Tale' }
       ]
     }
   },
@@ -49,6 +55,7 @@ export default {
     Grimm,
     Handmaid,
     Homeland,
+    Thrones,
       }
 }
 </script>

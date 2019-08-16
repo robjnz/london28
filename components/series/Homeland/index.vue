@@ -6,7 +6,7 @@
           allowfullscreen
   ></b-embed>
     <p class="title-color">
-When Marine Sgt. Nicholas Brody returns home following eight years in captivity, CIA agent Carrie Mathison thinks he has turned and is connected to a terror plot to be carried out on American soil, so she engages him in a dangerous game of cat and mouse. 
+When Marine Sgt. Nicholas Brody returns home following eight years in captivity, CIA agent Carrie Mathison thinks he has turned and is connected to a terror plot to be carried out on American soil, so she engages him in a dangerous game of cat and mouse.
 </p>
 <br><br><br><br><br><br><br>
 
@@ -18,18 +18,7 @@ When Marine Sgt. Nicholas Brody returns home following eight years in captivity,
 <b-button block href="http://bit.ly/2Z5KzZQ" target="_blank" variant="info">Series 6 &rArr;</b-button>
 <b-button block href="http://bit.ly/2OY9gHR" target="_blank" variant="info">Series 7 &rArr;</b-button>
 <br><br>
-<div>
-  <b-button v-b-toggle.collapse-1 variant="primary">Toggle Collapse</b-button>
-  <b-collapse id="collapse-1" class="mt-2">
-    <b-card>
-      <p class="asian">Collapse contents Here</p>
-      <b-button v-b-toggle.collapse-1-inner size="sm">Toggle Inner Collapse</b-button>
-      <b-collapse id="collapse-1-inner" class="mt-2">
-        <b-card>Hello!</b-card>
-      </b-collapse>
-    </b-card>
-  </b-collapse>
-</div>
+
 </b-card>
 
 </template>

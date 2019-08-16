@@ -35,7 +35,7 @@
 
   </p>
   <b-button-group>
-  <b-button href="https://kutt.it/123movies" target="_blank" variant="info">123 Movies</b-button>
+  <b-button href="http://bit.ly/2ZbdiAk" target="_blank" variant="info">123 Movies</b-button>
   <b-button href="https://kutt.it/hdonline" target="_blank" variant="info">HD Online</b-button>
   <b-button href="http://www0.yesmovies.net" target="_blank" variant="info">Yesmovies </b-button>
   </b-button-group>
