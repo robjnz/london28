@@ -6,9 +6,11 @@
           allowfullscreen
   ></b-embed>
     <p class="title-color">
-Portland detective Nick Burkhardt, descended from a long line of warriors known as Grimms, defends his city from magical creatures known as Wesen, which are part human and part animal. Fighting alongside his partner, Hank, colleague Sergeant Wu and friends Monroe and Rosalee, Nick faces off against internal and external forces, including his police captain, Sean Renard.
 </p>
-<br><br><br>
+<div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="Portland detective Nick Burkhardt, descended from a long line of warriors known as Grimms, defends his city from magical creatures known as Wesen, which are part human and part animal. Fighting alongside his partner, Hank, colleague Sergeant Wu and friends Monroe and Rosalee, Nick faces off against internal and external forces, including his police captain, Sean Renard.">Description Read Me</b-button>
+</div>
+
 <b-button block href="http://bit.ly/2Mj6Jpw" target="_blank" variant="info">Series 1 &rArr;</b-button>
 <b-button block href="http://bit.ly/30brsPq" target="_blank" variant="info">Series 2 &rArr;</b-button>
 <b-button block href="http://bit.ly/2MiLKTK" target="_blank" variant="info">Series 3 &rArr;</b-button>

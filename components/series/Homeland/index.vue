@@ -6,9 +6,10 @@
           allowfullscreen
   ></b-embed>
     <p class="title-color">
-When Marine Sgt. Nicholas Brody returns home following eight years in captivity, CIA agent Carrie Mathison thinks he has turned and is connected to a terror plot to be carried out on American soil, so she engages him in a dangerous game of cat and mouse.
 </p>
-<br><br><br><br><br><br><br>
+<div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="When Marine Sgt. Nicholas Brody returns home following eight years in captivity, CIA agent Carrie Mathison thinks he has turned and is connected to a terror plot to be carried out on American soil, so she engages him in a dangerous game of cat and mouse.">Description Read Me</b-button>
+</div>
 
 <b-button block href="http://bit.ly/2KBUsdC" target="_blank" variant="info">Series 1 &rArr;</b-button>
 <b-button block href="http://bit.ly/2z39Sko" target="_blank" variant="info">Series 2 &rArr;</b-button>

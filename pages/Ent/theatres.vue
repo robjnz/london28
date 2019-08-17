@@ -14,8 +14,10 @@
     Fri 6 Sep 2019 @ 8pm
     </p>
 <p class="asian">
-    Shadow of the Past is a movie full of comedy, romance and suspense.  A beautiful girl called Rachel who has a terrible past and has been abused by her uncle and her auntie has turned a blind eye.  She fell in love with a man called Mike who seemed to love her but as time goes on she realised the love was false.
 </p>
+<div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="Shadow of the Past is a movie full of comedy, romance and suspense.  A beautiful girl called Rachel who has a terrible past and has been abused by her uncle and her auntie has turned a blind eye.  She fell in love with a man called Mike who seemed to love her but as time goes on she realised the love was false.">Description Read Me</b-button>
+</div>
 
 <p class="labour">
   £20 per person
@@ -25,17 +27,19 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Shane Mauss & Adam Strauss">
+<b-card bg-variant="dark" text-variant="white" title= "Sence & Sensiblity">
   <p class="title-color">
     Greenwich Theatre<br>
-    Thurs 15 Aug 2019 @ 7.30pm
+    Thurs 5 - 7 Sat Sept 2019 @ 7.30pm
     </p>
 <p class="asian">
-    Shane Mauss and Adam Strauss a fantastic night of Psychedelic Comedy.
 </p>
-<br><br><br><br><br><br>
+<div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="Elinor Dashwood has a lot of good Sense. Her sister Marianne Dashwood has an excess of Sensibility. Together they make a snappy title for Jane Austen’s classic novel of scandals, scoundrels and severely sprained ankles. This funny, fast-paced and faithful new adaptation from the critically-acclaimed Pantaloons Theatre Company features live music, audience interaction, romance and heartbreak.
+">Description Read Me</b-button>
+</div>
 <p class="labour">
-  £41 per person
+  From £16 per person
   </p>
 
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
@@ -109,7 +113,6 @@ Redbridge Theatre Company invite you to their final ever performance at the KMT.
     Fri 16 Aug 2019 @ 7.30pm
 
     </p>
-    </p>
 <p class="asian">
 Legend, the music of Bob Marley is an unforgettable evening celebrating this musical icon in one fantastic stage show extravaganza. Combining his superb, distinctive vocals with flawless musicianship, and a supremely talented cast.
 </p>
@@ -143,7 +146,7 @@ Running time 140 minutes
 In 1981 at Kibeho College in Rwanda, a young girl claimed to have seen a vision of the Virgin Mary who warned her of the unimaginable: Rwanda becoming hell on earth. She was ignored by her friends and scolded by her school but then another student saw the vision, and another, and the impossible appeared to be true.</p>
 <p class="labour">
 From £10 per person<br>
-Running Time 2 hours 35 mins 
+Running Time 2 hours 35 mins
 </p>
     <b-button href="https://kutt.it/stratfordeastT" target="_blank" variant="info">open</b-button>
 
@@ -179,13 +182,13 @@ Running Time 2 hours 35 mins
 
     </p>
 <p class="asian">
-    An intimate and absurd exploration of wanting to live, wanting to die and what can happen if we sit together with the dark. 
+    An intimate and absurd exploration of wanting to live, wanting to die and what can happen if we sit together with the dark.
     </p>
     <br><br><br><br><br><br>
      <p class="labour">
      From £13 per person
 </p>
-    
+
     <b-button href="https://kutt.it/yardT" target="_blank" variant="info">open</b-button>
 
 </b-card>

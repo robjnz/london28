@@ -5,9 +5,8 @@
 
 <br>
 
-  Sat 17 Aug-2019 @ 3pm<br>V<br>Harrogate Town<br>
-  <!--
   Mon 26 Aug-2019 @ 3pm<br>V<br>Yeovil Town<br>
+  <!--
   Wed 4 Sept 2019 @ 7.45pm<br>V<br>Bromley<br>
   Sat 14 Sept 2019 @ 3pm<br>V<br>Hartlepool United<br>
   Sat 28 Sept 2019 @ 3pm<br>V<br>Chorley<br>
