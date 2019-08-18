@@ -54,9 +54,12 @@
 
     </p>
     <p class="asian">
-This cheekily charming musical tells the story of the loveable characters on a downtown New York street trying to make sense of life’s burning issues – like what do you do with a BA in English? How do you find your purpose?
 </p>
-<br><br><br>
+<div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="This cheekily charming musical tells the story of the loveable characters on a downtown New York street trying to make sense of life’s burning issues – like what do you do with a BA in English? How do you find your purpose?
+">Description Read Me</b-button>
+</div>
+<br>
 <p class="labour">
 
   </p>
@@ -73,11 +76,13 @@ This cheekily charming musical tells the story of the loveable characters on a d
     Hoxton Hall<br>
     Thu 19 - Fri 20 Sept 2019 @ 7.30pm
     </p>
-
+<br><br><br><br><br><br><br>
     <p class="asian">
-      This is their story – walking journals and travellers’ tales on paths of pilgrimage and conquest, from monasteries and mountain passes to Bedouin camps and desert wadis across Europe and the Middle East — brought to life in a playful and inventive blend of theatre and stand-up.
       </p>
-
+<div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="This is their story – walking journals and travellers’ tales on paths of pilgrimage and conquest, from monasteries and mountain passes to Bedouin camps and desert wadis across Europe and the Middle East — brought to life in a playful and inventive blend of theatre and stand-up.
+">Description Read Me</b-button>
+</div>
       <p class="labour">
       From £15 per person
       <br>
@@ -94,32 +99,41 @@ This cheekily charming musical tells the story of the loveable characters on a d
     Sun 25 August 2019
 
 </p>
+<br><br><br><br><br><br><br>
 <p class="asian">
-Redbridge Theatre Company invite you to their final ever performance at the KMT. With over 16,000 performances since the Theatre opened we mark our departure by celebrating the remarkable people and productions that have made the KMT one of the most cherished and creative community theatres in the UK.
 </p>
+<div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="Redbridge Theatre Company invite you to their final ever performance at the KMT. With over 16,000 performances since the Theatre opened we mark our departure by celebrating the remarkable people and productions that have made the KMT one of the most cherished and creative community theatres in the UK.
+">Description Read Me</b-button>
+</div>
+
 <p class="labour">
 £25 per person
+<br><br>
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Music of Bob Marley">
-
-
+<b-card bg-variant="dark" text-variant="white" title= "As You Like It">
   <p class="title-color">
-
     Queen's Theatre Hornchurch<br>
-    Fri 16 Aug 2019 @ 7.30pm
-
+    Sat 24 - Tues 27 Aug 2019 @ 7pm
     </p>
+    <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/hYd7klNwP94"
+          allowfullscreen
+  ></b-embed>
 <p class="asian">
-Legend, the music of Bob Marley is an unforgettable evening celebrating this musical icon in one fantastic stage show extravaganza. Combining his superb, distinctive vocals with flawless musicianship, and a supremely talented cast.
 </p>
-<br>
+<div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="Forced from their homes, Orlando, Duke Senior, his daughter Rosalind and niece Celia, escape to the Forest of Arden, a fantastical place where all are welcomed and embraced. Lost amidst the trees, they find community and acceptance under the stars.
+">Description Read Me</b-button>
+</div>
 <p class="labour">
-From £20 per person<br>
-Running time 140 minutes
+From £15 per person<br>
+Running time 95 minutes
 </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 
@@ -143,7 +157,10 @@ Running time 140 minutes
     </p>
 
     <p class="asian">
-In 1981 at Kibeho College in Rwanda, a young girl claimed to have seen a vision of the Virgin Mary who warned her of the unimaginable: Rwanda becoming hell on earth. She was ignored by her friends and scolded by her school but then another student saw the vision, and another, and the impossible appeared to be true.</p>
+<div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="In 1981 at Kibeho College in Rwanda, a young girl claimed to have seen a vision of the Virgin Mary who warned her of the unimaginable: Rwanda becoming hell on earth. She was ignored by her friends and scolded by her school but then another student saw the vision, and another, and the impossible appeared to be true.
+">Description Read Me</b-button>
+</div>
 <p class="labour">
 From £10 per person<br>
 Running Time 2 hours 35 mins
@@ -152,19 +169,23 @@ Running Time 2 hours 35 mins
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Aloha from Hawaii starring Gordon Hendricks">
-  <p class="title-color">
+<b-card bg-variant="dark" text-variant="white" title= "Electric Soul Festival">
+<br><br><br><br><br><br><br>
+<p class="title-color">
     The O2 arena<br>
-    18 Aug 2019 @ 7pm
+    Sat 7 Sep 2019 @ 4.30pm
 
     </p>
     <p class="asian">
-    This show in a full first half takes you through the 1968 special and Elvis in Concert period into a special acoustic section where beautiful ballads and gospel songs are presented with an intimacy that leaves the audience in raptures. You will hear many favourites like In The Ghetto, Pocket Full of Rainbows, If I Can Dream, Little Sister, Return to Sender, along with further favourites in a full 60 minutes of pure ELVIS joy.
     </p>
+    <div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="This show in a full first half takes you through the 1968 special and Elvis in Concert period into a special acoustic section where beautiful ballads and gospel songs are presented with an intimacy that leaves the audience in raptures. You will hear many favourites like In The Ghetto, Pocket Full of Rainbows, If I Can Dream, Little Sister, Return to Sender, along with further favourites in a full 60 minutes of pure ELVIS joy.
+">Description Read Me</b-button>
+</div>
     <p class="labour">
-
+<br><br>
 </p>
-    <br><br><br><br><br><br>
+
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
 
 </b-card>
@@ -182,11 +203,14 @@ Running Time 2 hours 35 mins
 
     </p>
 <p class="asian">
-    An intimate and absurd exploration of wanting to live, wanting to die and what can happen if we sit together with the dark.
     </p>
-    <br><br><br><br><br><br>
-     <p class="labour">
-     From £13 per person
+      <div class="text-center my-3">
+  <b-button block variant="success" v-b-tooltip.hover title="    An intimate and absurd exploration of wanting to live, wanting to die and what can happen if we sit together with the dark.
+">Description Read Me</b-button>
+</div>
+  <p class="labour">
+    From £13 per person<br>
+    <br>
 </p>
 
     <b-button href="https://kutt.it/yardT" target="_blank" variant="info">open</b-button>
