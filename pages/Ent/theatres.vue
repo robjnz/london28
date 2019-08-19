@@ -205,7 +205,7 @@ Running Time 2 hours 35 mins
 <p class="asian">
     </p>
       <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="    An intimate and absurd exploration of wanting to live, wanting to die and what can happen if we sit together with the dark.
+  <b-button block variant="success" v-b-tooltip.hover title="An intimate and absurd exploration of wanting to live, wanting to die and what can happen if we sit together with the dark.
 ">Description Read Me</b-button>
 </div>
   <p class="labour">
