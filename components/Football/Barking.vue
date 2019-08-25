@@ -3,9 +3,9 @@
 <a href="https://kutt.it/barking-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543743135/barking_fc_mfqpl9.jpg" fluid-grow alt="Barking FC"/></a>
 <p class="asian">
 <br>
-  Fri Aug 23 @ 7: 45pm<br>V<br>Aveley FC<br>
+
+  Tues Sept 3 @ 7: 45pm <br>V<br>Grays Athletic FC<br>
   <!--
-  Tues Sept 3 @ 7 : 45pm <br>V<br>Grays Athletic FC<br>
   Tues Sept 17 @ 7: 45pm <br>V<br>Waltham Abbey FC<br>
   Sat Oct 5 @ 3pm <br>V<br>Westfield FC<br>
   Sat Oct 12 @ 3pm<br>V<br>Guernsey FC<br>
