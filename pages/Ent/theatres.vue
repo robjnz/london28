@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">What on this month @ East London Theatres</h1>
-    <h2>August - September 2019</h2>
+    <h2>September 2019</h2>
     <br>
     <b-card-group deck
       class="mb-3">
@@ -20,7 +20,7 @@
 </div>
 
 <p class="labour">
-  £20 per person
+  From £20 per person
   </p>
 
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
@@ -45,23 +45,30 @@
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
 </b-card>
-
-<b-card bg-variant="dark" text-variant="white" title= "Avenue Q">
+<!--Hackney-->
+<b-card bg-variant="dark" text-variant="white" title= "Respect The Aretha Franklin Songbook">
   <p class="title-color">
 
     Hackney Empire<br>
-    Mon 19 - Sat 24 Aug - 7.30pm
+    Wed 18 Sept 2019 @ 7.30pm
 
     </p>
+    <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/TtzAeWHBGis"
+          allowfullscreen
+  ></b-embed>
     <p class="asian">
+
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="This cheekily charming musical tells the story of the loveable characters on a downtown New York street trying to make sense of life’s burning issues – like what do you do with a BA in English? How do you find your purpose?
-">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Respect The Aretha Franklin Songbook is an amazing live concert that pays tribute to the Queen of Soul with an uplifting sermon celebrating her life and greatest hits! Featuring world class lead vocals from Stacy Francis, Cleopatra Higgins, Tanya Edwards and Cleo Stewart accompanied by a live band and gospel choir."
+>Description Read Me</b-button>
 </div>
 <br>
 <p class="labour">
-
+From £25 per person<br>
+    Running Time: 2 hour
   </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
 
@@ -76,7 +83,7 @@
     Hoxton Hall<br>
     Thu 19 - Fri 20 Sept 2019 @ 7.30pm
     </p>
-<br><br><br><br><br><br><br>
+
     <p class="asian">
       </p>
 <div class="text-center my-3">
@@ -92,48 +99,40 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "A Night To Remember">
+<b-card bg-variant="dark" text-variant="white" title= "Theatre Closed ">
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br>
-    Sun 25 August 2019
+
 
 </p>
-<br><br><br><br><br><br><br>
+<br><br>
 <p class="asian">
 </p>
-<div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Redbridge Theatre Company invite you to their final ever performance at the KMT. With over 16,000 performances since the Theatre opened we mark our departure by celebrating the remarkable people and productions that have made the KMT one of the most cherished and creative community theatres in the UK.
-">Description Read Me</b-button>
-</div>
+
 
 <p class="labour">
-£25 per person
+
 <br><br>
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 
 </b-card>
-
-<b-card bg-variant="dark" text-variant="white" title= "As You Like It">
+<!--Hornchurch-->
+<b-card bg-variant="dark" text-variant="white" title= "So Here We Are">
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Sat 24 - Tues 27 Aug 2019 @ 7pm
+    Sat 7 - Sat 28 Sep 2019
     </p>
-    <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/hYd7klNwP94"
-          allowfullscreen
-  ></b-embed>
+
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Forced from their homes, Orlando, Duke Senior, his daughter Rosalind and niece Celia, escape to the Forest of Arden, a fantastical place where all are welcomed and embraced. Lost amidst the trees, they find community and acceptance under the stars.
-">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Smudge, Pugh, Pidge and Dan are four mates in their mid-twenties. Sitting on a crumbling sea wall in Southend at the arse end of summer with beers in hand, they plan the five-aside for Monday night. But there’s something else the lads really don’t want to talk about…">Description Read Me</b-button>
 </div>
 <p class="labour">
-From £15 per person<br>
-Running time 95 minutes
+From £19 per person<br>
+Running time 90 minutes
 </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 
@@ -265,7 +264,7 @@ export default {
     return {
       titleTemplate: '%s theatres',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, August & September 2019, Hackney empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
+        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, September 2019, Respect The Aretha Franklin Songbook Hackney empire 18 september 2019, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
       ]
     }
   }
