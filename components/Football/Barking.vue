@@ -4,9 +4,10 @@
 <p class="asian">
 <br>
 
-  Tues 3 Sept 2019 @ 7: 45pm <br>V<br>Grays Athletic FC<br>
-  <!--
+
+
   Tues Sept 17 @ 7: 45pm <br>V<br>Waltham Abbey FC<br>
+  <!--
   Sat Oct 5 @ 3pm <br>V<br>Westfield FC<br>
   Sat Oct 12 @ 3pm<br>V<br>Guernsey FC<br>
   Tues Oct 22 @ 7: 45pm <br>V<br>Chertsey Town FC<br>

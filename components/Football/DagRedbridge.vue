@@ -5,9 +5,8 @@
 
 <br>
 
-  Wed 4 Sept 2019 @ 7.45pm<br>V<br>Bromley<br>
-  <!--
   Sat 14 Sept 2019 @ 3pm<br>V<br>Hartlepool United<br>
+  <!--
   Sat 28 Sept 2019 @ 3pm<br>V<br>Chorley<br>
   Sat 5 Oct 2019 @ 3pm<br>V<br>Barnet<br>
   Sat 26 Oct 2019 @ 3pm<br>V<br>Wrexham<br>

@@ -7,39 +7,39 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Shadow of the Past">
+<b-card bg-variant="dark" text-variant="white" title= "The Royal Family">
+  <br>
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Fri 6 Sep 2019 @ 8pm
+    21 Sept 2019 @ 7.45pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Shadow of the Past is a movie full of comedy, romance and suspense.  A beautiful girl called Rachel who has a terrible past and has been abused by her uncle and her auntie has turned a blind eye.  She fell in love with a man called Mike who seemed to love her but as time goes on she realised the love was false.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="The Royal Family to bring you a brand new incredible show! SOAR are one of the leading companies in the UK providing Street Dance Competitions (SDC) and platforms for young dancers.">Description Read Me</b-button>
 </div>
 
 <p class="labour">
-  From £20 per person
+
   </p>
 
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Sence & Sensiblity">
+<b-card bg-variant="dark" text-variant="white" title= "Skin In The Game At The Old Red Lion Theatre">
   <p class="title-color">
     Greenwich Theatre<br>
-    Thurs 5 - 7 Sat Sept 2019 @ 7.30pm
+    Tues 20 Aug - Sat 14 Sept 2019
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Elinor Dashwood has a lot of good Sense. Her sister Marianne Dashwood has an excess of Sensibility. Together they make a snappy title for Jane Austen’s classic novel of scandals, scoundrels and severely sprained ankles. This funny, fast-paced and faithful new adaptation from the critically-acclaimed Pantaloons Theatre Company features live music, audience interaction, romance and heartbreak.
-">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Paul Westwood's debut full-length play is a startling new thriller that lifts the lid on gambling addiction, survival on the edges of society, and what happens when you lie to those who know you best. The production is directed by Clemmie Reynolds.">Description Read Me</b-button>
 </div>
 <p class="labour">
-  From £16 per person
+  From £17.50 per person
   </p>
 
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
@@ -167,19 +167,18 @@ Running Time 2 hours 35 mins
     <b-button href="https://kutt.it/stratfordeastT" target="_blank" variant="info">open</b-button>
 
 </b-card>
-
-<b-card bg-variant="dark" text-variant="white" title= "Electric Soul Festival">
+<!--02-->
+<b-card bg-variant="dark" text-variant="white" title= "Muse">
 <br><br><br><br><br><br><br>
 <p class="title-color">
     The O2 arena<br>
-    Sat 7 Sep 2019 @ 4.30pm
+    Sat 14 - Sun 15 Sept 2019 @ 6pm
 
     </p>
     <p class="asian">
     </p>
     <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="This show in a full first half takes you through the 1968 special and Elvis in Concert period into a special acoustic section where beautiful ballads and gospel songs are presented with an intimacy that leaves the audience in raptures. You will hear many favourites like In The Ghetto, Pocket Full of Rainbows, If I Can Dream, Little Sister, Return to Sender, along with further favourites in a full 60 minutes of pure ELVIS joy.
-">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="">Description Read Me</b-button>
 </div>
     <p class="labour">
 <br><br>
