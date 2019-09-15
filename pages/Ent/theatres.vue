@@ -23,23 +23,23 @@
 <p class="labour">
 
   </p>
-
+<br><br>
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 
 </b-card>
-
-<b-card bg-variant="dark" text-variant="white" title= "Skin In The Game At The Old Red Lion Theatre">
+<!--Greenwich-->
+<b-card bg-variant="dark" text-variant="white" title= "The Hounds Of The Baskervilles">
   <p class="title-color">
     Greenwich Theatre<br>
-    Tues 20 Aug - Sat 14 Sept 2019
+    Thurs 19 - Sat 21 Sept 2019 @ 7.30pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Paul Westwood's debut full-length play is a startling new thriller that lifts the lid on gambling addiction, survival on the edges of society, and what happens when you lie to those who know you best. The production is directed by Clemmie Reynolds.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Sherlock Holmes and his incomparable sidekick Dr. Jane Watson on their journey from the streets of London to the Devonshire Moors as they attempt to solve the mystery of… The Hound of the Baskervilles!.">Description Read Me</b-button>
 </div>
 <p class="labour">
-  From £17.50 per person
+  From £16 per person
   </p>
 
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
@@ -168,17 +168,17 @@ Running Time 2 hours 35 mins
 
 </b-card>
 <!--02-->
-<b-card bg-variant="dark" text-variant="white" title= "Muse">
+<b-card bg-variant="dark" text-variant="white" title= "Professor Brian Cox">
 <br><br><br><br><br><br><br>
 <p class="title-color">
     The O2 arena<br>
-    Sat 14 - Sun 15 Sept 2019 @ 6pm
+    Thur 19 Sep 2019 @ 6.30pm
 
     </p>
     <p class="asian">
     </p>
     <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Taking audiences to the edge of our current understanding about the origin and evolution of our Solar System and the Universe, Universal: Adventures In Space and Time offers a fascinating insight into the workings of nature at the most fundamental level. Whether an avid science reader or a total novice.">Description Read Me</b-button>
 </div>
     <p class="labour">
 <br><br>
