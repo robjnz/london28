@@ -1,99 +1,96 @@
 <template>
 <section main>
+
   <b-container>
     <h1 class="title-color">What on this month @ East London Theatres</h1>
-    <h2>September 2019</h2>
+    <h2>September & October 2019</h2>
     <br>
+    <!--barking -->
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "The Royal Family">
-  <br>
+<b-card bg-variant="dark" text-variant="white" title= "Buddy Holly & The Cricketers">
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    21 Sept 2019 @ 7.45pm
+    Thurs 3 Oct 2019 @ 7.30pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="The Royal Family to bring you a brand new incredible show! SOAR are one of the leading companies in the UK providing Street Dance Competitions (SDC) and platforms for young dancers.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="It stars some of the finest actor-musicians in the UK whose combined West End credits include Buddy, Lennon, Forbidden Planet and Jailhouse Rock and was endorsed as Britain’s most popular Buddy Holly act when the boys guested on BBC One's Saturday night live programme, “The One and Only”, hosted by Graham Norton.">Description Read Me</b-button>
 </div>
 
 <p class="labour">
-
-  </p>
+From £20.50 per person
 <br><br>
+  </p>
+
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
 
 </b-card>
 <!--Greenwich-->
-<b-card bg-variant="dark" text-variant="white" title= "The Hounds Of The Baskervilles">
+<b-card bg-variant="dark" text-variant="white" title= "Brooklyn The musical">
+  <br>
   <p class="title-color">
     Greenwich Theatre<br>
-    Thurs 19 - Sat 21 Sept 2019 @ 7.30pm
+    Fri 27 Sept - Sat 19 Oct 2019
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Sherlock Holmes and his incomparable sidekick Dr. Jane Watson on their journey from the streets of London to the Devonshire Moors as they attempt to solve the mystery of… The Hound of the Baskervilles!.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Brooklyn The musical is a story within a story. A touching ‘sidewalk fairytale’ about a band of soulful street singers who meet up to share stories from their lives. The story tonight: a young Parisian coming to America to search for fame and the father she never knew and the journey she embarks upon to find the soul of the city that bears her name.">Description Read Me</b-button>
 </div>
 <p class="labour">
-  From £16 per person
+  From £28.50 per person
+  <br><br>
   </p>
 
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 <!--Hackney-->
-<b-card bg-variant="dark" text-variant="white" title= "Respect The Aretha Franklin Songbook">
+<b-card bg-variant="dark" text-variant="white" title= "Football Ramble">
+  <br>
   <p class="title-color">
-
     Hackney Empire<br>
-    Wed 18 Sept 2019 @ 7.30pm
-
+    Thurs 26 Sept 2019 @ 8pm
     </p>
-    <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/TtzAeWHBGis"
-          allowfullscreen
-  ></b-embed>
+
     <p class="asian">
 
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Respect The Aretha Franklin Songbook is an amazing live concert that pays tribute to the Queen of Soul with an uplifting sermon celebrating her life and greatest hits! Featuring world class lead vocals from Stacy Francis, Cleopatra Higgins, Tanya Edwards and Cleo Stewart accompanied by a live band and gospel choir."
->Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="The Football Ramble are back! And they’re going global! Join the gang as they bring their chart-topping podcast to life in a multimedia extravaganza. Expect all your favourites from the show as they cast an eye over the best – and most ridiculous – moments from the footballing circus.
+It’s a football show, but not as you know it…">Description Read Me</b-button>
 </div>
-<br>
 <p class="labour">
-From £25 per person<br>
-    Running Time: 2 hour
+From £20 per person<br>
+    Running Time: 1.30 hour
   </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
 
 </b-card>
     </b-card-group>
-
+<!--hoxton-->
         <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Walking to Jerusalem">
+<b-card bg-variant="dark" text-variant="white" title= "Sizzling Hot Circus">
   <p class="title-color">
     Hoxton Hall<br>
-    Thu 19 - Fri 20 Sept 2019 @ 7.30pm
+    Sat 05 Oct 2019 @ 8pm
     </p>
 
     <p class="asian">
       </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="This is their story – walking journals and travellers’ tales on paths of pilgrimage and conquest, from monasteries and mountain passes to Bedouin camps and desert wadis across Europe and the Middle East — brought to life in a playful and inventive blend of theatre and stand-up.
-">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Starring an international cast of highly skilled circus artists, theatre-makers and speciality acts, such as Aerial Net and Triple trapeze, plus many more sizzling hot acts for your viewing pleasure.">Description Read Me</b-button>
 </div>
       <p class="labour">
-      From £15 per person
-      <br>
-      Running Time 75min
+      From £14.50 per person
+      <br><br>
+
   </p>
     <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
 
@@ -168,17 +165,17 @@ Running Time 2 hours 35 mins
 
 </b-card>
 <!--02-->
-<b-card bg-variant="dark" text-variant="white" title= "Professor Brian Cox">
+<b-card bg-variant="dark" text-variant="white" title= "Marvel Universe Live!">
 <br><br><br><br><br><br><br>
 <p class="title-color">
     The O2 arena<br>
-    Thur 19 Sep 2019 @ 6.30pm
+    Thurs 26 Sept - Mon 6 Oct 2019 @ 7pm
 
     </p>
     <p class="asian">
     </p>
     <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Taking audiences to the edge of our current understanding about the origin and evolution of our Solar System and the Universe, Universal: Adventures In Space and Time offers a fascinating insight into the workings of nature at the most fundamental level. Whether an avid science reader or a total novice.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="The audience will witness cutting-edge special effects, pyrotechnics, and impressive 3D video projection mapping in this completely new thrilling adventure. With aerial stunts, martial arts and daring motorcycle skills, fans of all ages will be immersed in the Marvel universe in a show unlike anything they’ve ever seen before!">Description Read Me</b-button>
 </div>
     <p class="labour">
 <br><br>
