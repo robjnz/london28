@@ -5,9 +5,9 @@
 
 <br>
 
-  Sat 28 Sept 2019 @ 3pm<br>V<br>Chorley<br>
-  <!--
+
   Sat 5 Oct 2019 @ 3pm<br>V<br>Barnet<br>
+  <!--
   Sat 26 Oct 2019 @ 3pm<br>V<br>Wrexham<br>
   Tues 29 Oct 2019 @ 7.45pm<br>V<br>Barrow<br>
   Sat 16 Nov 2019 @ 3pm<br>V<br>Aldershot Town<br>

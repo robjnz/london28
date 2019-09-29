@@ -3,9 +3,8 @@
 <a href="https://kutt.it/orient-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544943996/leyton_orient_wltsdq.jpg" fluid-grow alt="Leyton Orient F.C."/></a>
 <p class="asian">
 
-Sat 28 Sept 2019 @ 3pm <br>V<br>Port Vale<br>
-<!--
 Sat 12 Oct 2019 @ 3pm <br>V<br>Walsall<br>
+<!--
 Sat 26 Oct 2019 @ 3pm <br>V<br>Carlisle United<br>
 Tues 5 Nov 2019 @ 7.45pm <br>V<br>Brighton & Hove Albion<br>
 Sat 16 Nov 2019 @ 3pm <br>V<br>Scunthorpe United<br>

@@ -3,9 +3,9 @@
 <a href="https://kutt.it/charlton-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544009671/charlton_fc_madgqn.png" fluid-grow alt="Charlton Athletic F.C.‎"/></a>
 <p class="asian">
 
-Sat 28 Sept 2019 @ 3pm <br>V<br>Leeds United<br>
-<!--
+
 Wed 2 Oct 2019 @ 7.45pm <br>V<br>Swansea City<br>
+<!--
 Sat 19 Oct 2019 @ 3pm <br>V<br>Derby County<br>
 Sat 2 Nov 2019 @ 3pm <br>V<br>Preston North End<br>
 Sat 23 Nov 2019 @ 3pm <br>V<br>Cardiff City<br>
