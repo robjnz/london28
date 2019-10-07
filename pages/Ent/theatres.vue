@@ -3,26 +3,31 @@
 
   <b-container>
     <h1 class="title-color">What on this month @ East London Theatres</h1>
-    <h2>September & October 2019</h2>
+    <h2>October 2019</h2>
     <br>
     <!--barking -->
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Buddy Holly & The Cricketers">
+<b-card bg-variant="dark" text-variant="white" title= "One Night in Dublin">
+ <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/FjK_ro_-Aqs"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Thurs 3 Oct 2019 @ 7.30pm
+    Sat 12 Oct 201 @7.30pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="It stars some of the finest actor-musicians in the UK whose combined West End credits include Buddy, Lennon, Forbidden Planet and Jailhouse Rock and was endorsed as Britain’s most popular Buddy Holly act when the boys guested on BBC One's Saturday night live programme, “The One and Only”, hosted by Graham Norton.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Come join us for One Night In Dublin and be transported to ‘Murphy’s Pub’, where the house band, The Wild Murphys, will be performing great Irish songs by the likes of The Pogues, The Dubliners, The Fureys, The Saw Doctors and many more.">Description Read Me</b-button>
 </div>
 
 <p class="labour">
-From £20.50 per person
+From £23 per person
 <br><br>
   </p>
 
@@ -31,7 +36,8 @@ From £20.50 per person
 </b-card>
 <!--Greenwich-->
 <b-card bg-variant="dark" text-variant="white" title= "Brooklyn The musical">
-  <br>
+
+  <br><br><br><br><br><br><br>
   <p class="title-color">
     Greenwich Theatre<br>
     Fri 27 Sept - Sat 19 Oct 2019
@@ -50,23 +56,22 @@ From £20.50 per person
 
 </b-card>
 <!--Hackney-->
-<b-card bg-variant="dark" text-variant="white" title= "Football Ramble">
-  <br>
+<b-card bg-variant="dark" text-variant="white" title= "Mark Steel Every Thing's Gonna Be Alright">
+  <br><br><br><br><br><br>
   <p class="title-color">
     Hackney Empire<br>
-    Thurs 26 Sept 2019 @ 8pm
+    Fri 18 Oct 2019 7.30pm
     </p>
 
     <p class="asian">
 
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="The Football Ramble are back! And they’re going global! Join the gang as they bring their chart-topping podcast to life in a multimedia extravaganza. Expect all your favourites from the show as they cast an eye over the best – and most ridiculous – moments from the footballing circus.
-It’s a football show, but not as you know it…">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="A few years ago, it seemed unlikely that the UK would vote to leave the EU; we had a reasonable opposition to the Tory Government; Donald Trump was a buffoon who surely wasn’t going to beat Hillary Clinton and Mark was living the married suburban ideal, since then it’s all gone to absolute shit! But don’t worry as Mark thinks Every Little Thing’s Gonna Be Alright.">Description Read Me</b-button>
 </div>
 <p class="labour">
-From £20 per person<br>
-    Running Time: 1.30 hour
+From £21 per person<br>
+<br>
   </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
 
@@ -76,19 +81,22 @@ From £20 per person<br>
         <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Sizzling Hot Circus">
+<b-card bg-variant="dark" text-variant="white" title= "The Milk">
+<br><br><br><br><br><br><br><br>
   <p class="title-color">
     Hoxton Hall<br>
-    Sat 05 Oct 2019 @ 8pm
+    Fri 25 Oct 2019 @ 7.30pm
     </p>
 
     <p class="asian">
       </p>
+
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Starring an international cast of highly skilled circus artists, theatre-makers and speciality acts, such as Aerial Net and Triple trapeze, plus many more sizzling hot acts for your viewing pleasure.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="There is confidence when The Milk gets dirty and dark, intricately layered compositions with deceptively simple melody lines but, they can be as playful and sunny pop with their sound too. The four-elements band ensures a expertly mixed variety of music palettes that travel the late ‘60s to early ‘70s expanse, but never sacrifices project cohesion and whose use of vintage production techniques serves to add texture and nuance to The Milk’s work.">Description Read Me</b-button>
 </div>
+<br>
       <p class="labour">
-      From £14.50 per person
+      From £21.50 per person
       <br><br>
 
   </p>
@@ -110,26 +118,31 @@ From £20 per person<br>
 
 <p class="labour">
 
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 </p>
     <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
 
 </b-card>
 <!--Hornchurch-->
-<b-card bg-variant="dark" text-variant="white" title= "So Here We Are">
+<b-card bg-variant="dark" text-variant="white" title= "You Win Again – Celebrating the Music of the Bee Gees">
+<b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/ZPIRoeKSVwI"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Sat 7 - Sat 28 Sep 2019
+    Sun 13 Oct 2019 @ 7.30pm
     </p>
 
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Smudge, Pugh, Pidge and Dan are four mates in their mid-twenties. Sitting on a crumbling sea wall in Southend at the arse end of summer with beers in hand, they plan the five-aside for Monday night. But there’s something else the lads really don’t want to talk about…">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Join us for this breath-taking concert spectacular, taking you on a musical journey through all your favourite songs, including: Night Fever, Stayin’ Alive, More Than A Woman, You Should Be Dancing, How Deep is Your Love?, Jive Talkin’, Tragedy, Massachusetts, Words, I’ve Got to Get a Message to You, Too Much Heaven, Islands in the Stream, Grease, If I Can’t Have You and many more!">Description Read Me</b-button>
 </div>
 <p class="labour">
-From £19 per person<br>
-Running time 90 minutes
+From £21 per person<br>
+Running time 120 minutes
 </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 
@@ -140,6 +153,7 @@ Running time 90 minutes
     <b-card-group deck
       class="mb-3">
   <b-card bg-variant="dark" text-variant="white" title= "Our Lady of Kibeho">
+<br>
   <b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/pWJOJX8zwXs"
@@ -165,17 +179,17 @@ Running Time 2 hours 35 mins
 
 </b-card>
 <!--02-->
-<b-card bg-variant="dark" text-variant="white" title= "Marvel Universe Live!">
-<br><br><br><br><br><br><br>
+<b-card bg-variant="dark" text-variant="white" title= "Brad Paisley">
+<br><br><br><br><br><br><br><br>
 <p class="title-color">
     The O2 arena<br>
-    Thurs 26 Sept - Mon 6 Oct 2019 @ 7pm
+    Sat 12 Oct 2019 @ 6.30pm
 
     </p>
     <p class="asian">
     </p>
     <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="The audience will witness cutting-edge special effects, pyrotechnics, and impressive 3D video projection mapping in this completely new thrilling adventure. With aerial stunts, martial arts and daring motorcycle skills, fans of all ages will be immersed in the Marvel universe in a show unlike anything they’ve ever seen before!">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Brad Paisley world tour">Description Read Me</b-button>
 </div>
     <p class="labour">
 <br><br>
@@ -184,27 +198,27 @@ Running Time 2 hours 35 mins
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
 
 </b-card>
-
-<b-card bg-variant="dark" text-variant="white" title= "All of me by Caroline Horton">
+<!--Yard-->
+<b-card bg-variant="dark" text-variant="white" title= "Hope Hunt & The Ascension into Lazarus">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://player.vimeo.com/video/327895659"
+          src    = "https://www.youtube.com/embed/qalG99dX-tQ"
           allowfullscreen
   ></b-embed>
   <p class="title-color">
 
     The Yard Hackney<br>
-    Tues 10 — Sat 28 Sept @ 10pm
+    Mon 14 — Wed 16 Oct 2019
 
     </p>
 <p class="asian">
     </p>
       <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="An intimate and absurd exploration of wanting to live, wanting to die and what can happen if we sit together with the dark.
+  <b-button block variant="success" v-b-tooltip.hover title="Adopting multiple personas of disaffected male youth Oona Doherty channels aggression, humour, hedonism, joy and despair in quick-fire succession. Fragmented, yet meticulously detailed, her intuitive social portrait vibrates with blistering physical and vocal energy. Gestures, words and utterances combine in a wholly distinctive body language, contorting ideas of masculinity and morality.
 ">Description Read Me</b-button>
 </div>
   <p class="labour">
-    From £13 per person<br>
+    <!--From £13 per person--><br>
     <br>
 </p>
 
@@ -260,7 +274,7 @@ export default {
     return {
       titleTemplate: '%s theatres',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, September 2019, Respect The Aretha Franklin Songbook Hackney empire 18 september 2019, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
+        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, October 2019, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
       ]
     }
   }

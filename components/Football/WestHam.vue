@@ -3,9 +3,9 @@
 <a href="https://kutt.it/westham-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636784/west_ham_fc_wrookz.png" fluid-grow alt="West Ham United F.C.‎"/></a>
 <p class="asian">
 
-Sat 5 Oct 2019 @ 5.30pm <br>V<br>Crystal Palace<br>
-<!--
+
 Sat 26 Oct 2019 @ 3pm <br>V<br>Sheffield United<br>
+<!--
 Sat 2 Nov 2019 @ 3pm <br>V<br>Newcastle United<br>
 Sat 23 Nov 2019 @ 12.30pm<br>V<br>Tottenham Hotspur<br>
 Sat 7 Dec 2019 @ 3pm <br>V<br>Arsenal<br>
