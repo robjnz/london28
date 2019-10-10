@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">What on this month @ East London Night clubs</h1>
-    <h2>July 2019</h2>
+    <h2>October 2019</h2>
     <br>
 
     <b-card-group deck
@@ -99,7 +99,7 @@ export default {
     return {
       titleTemplate: '%s Night clubs',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on @ the east London night clubs this month, July 2019.' }
+        { hid: 'description', name: 'description', content: 'Whats on @ the east London night clubs this month, October 2019.' }
       ]
     }
   }
