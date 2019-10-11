@@ -1,12 +1,25 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "Newbury Forest F.C." align ="center">
 <a href="https://kutt.it/newbury-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893664/newbury_fc_vqsc8u.jpg" fluid-grow alt="Newbury Forest F.C."/></a>
-<p class="title-color">
-
-
-
-<br>
+<p class="asian">
+Sat 12 Oct 2019 @ 3pm <br>V<br>Wivenhoe Town<br>
+<!--
+Sat 2 Nov 2019 @ 3pm<br>V<br>White Ensign<br>
+Tues 12 Nov 2019 @ 7.45pm<br>V<br>Fire United<br>
+Sat 16 Nov 2019 @ 3pm <br>V<br>Brightlingsea Regent Reserves<br>
+Sat 7 Dec 2019 @ 3pm <br>V<br>Burnham Ramblers<br>
+Sat 21 Dec 2019 @ 3pm <br>V<br> Lopes Tavares<br>
+Sat 4 Jan 2020 @ 3pm <br>V<br>Halstead Town<br>
+Sat 25 Jan 2020 @ 3pm <br>V<br>Wormley Rovers<br>
+Sat 22 Feb 2020 @ 3pm <br>V<br>Coggeshall United<br>
+Sat 14 March 2020 @ 3pm <br>V<br> Little Oakley<br>
+Sat 21 March 2020 @ 3pm <br>V<br>Harwich & Parkeston<br>
+Sat 11 April 2020 @ 3pm <br>V<br>Hackney wick<br>
+Mon 13 April 2020 @ 3pm <br>V<br>May & Baker<br>
+-->
 
 </p>
+    <b-button href="https://kutt.it/newbury-fc" target="_blank" variant="info">open</b-button>
+
 </b-card>
 </template>
