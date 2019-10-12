@@ -56,7 +56,7 @@ Ilford
 <br><br>
 -->
  <a href="https://kutt.it/londoneast3" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_90,w_90/v1557874167/twitter_i92pn9.png" alt="twitter @londoneast3" /></a>
- <a href="http://bit.ly/33kiYGG" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/ar_1:1,b_rgb:262c35,bo_5px_solid_rgb:ff0000,c_fill,g_auto,h_70,r_max,w_70/v1570786983/facebook_logo_nays1m.jpg" alt="facebook @londoneast.life" /></a>
+ <a href="http://bit.ly/2MD267e" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/ar_1:1,b_rgb:262c35,bo_5px_solid_rgb:ff0000,c_fill,g_auto,h_70,r_max,w_70/v1570786983/facebook_logo_nays1m.jpg" alt="facebook @londoneast.life" /></a>
 
 <br><br>
  <a href="http://bit.ly/33jlg95" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_90,w_90/v1570791420/instagram_txv2hp.jpg" alt="instagram@londoneast.life" /></a>
