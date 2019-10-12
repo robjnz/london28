@@ -1,3 +1,4 @@
+const newLocal="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v4.0"
 <template>
 <section main>
   <b-container>
@@ -12,11 +13,15 @@ class="mb-3">
 
 
 <b-card bg-variant="dark" text-variant="white" title= "">
-<a href="#" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Flondoneastlife-104681190948236%2F&tabs=timeline&width=320&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width = "360" height = "600" style = "border:none;overflow:hidden" scrolling = "no" frameborder = "0" allowTransparency = "true" allow = "encrypted-media"
+          allowfullscreen
+  ></b-embed>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "">
-<a href="#" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/5a1774d4f53f53dc91ef8d91c85e019c.html" scrolling="yes" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
 </b-card>
 
 </b-card-group>
