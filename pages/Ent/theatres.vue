@@ -9,25 +9,22 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "One Night in Dublin">
- <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/FjK_ro_-Aqs"
-          allowfullscreen
-  ></b-embed>
+<b-card bg-variant="dark" text-variant="white" title= "Strictly Nashville">
+  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1570960757/nashvile_zjbgmm.jpg" fluid-grow alt="Strictly Nashville poster "/>
+
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Sat 12 Oct 201 @7.30pm
+    Thurs 17 Oct 2019 @ 7.30pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Come join us for One Night In Dublin and be transported to ‘Murphy’s Pub’, where the house band, The Wild Murphys, will be performing great Irish songs by the likes of The Pogues, The Dubliners, The Fureys, The Saw Doctors and many more.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Celebrating the very best in music from America's 'Music City' this show promises an exciting fusion of pure Country gold with 'New Country' blockbusters!">Description Read Me</b-button>
 </div>
 
 <p class="labour">
-From £23 per person
+From £21.50 per person
 <br><br>
   </p>
 
@@ -37,7 +34,7 @@ From £23 per person
 <!--Greenwich-->
 <b-card bg-variant="dark" text-variant="white" title= "Brooklyn The musical">
 
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br>
   <p class="title-color">
     Greenwich Theatre<br>
     Fri 27 Sept - Sat 19 Oct 2019
@@ -57,7 +54,7 @@ From £23 per person
 </b-card>
 <!--Hackney-->
 <b-card bg-variant="dark" text-variant="white" title= "Mark Steel Every Thing's Gonna Be Alright">
-  <br><br><br><br><br><br>
+  <br><br><br><br><br><br><br>
   <p class="title-color">
     Hackney Empire<br>
     Fri 18 Oct 2019 7.30pm
@@ -124,25 +121,25 @@ From £21 per person<br>
 
 </b-card>
 <!--Hornchurch-->
-<b-card bg-variant="dark" text-variant="white" title= "You Win Again – Celebrating the Music of the Bee Gees">
+<b-card bg-variant="dark" text-variant="white" title= "A Tribute to Amy Winehouse">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/ZPIRoeKSVwI"
+          src    = "https://www.youtube.com/embed/bNkImwUW5zA"
           allowfullscreen
   ></b-embed>
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Sun 13 Oct 2019 @ 7.30pm
+    Mon 21 Oct 2019 @ 7.30pm
     </p>
 
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Join us for this breath-taking concert spectacular, taking you on a musical journey through all your favourite songs, including: Night Fever, Stayin’ Alive, More Than A Woman, You Should Be Dancing, How Deep is Your Love?, Jive Talkin’, Tragedy, Massachusetts, Words, I’ve Got to Get a Message to You, Too Much Heaven, Islands in the Stream, Grease, If I Can’t Have You and many more!">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Taking songs from the multi-platinum selling albums Frank, Back To Black and Lioness: Hidden Treasures, world-renowned tribute artist, Laura Jane Butler, recreates the distinctive sound and heartfelt performances of the jazz and soul powerhouse.">Description Read Me</b-button>
 </div>
 <p class="labour">
-From £21 per person<br>
-Running time 120 minutes
+From £20 per person<br>
+Running time 140 minutes
 </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 
@@ -179,17 +176,17 @@ Running Time 2 hours 35 mins
 
 </b-card>
 <!--02-->
-<b-card bg-variant="dark" text-variant="white" title= "Brad Paisley">
+<b-card bg-variant="dark" text-variant="white" title= "Comedy Central Impractical Jokers">
 <br><br><br><br><br><br><br><br>
 <p class="title-color">
     The O2 arena<br>
-    Sat 12 Oct 2019 @ 6.30pm
+    Thurs 17 Oct 2019 @ 6.30pm
 
     </p>
     <p class="asian">
     </p>
     <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Brad Paisley world tour">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="The four lifelong friends and comedians whose hidden-camera dares and punishments have created truTV’s and Comedy Central’s longest-running and top-rated original comedies, Impractical Jokers, today announce a huge UK tour starring The Tenderloins, called The Cranjis McBasketball World Comedy Tour">Description Read Me</b-button>
 </div>
     <p class="labour">
 <br><br>
