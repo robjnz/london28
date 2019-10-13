@@ -4,9 +4,8 @@
 <h5>Woman Team</h5>
 <p class="asian">
 
-Sat 12 Oct 2019 @ 3pm<br>V<br>Aston Villa<br>
-<!--
 Sun 17 Nov 2019 @ 2pm <br>V<br>Leicester City<br>
+<!--
 Wed 20 Nov 2019 @ 2pm <br>V<br>London City<br>
 Sun 8 Dec 2019 @ 2pm <br>V<br>V<br>Bristol City<br>
 Sun 19 Jan 2020 @ 2pm <br>V<br>Blackburn Rovers <br>

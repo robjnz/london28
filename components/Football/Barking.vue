@@ -4,9 +4,8 @@
 <p class="asian">
 <br>
 
-  Sat Oct 12 2019 @ 3pm<br>V<br>Guernsey FC<br>
-  <!--
   Tues Oct 22 2019 @ 7: 45pm <br>V<br>Chertsey Town FC<br>
+  <!--
   Sat Nov 9 2019 @ 3pm<br>V<br>Staines Town FC<br>
   Sat Nov 23 2019 @ 3pm<br>V<br>Bracknell Town FC<br>
   Sat Dec 14 2019 @ 3pm<br>V<br>Uxbridge FC<br>
