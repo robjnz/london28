@@ -1,11 +1,27 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "Erith Town F.C." align="center">
 <a href="https://kutt.it/erithtown" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543950755/erithfc_rrj321.jpg" fluid-grow alt="Erith Town F.C."/></a>
-<p class="title-color">
-
-
-<br>
+<h6>Erith Stadium <br>Erith Avenue Road Erith Kent DA8 3AT</h6>
+<p class="asian">
+Sat 19 Oct 2019 @ 3pm <br>V<br>Meridian VP<br>
+<!--
+Sat 26 Oct 2019 @ 3pm <br>V<br>Deal Town<br>
+Sat 9 Nov 2019 @ 3pm <br>V<br>Bearsted<br>
+Sat 23 Nov 2019 @ 3pm <br>V<br>Greenwich Borough<br>
+Sat 30 Nov 2019 @ 3pm <br>V<br>Crowborough Athletic<br>
+Sat 21 Dec 2019 @ 3pm <br>V<br>Fisher<br>
+Sat 28 Dec 2019 @ 3pm <br>V<br>Beckenham Townbr<br>
+Sat 18 Jan 2020 @ 3pm <br>V<br>AFC Croydon Athletic<br>
+Sat 1 Feb 2020 @ 3pm <br>V<br>Canterbury City<br>
+Sat 8 Feb 2020 @ 3pm <br>V<br>Glebe<br>
+Sat 22 Feb 2020 @ 3pm br<br>V<br>Sheppey United<br>
+Sat 14 March 2020 @ 3pm <br>V<br>Welling Town<br>
+Sat 28 March 2020 @ 3pm <br>V<br>Hollands & Blair<br>
+Fri 10 April 2020 @ Good Friday <br>V<br>Corinthian<br>
+Sat 25 April 2020 @ 3pm <br>V<br>Tunbridge Wells<br>
+-->
 </p>
+    <b-button href="https://kutt.it/erithtown" target="_blank" variant="info">open</b-button>
 
 </b-card>
 </template>
