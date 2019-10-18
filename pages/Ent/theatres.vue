@@ -9,22 +9,21 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Strictly Nashville">
-  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1570960757/nashvile_zjbgmm.jpg" fluid-grow alt="Strictly Nashville poster "/>
-
+<b-card bg-variant="dark" text-variant="white" title= "Murder Mystery Evening">
+  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1571377703/murder_fw3y6b.jpg" fluid-grow alt="Murder Mystery Evening poster"/>
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Thurs 17 Oct 2019 @ 7.30pm
+    Sat 19 Oct 2019 @ 8pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Celebrating the very best in music from America's 'Music City' this show promises an exciting fusion of pure Country gold with 'New Country' blockbusters!">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Watch the events unfold before your eyes and hear what the suspects have to say before food is served, giving you the chance to discuss and debate with your fellow detectives before asking your questions, and revealing the true identity of the killer!">Description Read Me</b-button>
 </div>
 
 <p class="labour">
-From £21.50 per person
+From £18.50 per person
 <br><br>
   </p>
 
@@ -32,20 +31,20 @@ From £21.50 per person
 
 </b-card>
 <!--Greenwich-->
-<b-card bg-variant="dark" text-variant="white" title= "Brooklyn The musical">
+<b-card bg-variant="dark" text-variant="white" title= "The Scarecrow's Wedding">
+  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1571382585/Scarecrow_s_Wedding_w0an3s.jpg" fluid-grow alt="The Scarecrow's Wedding poster"/>
 
-  <br><br><br><br><br><br><br><br><br>
   <p class="title-color">
     Greenwich Theatre<br>
-    Fri 27 Sept - Sat 19 Oct 2019
+    Tues 22 - Wed 23 2019
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Brooklyn The musical is a story within a story. A touching ‘sidewalk fairytale’ about a band of soulful street singers who meet up to share stories from their lives. The story tonight: a young Parisian coming to America to search for fame and the father she never knew and the journey she embarks upon to find the soul of the city that bears her name.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Betty O’Barley and Harry O’Hay are excellent scarecrows. Their wedding plans are all coming together until Harry leaves Betty’s side and the devilishly smooth Reginald Rake tries to take Harry’s place. Will Harry make it back in time to save their special day?">Description Read Me</b-button>
 </div>
 <p class="labour">
-  From £28.50 per person
+  From £15 per person
   <br><br>
   </p>
 
@@ -150,17 +149,18 @@ Running time 140 minutes
     <b-card-group deck
       class="mb-3">
   <b-card bg-variant="dark" text-variant="white" title= "Our Lady of Kibeho">
-<br>
+
   <b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/pWJOJX8zwXs"
           allowfullscreen
   ></b-embed>
+  <br>
       <p class="title-color">
 
     Theatre Royal Stratford East<br>
-    Wed 25 Sept – Sat 02 Nov 2019 @ 7.30pm
-
+    Wed 25 Sept – Sat 02 Nov 2019 @ 7.30pm<br>
+    
     </p>
 
     <p class="asian">
@@ -176,46 +176,46 @@ Running Time 2 hours 35 mins
 
 </b-card>
 <!--02-->
-<b-card bg-variant="dark" text-variant="white" title= "Comedy Central Impractical Jokers">
-<br><br><br><br><br><br><br><br>
+<b-card bg-variant="dark" text-variant="white" title= "John Legend">
+      <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1571389685/John_Legend_kwblqx.jpg" fluid-grow alt="John Legend poster"/>
+
 <p class="title-color">
     The O2 arena<br>
-    Thurs 17 Oct 2019 @ 6.30pm
-
+    Fri 25 Oct 2019 @ 6.30pm
     </p>
     <p class="asian">
     </p>
     <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="The four lifelong friends and comedians whose hidden-camera dares and punishments have created truTV’s and Comedy Central’s longest-running and top-rated original comedies, Impractical Jokers, today announce a huge UK tour starring The Tenderloins, called The Cranjis McBasketball World Comedy Tour">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="John Legend">Description Read Me</b-button>
 </div>
     <p class="labour">
-<br><br>
+<br>
 </p>
 
     <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
 
 </b-card>
 <!--Yard-->
-<b-card bg-variant="dark" text-variant="white" title= "Hope Hunt & The Ascension into Lazarus">
+<b-card bg-variant="dark" text-variant="white" title= "Dirty Crusty">
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/qalG99dX-tQ"
+          src    = "https://www.youtube.com/embed/Hso7huy5CG4"
           allowfullscreen
   ></b-embed>
+  <br>
   <p class="title-color">
 
     The Yard Hackney<br>
-    Mon 14 — Wed 16 Oct 2019
+    24 October - 30 November 2019 @ 7.30pm
 
     </p>
 <p class="asian">
     </p>
       <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Adopting multiple personas of disaffected male youth Oona Doherty channels aggression, humour, hedonism, joy and despair in quick-fire succession. Fragmented, yet meticulously detailed, her intuitive social portrait vibrates with blistering physical and vocal energy. Gestures, words and utterances combine in a wholly distinctive body language, contorting ideas of masculinity and morality.
-">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Jeanine is determined to improve her life. With sex. With dance. With new hobbies, like horticulture. But self-improvement is hard. Reclaiming your dreams is hard. And personal hygiene is really, really hard.">Description Read Me</b-button>
 </div>
   <p class="labour">
-    <!--From £13 per person--><br>
+    <!--From £12 per person--><br>
     <br>
 </p>
 
