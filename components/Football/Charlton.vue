@@ -1,11 +1,13 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "Charlton Athletic F.C.‎" align="center">
 <a href="https://kutt.it/charlton-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544009671/charlton_fc_madgqn.png" fluid-grow alt="Charlton Athletic F.C.‎"/></a>
+<h6>The Valley<br>Floyd Road Charlton SE7 8BL</h6>
+
 <p class="asian">
 
-Sat 19 Oct 2019 @ 3pm <br>V<br>Derby County<br>
-<!--
+
 Sat 2 Nov 2019 @ 3pm <br>V<br>Preston North End<br>
+<!--
 Sat 23 Nov 2019 @ 3pm <br>V<br>Cardiff City<br>
 Sat 30 Nov 2019 @ 3pm <br>V<br>Sheffield Wednesday<br>
 Tues 10 Dec 2019 @7.45pm <br>V<br>Huddersfield Town<br>

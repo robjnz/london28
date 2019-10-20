@@ -6,9 +6,9 @@
 
 <p class="asian">
 
-Sat 19 Oct 2019	@ 3pm <br>V<br>Eastleigh<br>
-<!--
+
 Sat 26 Oct 2019 @ 3pm <br>V<br>St Albans City<br>
+<!--
 Sat 9 Nov 2019 @ 3pm <br>V<br>Dulwich<br>
 Sat 16 Nov 2019 @ 3pm <br>V<br>Braintree<br>
 Sat 7 Dec 2019 @ 3pm <br>V<br>Hemel<br>
