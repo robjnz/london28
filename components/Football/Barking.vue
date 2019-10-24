@@ -1,12 +1,13 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "Barking F.C." align="center">
 <a href="https://kutt.it/barking-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543743135/barking_fc_mfqpl9.jpg" fluid-grow alt="Barking FC"/></a>
+<h6>Mayesbrook Park<br>Lodge Avenue Dagenham Essex RM8 2JR</h6>
+
 <p class="asian">
 <br>
 
-  Tues Oct 22 2019 @ 7: 45pm <br>V<br>Chertsey Town FC<br>
+  Sat 9 Nov 2019 @ 3pm<br>V<br>Staines Town FC<br>
   <!--
-  Sat Nov 9 2019 @ 3pm<br>V<br>Staines Town FC<br>
   Sat Nov 23 2019 @ 3pm<br>V<br>Bracknell Town FC<br>
   Sat Dec 14 2019 @ 3pm<br>V<br>Uxbridge FC<br>
   Sat Dec 28 2019 @ 3pm<br>V<br>Hertford Town FC <br>

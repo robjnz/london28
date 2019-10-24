@@ -1,10 +1,12 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "Walthamstow F.C." align ="center">
 <a href="https://kutt.it/walthamstow-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544943990/walthamstow_fc_wjphs2.jpg" fluid-grow alt="Walthamstow F.C."/></a>
+<h6>Wadham Lodge Sports Ground<br>Kitchener Road Walthamstow E17 4JP</h6>
+<!--walthamstowfc-->
 <p class="asian">
-Tues Oct 22 2019 @ 7.45pm <br>V<br>Tower Hamlets<br>
-<!--
+
 Sat Nov 9 2019 @ 3pm <br>V<br>Saffron Walden<br>
+<!--
 Tues Nov 12 2019 @ 7.45pm <br>V<br>Woodford Town<br>
 Tues Nov 19 2019 @ 7.45pm <br>V<br>Takeley<br>
 Sat Nov 23 2019 @ 3pm <br>V<br> Southend Manor<br>
