@@ -9,21 +9,21 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Murder Mystery Evening">
-  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1571377703/murder_fw3y6b.jpg" fluid-grow alt="Murder Mystery Evening poster"/>
+<b-card bg-variant="dark" text-variant="white" title= "Pencil Unbroken - Live in London">
+  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572018491/pencil_fwb4rh.jpg" fluid-grow alt="Pencil Unbroken poster"/>
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-    Sat 19 Oct 2019 @ 8pm
+  Sun 27 Oct 2019 @ 7pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Watch the events unfold before your eyes and hear what the suspects have to say before food is served, giving you the chance to discuss and debate with your fellow detectives before asking your questions, and revealing the true identity of the killer!">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Ogechi Cyril Nwanevu better known for his stage name Pencil, which was a nickname back in secondary school because of his slim stature and his love for fitted clothes is a renowned Nigeria comedian and actor, he brings you his own comedy concert entitled 'PENCIL UNBROKEN'">Description Read Me</b-button>
 </div>
 
 <p class="labour">
-From £18.50 per person
+From £15 per person
 <br><br>
   </p>
 
@@ -31,20 +31,21 @@ From £18.50 per person
 
 </b-card>
 <!--Greenwich-->
-<b-card bg-variant="dark" text-variant="white" title= "The Scarecrow's Wedding">
-  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1571382585/Scarecrow_s_Wedding_w0an3s.jpg" fluid-grow alt="The Scarecrow's Wedding poster"/>
+<b-card bg-variant="dark" text-variant="white" title= "Getting The Third Degree">
+  <br>
+  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572019774/degree_o0xkko.jpg" fluid-grow alt="Getting The Third Degree poster"/>
 
   <p class="title-color">
     Greenwich Theatre<br>
-    Tues 22 - Wed 23 2019
+    Sat 2 - Sun 3 Nov 2019 @ 7.30pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Betty O’Barley and Harry O’Hay are excellent scarecrows. Their wedding plans are all coming together until Harry leaves Betty’s side and the devilishly smooth Reginald Rake tries to take Harry’s place. Will Harry make it back in time to save their special day?">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="The Third Degree was commissioned by Kick it Out to recognise the 25th anniversary of its ongoing battle against discrimination in football. In dramatising Laurie Cunningham’s meteoric rise to stardom, Getting The Third Degree also explores how he and his fellow black players – Brendon Batson and Cyrille Regis – triumphed over the racial abuse and physical threats often orchestrated by The National Front through a potent combination of footballing brilliance, charismatic style and compelling dignity. Incorporating 1970’s funk, soul and blues, contemporary commentary and social and political speeches, Getting The Third Degree is a powerful piece of theatre that vividly recreates a tense and troubled period in the history of football and the wider society.">Description Read Me</b-button>
 </div>
 <p class="labour">
-  From £15 per person
+  From £16 per person
   <br><br>
   </p>
 
@@ -52,21 +53,26 @@ From £18.50 per person
 
 </b-card>
 <!--Hackney-->
-<b-card bg-variant="dark" text-variant="white" title= "Mark Steel Every Thing's Gonna Be Alright">
-  <br><br><br><br><br><br><br>
+<b-card bg-variant="dark" text-variant="white" title= "The Lovely Bones">
+  <br><br>
+  <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/okwPyiccNas"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
     Hackney Empire<br>
-    Fri 18 Oct 2019 7.30pm
+    Mon 28 Oct - Fri 1 Nov 2019 @ 7.30pm
     </p>
 
     <p class="asian">
 
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="A few years ago, it seemed unlikely that the UK would vote to leave the EU; we had a reasonable opposition to the Tory Government; Donald Trump was a buffoon who surely wasn’t going to beat Hillary Clinton and Mark was living the married suburban ideal, since then it’s all gone to absolute shit! But don’t worry as Mark thinks Every Little Thing’s Gonna Be Alright.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Susie Salmon is just like any other young girl. She wants  to be beautiful, adores her charm bracelet and has a crush on a boy… There’s one big difference though – Susie is dead.   Alice Sebold’s best-selling novel The Lovely Bones is a unique coming-of-age tale that captured the hearts of readers  throughout the world. This acclaimed adaptation is an unforgettable play about life after loss.">Description Read Me</b-button>
 </div>
 <p class="labour">
-From £21 per person<br>
+From £38.50 per person<br>
 <br>
   </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
@@ -160,7 +166,7 @@ Running time 140 minutes
 
     Theatre Royal Stratford East<br>
     Wed 25 Sept – Sat 02 Nov 2019 @ 7.30pm<br>
-    
+
     </p>
 
     <p class="asian">
