@@ -83,22 +83,23 @@ From £38.50 per person<br>
         <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "The Milk">
-<br><br><br><br><br><br><br><br>
+<b-card bg-variant="dark" text-variant="white" title= "Sorry"><br>
+    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572078781/sorry_qhrqvt.jpg" fluid-grow alt="sorry poster"/>
+
   <p class="title-color">
     Hoxton Hall<br>
-    Fri 25 Oct 2019 @ 7.30pm
+    Thu 14 Nov 2019 @ 7.30pm
     </p>
 
     <p class="asian">
       </p>
 
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="There is confidence when The Milk gets dirty and dark, intricately layered compositions with deceptively simple melody lines but, they can be as playful and sunny pop with their sound too. The four-elements band ensures a expertly mixed variety of music palettes that travel the late ‘60s to early ‘70s expanse, but never sacrifices project cohesion and whose use of vintage production techniques serves to add texture and nuance to The Milk’s work.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Centred around Asha Lorenz and Louis O’Bryen, two 22-year-old childhood best friends, Sorry were signed by Domino after developing a reputation as the most thrilling new band on London’s underground circuit. Sorry’s lineup is completed by Lincoln Barrett on drums and bassist Campbell Baum alongside a new addition in Marco Pini on synths.">Description Read Me</b-button>
 </div>
 <br>
       <p class="labour">
-      From £21.50 per person
+      From £12 per person
       <br><br>
 
   </p>
@@ -109,7 +110,8 @@ From £38.50 per person<br>
 <b-card bg-variant="dark" text-variant="white" title= "Theatre Closed ">
 
   <p class="title-color">
-    Kenneth More Theatre Ilford<br>
+    Kenneth More Theatre Ilford<br><br>
+    
 
 
 </p>
@@ -126,25 +128,24 @@ From £38.50 per person<br>
 
 </b-card>
 <!--Hornchurch-->
-<b-card bg-variant="dark" text-variant="white" title= "A Tribute to Amy Winehouse">
-<b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/bNkImwUW5zA"
-          allowfullscreen
-  ></b-embed>
+<b-card bg-variant="dark" text-variant="white" title= "The Beauty Queen of Leenane">
+    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572081598/leenane_ul3m7t.jpg" fluid-grow alt="The Beauty Queen of Leenane poster"/>
+
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Mon 21 Oct 2019 @ 7.30pm
+    Wed 30 Oct - Sat 16 Nov 2019
     </p>
 
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Taking songs from the multi-platinum selling albums Frank, Back To Black and Lioness: Hidden Treasures, world-renowned tribute artist, Laura Jane Butler, recreates the distinctive sound and heartfelt performances of the jazz and soul powerhouse.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="In a remote cottage in the mountains of Connemara, 40 year old Maureen Folan lives with her manipulative and possessive mother, Mag.
+Trapped together in a poisonous cycle of daily battles and with endless rain driving at the walls, Maureen dreams of escape. When a chance for happiness arrives in the form of unexpected suitor Pato Dooley, she dares to hope…
+But Mag has other ideas and sets in motion a chain of events that build to a terrifying climax…">Description Read Me</b-button>
 </div>
 <p class="labour">
-From £20 per person<br>
-Running time 140 minutes
+From £19 per person<br>
+Running time 120 minutes
 </p>
     <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
 
