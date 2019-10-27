@@ -4,7 +4,7 @@
 <h6>Mayesbrook Park<br>Lodge Avenue Dagenham Essex RM8 2JR</h6>
 
 <p class="asian">
-<br>
+
 
   Sat 9 Nov 2019 @ 3pm<br>V<br>Staines Town FC<br>
   <!--

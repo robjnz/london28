@@ -2,11 +2,11 @@
   <b-card bg-variant="dark" text-variant="white" title= "Erith Town F.C." align="center">
 <a href="https://kutt.it/erithtown" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543950755/erithfc_rrj321.jpg" fluid-grow alt="Erith Town F.C."/></a>
 <h6>Erith Stadium <br>Erith Avenue Road Erith Kent DA8 3AT</h6>
+<!-- ErithTown -->
 <p class="asian">
 
-Sat 26 Oct 2019 @ 3pm <br>V<br>Deal Town<br>
-<!---
 Sat 9 Nov 2019 @ 3pm <br>V<br>Bearsted<br>
+<!--
 Sat 23 Nov 2019 @ 3pm <br>V<br>Greenwich Borough<br>
 Sat 30 Nov 2019 @ 3pm <br>V<br>Crowborough Athletic<br>
 Sat 21 Dec 2019 @ 3pm <br>V<br>Fisher<br>

@@ -3,12 +3,11 @@
 <a href="https://kutt.it/westham-women" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636784/west_ham_fc_wrookz.png" fluid-grow alt="West Ham United F.C.‎"/></a>
 <h5>Woman Team</h5>
 <h6>Rush Green Training Ground<br> Rush Green Road RM7 0LU</h6>
+<!-- westhamwomen WHUFC -->
 <p class="asian">
 
-
-Sun 27 Oct 2019 @ 3pm <br>V<br>Chelsea<br>
-<!--
 Wed 20 Nov 2019 @ 7.30pm <br>V<br>Lewes<br>
+<!--
 Sun 24 Nov 2019 @ 3pm <br>V<br>Reading<br>
 Sun 1 Dec 2019 @ 3pm <br>V<br>Manchester United<br>
 Wed 11 Dec 2019 @  7.30pm <br>V<br>Crystal Palace<br>

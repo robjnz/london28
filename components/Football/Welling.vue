@@ -3,13 +3,11 @@
 <a href="https://kutt.it/welling-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543950328/wellingfc_kfdqwb.png" fluid-grow alt="Welling United F.C."/></a>
 
 <h6>Park View Road Welling Kent DA16 1SY</h6>
-
+<!-- WUFC -->
 <p class="asian">
 
-
-Sat 26 Oct 2019 @ 3pm <br>V<br>St Albans City<br>
-<!--
 Sat 9 Nov 2019 @ 3pm <br>V<br>Dulwich<br>
+<!--
 Sat 16 Nov 2019 @ 3pm <br>V<br>Braintree<br>
 Sat 7 Dec 2019 @ 3pm <br>V<br>Hemel<br>
 Tues 26 Dec 2019 @ 3pm <br>V<br>Dartford<br>

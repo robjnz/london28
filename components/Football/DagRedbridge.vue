@@ -1,13 +1,12 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "Dagenham & Redbridge F.C." align="center">
 <a href="https://kutt.it/dagred-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543751795/dagenhamredbridge_kz5h8j.png" fluid-grow alt="Dagenham & Redbridge FC"/></a>
+<h6>Chigwell Construction Stadium<br>Victoria Road Dagenham RM10 7XL</h6>
+<!--Dag_RedFC-->
 <p class="asian">
 
-<br>
-
-  Sat 26 Oct 2019 @ 3pm<br>V<br>Wrexham<br>
-  <!--
   Tues 29 Oct 2019 @ 7.45pm<br>V<br>Barrow<br>
+  <!--
   Sat 16 Nov 2019 @ 3pm<br>V<br>Aldershot Town<br>
   Tues 26 Nov 2019 @ 7.45pm<br>V<br>Sutton United<br>
   Sat 7 Dec 2019 @ 3pm<br>V<br>Maidenhead United<br>
