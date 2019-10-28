@@ -9,21 +9,21 @@
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Pencil Unbroken - Live in London">
-  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572018491/pencil_fwb4rh.jpg" fluid-grow alt="Pencil Unbroken poster"/>
+<b-card bg-variant="dark" text-variant="white" title= "A Night for Monique"><br>
+  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572280252/monique_vz91zq.jpg" fluid-grow alt="A Night for Monique poster"/>
   <p class="title-color">
 
     Broadway Theatre Barking<br>
-  Sun 27 Oct 2019 @ 7pm
+    Sat 2 Nov 2019 @7.30pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Ogechi Cyril Nwanevu better known for his stage name Pencil, which was a nickname back in secondary school because of his slim stature and his love for fitted clothes is a renowned Nigeria comedian and actor, he brings you his own comedy concert entitled 'PENCIL UNBROKEN'">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="A Night for Monique is a Charity event held in memory of Monique Cooper-Henry who sadly passed away in 2010 at the age of 15.">Description Read Me</b-button>
 </div>
 
 <p class="labour">
-From £15 per person
+From £13 per person
 <br><br>
   </p>
 
@@ -111,7 +111,7 @@ From £38.50 per person<br>
 
   <p class="title-color">
     Kenneth More Theatre Ilford<br><br>
-    
+
 
 
 </p>
