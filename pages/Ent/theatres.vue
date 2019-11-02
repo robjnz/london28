@@ -3,7 +3,7 @@
 
   <b-container>
     <h1 class="title-color">What on this month @ East London Theatres</h1>
-    <h2>October 2019</h2>
+    <h2>November 2019</h2>
     <br>
     <!--barking -->
     <b-card-group deck
@@ -53,26 +53,24 @@ From £13 per person
 
 </b-card>
 <!--Hackney-->
-<b-card bg-variant="dark" text-variant="white" title= "The Lovely Bones">
-  <br><br>
-  <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/okwPyiccNas"
-          allowfullscreen
-  ></b-embed>
+<b-card bg-variant="dark" text-variant="white" title= "An Evening With Lenny Henry Who Am I, Again?">
+    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_200,w_300/v1572691814/lennyhenry_vckzs0.jpg" fluid-grow alt="lenny henry poster"/>
+
+
+
   <p class="title-color">
     Hackney Empire<br>
-    Mon 28 Oct - Fri 1 Nov 2019 @ 7.30pm
+    Fri 8 Nov 2019 @ 7.30pm
     </p>
 
     <p class="asian">
 
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Susie Salmon is just like any other young girl. She wants  to be beautiful, adores her charm bracelet and has a crush on a boy… There’s one big difference though – Susie is dead.   Alice Sebold’s best-selling novel The Lovely Bones is a unique coming-of-age tale that captured the hearts of readers  throughout the world. This acclaimed adaptation is an unforgettable play about life after loss.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title=" An evening, Lenny will take the audience through a jam session of funny and sad memories and stories – from growing up in the Black Country.">Description Read Me</b-button>
 </div>
 <p class="labour">
-From £38.50 per person<br>
+From £29.50 per person<br>
 <br>
   </p>
     <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
@@ -278,7 +276,7 @@ export default {
     return {
       titleTemplate: '%s theatres',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, October 2019, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
+        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, November 2019, Hackney Empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
       ]
     }
   }

@@ -5,9 +5,9 @@
 <!--Dag_RedFC-->
 <p class="asian">
 
-  Tues 29 Oct 2019 @ 7.45pm<br>V<br>Barrow<br>
-  <!--
+
   Sat 16 Nov 2019 @ 3pm<br>V<br>Aldershot Town<br>
+  <!--
   Tues 26 Nov 2019 @ 7.45pm<br>V<br>Sutton United<br>
   Sat 7 Dec 2019 @ 3pm<br>V<br>Maidenhead United<br>
   Thurs 26 Dec 2019 @ 1pm<br>V<br>Ebbsfleet<br>
