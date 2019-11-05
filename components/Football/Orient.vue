@@ -6,9 +6,9 @@
 <!-- leytonorientfc -->
 <p class="asian">
 
-Tues 5 Nov 2019 @ 7.45pm <br>V<br>Brighton & Hove Albion<br>
-<!--
+
 Sat 16 Nov 2019 @ 3pm <br>V<br>Scunthorpe United<br>
+<!--
 Sat 23 Nov 2019 @ 3pm <br>V<br>Forest Green Rovers<br>
 Sat 14 Dec 2019 @ 3pm <br>V<br>Bradford City<br>
 Thurs 26 Dec 2019 @ 1pm <br>V<br> Colchester United<br>

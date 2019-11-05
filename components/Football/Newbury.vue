@@ -1,11 +1,12 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "Newbury Forest F.C." align ="center">
 <a href="https://kutt.it/newbury-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893664/newbury_fc_vqsc8u.jpg" fluid-grow alt="Newbury Forest F.C."/></a>
+<h6>Oakside Stadium<br>Station Road Barkingside Essex IG6 1NB</h6>
+
 <p class="asian">
 
-Sat 2 Nov 2019 @ 3pm<br>V<br>White Ensign<br>
-<!--
 Tues 12 Nov 2019 @ 7.45pm<br>V<br>Fire United<br>
+<!--
 Sat 16 Nov 2019 @ 3pm <br>V<br>Brightlingsea Regent Reserves<br>
 Sat 7 Dec 2019 @ 3pm <br>V<br>Burnham Ramblers<br>
 Sat 21 Dec 2019 @ 3pm <br>V<br> Lopes Tavares<br>
