@@ -2,19 +2,12 @@
 <section main>
   <b-container>
     <h1 class="title-color">What on this month @ East London Night clubs</h1>
-    <h2>October 2019</h2>
+    <h2>November 2019</h2>
     <br>
 
     <b-card-group deck
     class="mb-3">
-
-<b-card bg-variant="dark" text-variant="white" title= "ATIK Romford">
-  <p class="title-color">
-  <a href="https://kutt.it/atik-club" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_300/v1550863227/atik_romford_t5pirb.jpg" fluid-grow alt="ATIK Romford" /></a>
-    </p>
-    <b-button href="https://kutt.it/atik-club" target="_blank" variant="info">open</b-button>
-<br>108 South Street<br>Romford RM1 1SS Essex
-</b-card>
+<ATIK />
 
 <b-card bg-variant="dark" text-variant="white" title= "Bar300 Walthamstow">
   <p class="title-color">
@@ -94,14 +87,19 @@
 </template>
 
 <script>
+import ATIK from '@/components/Nightclubs/ATIK'
+
 export default {
   head () {
     return {
       titleTemplate: '%s Night clubs',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on @ the east London night clubs this month, October 2019.' }
+        { hid: 'description', name: 'description', content: 'Whats on @ the east London night clubs this month, November 2019.' }
       ]
     }
-  }
+  },
+  components: {
+ATIK,
+}
 }
 </script>

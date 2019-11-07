@@ -60,6 +60,7 @@ Ilford
 
 <br><br>
  <a href="http://bit.ly/33jlg95" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_90,w_90/v1570791420/instagram_txv2hp.jpg" alt="instagram@londoneast.life" /></a>
+ <a href="http://bit.ly/2CjQCRg" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_90,w_90/v1573108008/pintress_lo8wth.png" alt="instagram@londoneast.life" /></a>
 
 <br><br>
 <br><br>
