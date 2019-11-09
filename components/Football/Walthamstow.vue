@@ -5,9 +5,9 @@
 <!--walthamstowfc-->
 <p class="asian">
 
-Sat Nov 9 2019 @ 3pm <br>V<br>Saffron Walden<br>
+
+Tues 12 Nov 2019 @ 7.45pm <br>V<br>Woodford Town<br>
 <!--
-Tues Nov 12 2019 @ 7.45pm <br>V<br>Woodford Town<br>
 Tues Nov 19 2019 @ 7.45pm <br>V<br>Takeley<br>
 Sat Nov 23 2019 @ 3pm <br>V<br> Southend Manor<br>
 Sat Nov 30 2019 @ 3pm <br>V<br> Hashtag United<br>

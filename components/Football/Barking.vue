@@ -6,9 +6,9 @@
 <p class="asian">
 
 
-  Sat 9 Nov 2019 @ 3pm<br>V<br>Staines Town FC<br>
-  <!--
+
   Sat Nov 23 2019 @ 3pm<br>V<br>Bracknell Town FC<br>
+  <!--
   Sat Dec 14 2019 @ 3pm<br>V<br>Uxbridge FC<br>
   Sat Dec 28 2019 @ 3pm<br>V<br>Hertford Town FC <br>
   Sat Jan 4 2020 @ 3pm<br>V<br>Bedfont Sports FC <br>

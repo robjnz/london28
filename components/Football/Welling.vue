@@ -6,7 +6,7 @@
 <!-- WUFC -->
 <p class="asian">
 
-Sat 9 Nov 2019 @ 3pm <br>V<br>Dulwich<br>
+Tues 12 Nov 2019 @ 7.45pm <br>V<br>Dulwich<br>
 <!--
 Sat 16 Nov 2019 @ 3pm <br>V<br>Braintree<br>
 Sat 7 Dec 2019 @ 3pm <br>V<br>Hemel<br>

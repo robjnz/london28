@@ -5,53 +5,14 @@
     <h1 class="title-color">What on this month @ East London Theatres</h1>
     <h2>November 2019</h2>
     <br>
-    <!--barking -->
+
     <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "A Night for Monique"><br>
-  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572280252/monique_vz91zq.jpg" fluid-grow alt="A Night for Monique poster"/>
-  <p class="title-color">
+<Barking/>
+<Greenwich />
 
-    Broadway Theatre Barking<br>
-    Sat 2 Nov 2019 @7.30pm
-    </p>
-<p class="asian">
-</p>
-<div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="A Night for Monique is a Charity event held in memory of Monique Cooper-Henry who sadly passed away in 2010 at the age of 15.">Description Read Me</b-button>
-</div>
 
-<p class="labour">
-From £13 per person
-<br><br>
-  </p>
-
-    <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>
-
-</b-card>
-<!--Greenwich-->
-<b-card bg-variant="dark" text-variant="white" title= "Getting The Third Degree">
-  <br>
-  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572019774/degree_o0xkko.jpg" fluid-grow alt="Getting The Third Degree poster"/>
-
-  <p class="title-color">
-    Greenwich Theatre<br>
-    Sat 2 - Sun 3 Nov 2019 @ 7.30pm
-    </p>
-<p class="asian">
-</p>
-<div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="The Third Degree was commissioned by Kick it Out to recognise the 25th anniversary of its ongoing battle against discrimination in football. In dramatising Laurie Cunningham’s meteoric rise to stardom, Getting The Third Degree also explores how he and his fellow black players – Brendon Batson and Cyrille Regis – triumphed over the racial abuse and physical threats often orchestrated by The National Front through a potent combination of footballing brilliance, charismatic style and compelling dignity. Incorporating 1970’s funk, soul and blues, contemporary commentary and social and political speeches, Getting The Third Degree is a powerful piece of theatre that vividly recreates a tense and troubled period in the history of football and the wider society.">Description Read Me</b-button>
-</div>
-<p class="labour">
-  From £16 per person
-  <br><br>
-  </p>
-
-    <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
-
-</b-card>
 <!--Hackney-->
 <b-card bg-variant="dark" text-variant="white" title= "An Evening With Lenny Henry Who Am I, Again?">
     <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_200,w_300/v1572691814/lennyhenry_vckzs0.jpg" fluid-grow alt="lenny henry poster"/>
@@ -271,6 +232,10 @@ Running Time 2 hours 35 mins
 </template>
 
 <script>
+import Barking from '@/components/Theatres/Barking'
+import Greenwich from '@/components/Theatres/Greenwich'
+
+
 export default {
   head () {
     return {
@@ -279,6 +244,10 @@ export default {
         { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, November 2019, Hackney Empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
       ]
     }
-  }
+  },
+  components: {
+Barking,
+Greenwich,
+}
 }
 </script>
