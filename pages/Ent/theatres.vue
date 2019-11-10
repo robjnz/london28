@@ -11,32 +11,8 @@
 
 <Barking/>
 <Greenwich />
+<Hackney />
 
-
-<!--Hackney-->
-<b-card bg-variant="dark" text-variant="white" title= "An Evening With Lenny Henry Who Am I, Again?">
-    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces,h_200,w_300/v1572691814/lennyhenry_vckzs0.jpg" fluid-grow alt="lenny henry poster"/>
-
-
-
-  <p class="title-color">
-    Hackney Empire<br>
-    Fri 8 Nov 2019 @ 7.30pm
-    </p>
-
-    <p class="asian">
-
-</p>
-<div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title=" An evening, Lenny will take the audience through a jam session of funny and sad memories and stories – from growing up in the Black Country.">Description Read Me</b-button>
-</div>
-<p class="labour">
-From £29.50 per person<br>
-<br>
-  </p>
-    <b-button href="https://kutt.it/hackneyT" target="_blank" variant="info">open</b-button>
-
-</b-card>
     </b-card-group>
 <!--hoxton-->
         <b-card-group deck
@@ -234,6 +210,7 @@ Running Time 2 hours 35 mins
 <script>
 import Barking from '@/components/Theatres/Barking'
 import Greenwich from '@/components/Theatres/Greenwich'
+import Hackney from '@/components/Theatres/Hackney'
 
 
 export default {
@@ -248,6 +225,7 @@ export default {
   components: {
 Barking,
 Greenwich,
+Hackney,
 }
 }
 </script>

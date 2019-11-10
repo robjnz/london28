@@ -14,8 +14,6 @@
 </div>
 
 <p class="labour">
-From £21 per person
-<br><br>
   </p>
 
     <b-button href="https://kutt.it/barkingt" target="_blank" variant="info">open</b-button>

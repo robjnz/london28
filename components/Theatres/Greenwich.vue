@@ -13,8 +13,6 @@
   <b-button block variant="success" v-b-tooltip.hover title="Andrew Pollard returns to Greenwich Theatre for a very special pantomime, celebrating the 50th anniversary of the reopening of Greenwich Theatre with a tale of a sleeping princess, an unlikely hero, an even more unlikely villain – and an adventure that’s out of this world…">Description Read Me</b-button>
 </div>
 <p class="labour">
-  <!--From £16 per person-->
-  <br><br>
   </p>
 
     <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
