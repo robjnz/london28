@@ -42,26 +42,7 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Theatre Closed ">
-
-  <p class="title-color">
-    Kenneth More Theatre Ilford<br><br>
-
-
-
-</p>
-<br><br>
-<p class="asian">
-</p>
-
-
-<p class="labour">
-
-<br><br><br><br><br><br><br><br><br><br><br>
-</p>
-    <b-button href="https://kutt.it/ilfordT" target="_blank" variant="info">open</b-button>
-
-</b-card>
+<Ilford />
 <!--Hornchurch-->
 <b-card bg-variant="dark" text-variant="white" title= "The Beauty Queen of Leenane">
     <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572081598/leenane_ul3m7t.jpg" fluid-grow alt="The Beauty Queen of Leenane poster"/>
@@ -90,33 +71,8 @@ Running time 120 minutes
 
     <b-card-group deck
       class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Our Lady of Kibeho">
+      <Stratford />
 
-  <b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/pWJOJX8zwXs"
-          allowfullscreen
-  ></b-embed>
-  <br>
-      <p class="title-color">
-
-    Theatre Royal Stratford East<br>
-    Wed 25 Sept – Sat 02 Nov 2019 @ 7.30pm<br>
-
-    </p>
-
-    <p class="asian">
-<div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="In 1981 at Kibeho College in Rwanda, a young girl claimed to have seen a vision of the Virgin Mary who warned her of the unimaginable: Rwanda becoming hell on earth. She was ignored by her friends and scolded by her school but then another student saw the vision, and another, and the impossible appeared to be true.
-">Description Read Me</b-button>
-</div>
-<p class="labour">
-From £10 per person<br>
-Running Time 2 hours 35 mins
-</p>
-    <b-button href="https://kutt.it/stratfordeastT" target="_blank" variant="info">open</b-button>
-
-</b-card>
 <!--02-->
 <b-card bg-variant="dark" text-variant="white" title= "John Legend">
       <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1571389685/John_Legend_kwblqx.jpg" fluid-grow alt="John Legend poster"/>
@@ -211,6 +167,9 @@ Running Time 2 hours 35 mins
 import Barking from '@/components/Theatres/Barking'
 import Greenwich from '@/components/Theatres/Greenwich'
 import Hackney from '@/components/Theatres/Hackney'
+import Ilford from '@/components/Theatres/Ilford'
+import Stratford from '@/components/Theatres/Stratford'
+
 
 
 export default {
@@ -226,6 +185,8 @@ export default {
 Barking,
 Greenwich,
 Hackney,
+Ilford,
+Stratford,
 }
 }
 </script>
