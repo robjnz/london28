@@ -14,113 +14,21 @@
 <Hackney />
 
     </b-card-group>
-<!--hoxton-->
-        <b-card-group deck
+
+    <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Sorry"><br>
-    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572078781/sorry_qhrqvt.jpg" fluid-grow alt="sorry poster"/>
-
-  <p class="title-color">
-    Hoxton Hall<br>
-    Thu 14 Nov 2019 @ 7.30pm
-    </p>
-
-    <p class="asian">
-      </p>
-
-<div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Centred around Asha Lorenz and Louis O’Bryen, two 22-year-old childhood best friends, Sorry were signed by Domino after developing a reputation as the most thrilling new band on London’s underground circuit. Sorry’s lineup is completed by Lincoln Barrett on drums and bassist Campbell Baum alongside a new addition in Marco Pini on synths.">Description Read Me</b-button>
-</div>
-<br>
-      <p class="labour">
-      From £12 per person
-      <br><br>
-
-  </p>
-    <b-button href="https://kutt.it/hoxtonT" target="_blank" variant="info">open</b-button>
-
-</b-card>
-
-<Ilford />
-<!--Hornchurch-->
-<b-card bg-variant="dark" text-variant="white" title= "The Beauty Queen of Leenane">
-    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572081598/leenane_ul3m7t.jpg" fluid-grow alt="The Beauty Queen of Leenane poster"/>
-
-  <p class="title-color">
-    Queen's Theatre Hornchurch<br>
-    Wed 30 Oct - Sat 16 Nov 2019
-    </p>
-
-<p class="asian">
-</p>
-<div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="In a remote cottage in the mountains of Connemara, 40 year old Maureen Folan lives with her manipulative and possessive mother, Mag.
-Trapped together in a poisonous cycle of daily battles and with endless rain driving at the walls, Maureen dreams of escape. When a chance for happiness arrives in the form of unexpected suitor Pato Dooley, she dares to hope…
-But Mag has other ideas and sets in motion a chain of events that build to a terrifying climax…">Description Read Me</b-button>
-</div>
-<p class="labour">
-From £19 per person<br>
-Running time 120 minutes
-</p>
-    <b-button href="https://kutt.it/queensT" target="_blank" variant="info">open</b-button>
-
-</b-card>
+      <hoxton />
+      <Ilford />
+      <Hornchurch />
 
     </b-card-group>
 
     <b-card-group deck
       class="mb-3">
       <Stratford />
-
-<!--02-->
-<b-card bg-variant="dark" text-variant="white" title= "John Legend">
-      <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1571389685/John_Legend_kwblqx.jpg" fluid-grow alt="John Legend poster"/>
-
-<p class="title-color">
-    The O2 arena<br>
-    Fri 25 Oct 2019 @ 6.30pm
-    </p>
-    <p class="asian">
-    </p>
-    <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="John Legend">Description Read Me</b-button>
-</div>
-    <p class="labour">
-<br>
-</p>
-
-    <b-button href="https://kutt.it/Theo2T" target="_blank" variant="info">open</b-button>
-
-</b-card>
-<!--Yard-->
-<b-card bg-variant="dark" text-variant="white" title= "Dirty Crusty">
-<b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/Hso7huy5CG4"
-          allowfullscreen
-  ></b-embed>
-  <br>
-  <p class="title-color">
-
-    The Yard Hackney<br>
-    24 October - 30 November 2019 @ 7.30pm
-
-    </p>
-<p class="asian">
-    </p>
-      <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Jeanine is determined to improve her life. With sex. With dance. With new hobbies, like horticulture. But self-improvement is hard. Reclaiming your dreams is hard. And personal hygiene is really, really hard.">Description Read Me</b-button>
-</div>
-  <p class="labour">
-    <!--From £12 per person--><br>
-    <br>
-</p>
-
-    <b-button href="https://kutt.it/yardT" target="_blank" variant="info">open</b-button>
-
-</b-card>
-
+      <Two />
+      <Yard />
 
     </b-card-group>
     <!--
@@ -167,8 +75,12 @@ Running time 120 minutes
 import Barking from '@/components/Theatres/Barking'
 import Greenwich from '@/components/Theatres/Greenwich'
 import Hackney from '@/components/Theatres/Hackney'
+import Hornchurch from '@/components/Theatres/Hornchurch'
+import Hoxton from '@/components/Theatres/Hoxton'
 import Ilford from '@/components/Theatres/Ilford'
 import Stratford from '@/components/Theatres/Stratford'
+import Two from '@/components/Theatres/Two'
+import Yard from '@/components/Theatres/Yard'
 
 
 
@@ -185,8 +97,12 @@ export default {
 Barking,
 Greenwich,
 Hackney,
+Hornchurch,
+Hoxton,
 Ilford,
 Stratford,
+Two,
+Yard,
 }
 }
 </script>
