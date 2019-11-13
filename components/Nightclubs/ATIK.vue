@@ -4,9 +4,9 @@
 
 <h6>108 South Street Romford RM1 1SS</h6>
 <p class="asian">
-  Sat 9 Nov 2019 10pm - 4am<br>Happy Disco<br>
-  <!--
+
   Thurs 14 Nov 2019 10pm - 3am <br>Cheeky Thursdays<br>
+  <!--
   Fri 15 Nov 2019 10pm - 4am <br> SCHPUNK<br>
 -->
 
