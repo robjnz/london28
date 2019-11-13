@@ -5,20 +5,21 @@
     <main class="main-content">
       <nuxt />
     </main>
+    <Icons />
   </div>
 </template>
 
 <script>
 import TheHeader from '@/components/TheHeader/TheHeader'
 import TheFooter from '@/components/TheFooter/TheFooter'
-import NavBar from '@/components/TheHeader/NavBar'
+import Icons from '@/components/TheFooter/Icons'
 
 
 export default {
   components: {
     TheHeader,
     TheFooter,
-    NavBar,
+    Icons,
   }
 }
 </script>

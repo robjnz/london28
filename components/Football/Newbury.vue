@@ -5,9 +5,9 @@
 
 <p class="asian">
 
-Tues 12 Nov 2019 @ 7.45pm<br>V<br>Fire United<br>
-<!--
+
 Sat 16 Nov 2019 @ 3pm <br>V<br>Brightlingsea Regent Reserves<br>
+<!--
 Sat 7 Dec 2019 @ 3pm <br>V<br>Burnham Ramblers<br>
 Sat 21 Dec 2019 @ 3pm <br>V<br> Lopes Tavares<br>
 Sat 4 Jan 2020 @ 3pm <br>V<br>Halstead Town<br>

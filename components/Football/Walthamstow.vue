@@ -5,16 +5,14 @@
 <!--walthamstowfc-->
 <p class="asian">
 
-
-Tues 12 Nov 2019 @ 7.45pm <br>V<br>Woodford Town<br>
+Tues 19 Nov 2019 @ 7.45pm <br>V<br>Takeley<br>
 <!--
-Tues Nov 19 2019 @ 7.45pm <br>V<br>Takeley<br>
 Sat Nov 23 2019 @ 3pm <br>V<br> Southend Manor<br>
 Sat Nov 30 2019 @ 3pm <br>V<br> Hashtag United<br>
 Tues Dec 3 2019 @ 7.45pm <br>V<br> Hoddesdon Town<br>
 Sat Jan 4 2020 @ 3pm <br>V<br>Clapton<br>
 Sat Feb 8 2020 @ 3pm <br>V<br>Sawbridgeworth Town<br>
-Sat Feb 29 2020 @ 3pm <br>V<br>Enfield<br>
+Sat Feb 29 2020 @ <br>V<br>Enfield<br>
 Tues March 17 2020 @ 7.45pm <br>V<br>West Essex<br>
 Sat March 28 2020 @ 3pm <br>V<br>St Margaretsbury<br>
 Sat April 11 2020 @ 3pm <br>V<br>Redbridge<br>
