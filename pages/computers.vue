@@ -22,21 +22,23 @@
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Alternative To" align="center">
+<br><br><br><br><br><br><br>
   <p class="title-color">
     AlternativeTo is a free service that helps you find better alternatives to the products you love and hate.
-    <br>
-    <br>
+
   </p>
   <b-button href="http://bit.ly/2NmFriN" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Bitdefender Home" align="center">
+ <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/dKMzo68mctQ"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
     Free anti virus protection.
-    <br>
-    <br>
-    <br>
-    <br>
+<br><br>
   </p>
   <b-button href="http://bit.ly/2PI3TYw" target="_blank" variant="info">open</b-button>
 </b-card>
@@ -44,11 +46,17 @@
 
 <b-card-group deck
   class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Bitdefender Rescue CD" align="center">
+<b-card bg-variant="dark" text-variant="white" title= "Brave" align="center">
+ <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/Ge2Hhry7pdA"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
-    Free tool that scans your computer for viruses, without the need of loading the operating system.
+    Web browser.
+    <br><br>
   </p>
-  <b-button href="http://bit.ly/2xkR9Aw" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2Kh2195" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -68,12 +76,14 @@
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Chrome" align="center">
+ <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/3tvGp_X-2Ek"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
     Web browser.
-    <br>
-    <br>
-    <br>
-    <br>
+    <br><br>
   </p>
   <b-button href="http://bit.ly/2xmBP6q" target="_blank" variant="info">open</b-button>
 </b-card>
@@ -83,15 +93,24 @@
       class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Driver Booster" align="center">
+ <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/HOrHShfHdMA"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
     Update outdated, faulty, missing drivers.
-    <br><br><br>
-
+    <br><br>
   </p>
   <b-button href="http://bit.ly/2xnJ4Lr" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Emsisoft Emergency Kit" align="center">
+ <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/7EjCN_jjmk8"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
     Free program to scan for malware and cleans infected computers.
   </p>
@@ -99,11 +118,15 @@
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "F.lux" align="center">
+  <b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/8YYnTRzC-hE"
+          allowfullscreen
+  ></b-embed>
   <p class="title-color">
 
     It makes the color of your computer's display adapt to the time of day.
-    <br>
-    <br>
+
     </p>
     <b-button href="http://bit.ly/2PPAAU0" target="_blank" variant="info">open</b-button>
 </b-card>
@@ -489,7 +512,7 @@ export default {
     return {
       titleTemplate: '%s Computers',
       meta         : [
-        { hid: 'description', name: 'description', content: 'usefull computer software worth looking at, freeware and paid versions. ' }
+        { hid: 'description', name: 'description', content: 'computer software worth looking at, freeware and paid versions. ' }
       ]
     }
   }
