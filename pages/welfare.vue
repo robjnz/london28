@@ -7,7 +7,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Citizens Advice">
+<b-card bg-variant="dark" text-variant="white" title= "Citizens Advice" align="center">
   <p class="title-color">
 
     Free, independent, confidential and impartial advice to everyone on their rights and responsibilities..
@@ -17,7 +17,7 @@
     <b-button href="http://bit.ly/2OdrWBu" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Disability Rights">
+<b-card bg-variant="dark" text-variant="white" title= "Disability Rights" align="center">
   <p class="title-color">
     Advice and information.
     <br>
@@ -28,7 +28,7 @@
   <b-button href="http://bit.ly/2OO1mfn" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Welfare Rights">
+<b-card bg-variant="dark" text-variant="white" title= "Welfare Rights" align="center">
   <p class="title-color">
     Advice and information.
     <br>

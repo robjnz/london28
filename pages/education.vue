@@ -7,7 +7,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Alison">
+<b-card bg-variant="dark" text-variant="white" title= "Alison" align="center">
   <p class="title-color">
 
     Free online courses.
@@ -19,7 +19,7 @@
     <b-button href="http://bit.ly/2xvR3WP" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Citizen Maths">
+<b-card bg-variant="dark" text-variant="white" title= "Citizen Maths" align="center">
   <p class="title-color">
     Everyday maths problems.
     <br>
@@ -30,7 +30,7 @@
   <b-button href="http://bit.ly/2I7q0W4" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Idea">
+<b-card bg-variant="dark" text-variant="white" title= "Idea" align="center">
   <p class="title-color">
     International programme that helps you develop digital, enterprise and employability skills for free.
     <br>
@@ -43,7 +43,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Learn my way">
+<b-card bg-variant="dark" text-variant="white" title= "Learn my way" align="center">
   <p class="title-color">
     Free courses on using a computer, browsing the web, sending an email and finding work online.
     <br>
@@ -52,7 +52,7 @@
   <b-button href="http://bit.ly/2zlCwhK" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Reed">
+<b-card bg-variant="dark" text-variant="white" title= "Reed" align="center">
   <p class="title-color">
     International programme that helps you develop digital, enterprise and employability skills for free.
     <br>
@@ -62,7 +62,7 @@
   <b-button href="http://bit.ly/2PVoYPj" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Vision2learn">
+<b-card bg-variant="dark" text-variant="white" title= "Vision2learn" align="center">
   <p class="title-color">
     Study online whenever and however you want.
     <br>
@@ -75,7 +75,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Barking & Dagenham Collage">
+<b-card bg-variant="dark" text-variant="white" title= "Barking & Dagenham Collage" align="center">
   <p class="title-color">
     <br>
     Place to learn for students of all ages.
@@ -86,7 +86,7 @@
   <b-button href="http://bit.ly/2QuFHth" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Learning and Enterprice Collage Bexley">
+<b-card bg-variant="dark" text-variant="white" title= "Learning and Enterprice Collage Bexley" align="center">
   <p class="title-color">
     Adult education, vocational qualifications and skills for life.
     <br>
@@ -96,7 +96,7 @@
   <b-button href="http://bit.ly/2C1lMhr" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Greenwich college">
+<b-card bg-variant="dark" text-variant="white" title= "Greenwich college" align="center">
   <p class="title-color">
     <br>
     Greenwich adult and continuing education.
@@ -111,7 +111,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Hackney Collage">
+<b-card bg-variant="dark" text-variant="white" title= "Hackney Collage" align="center">
   <p class="title-color">
     Study a great choice of courses for young people and adults.
     <br>
@@ -121,7 +121,7 @@
   <b-button href="#" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Havering Collage">
+<b-card bg-variant="dark" text-variant="white" title= "Havering Collage" align="center">
   <p class="title-color">
     Place to learn for students of all ages.
     <br>
@@ -132,7 +132,7 @@
   <b-button href="http://bit.ly/2PyRFlF" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Lewisham Southwark College">
+<b-card bg-variant="dark" text-variant="white" title= "Lewisham Southwark College" align="center">
   <p class="title-color">
     Place to learn for students of all ages.
     <br>
@@ -147,7 +147,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Newham College">
+<b-card bg-variant="dark" text-variant="white" title= "Newham College" align="center">
   <p class="title-color">
       Place to learn for students of all ages.
     <br>
@@ -157,7 +157,7 @@
   <b-button href="http://bit.ly/2NQrC7H" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Redbridge Institute">
+<b-card bg-variant="dark" text-variant="white" title= "Redbridge Institute" align="center">
   <p class="title-color">
     Place to learn for students of all ages.
     <br>
@@ -168,7 +168,7 @@
   <b-button href="http://bit.ly/2Am2LVU" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "IDEA Tower Hamlets">
+<b-card bg-variant="dark" text-variant="white" title= "IDEA Tower Hamlets" align="center">
   <p class="title-color">
     Wide range of adult learning courses and an extensive activities and events programme.
     <br>
@@ -183,7 +183,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Waltham Forest Collage">
+<b-card bg-variant="dark" text-variant="white" title= "Waltham Forest Collage" align="center">
   <p class="title-color">
       Place to learn for students of all ages.
     <br>
@@ -193,7 +193,7 @@
   <b-button href="http://bit.ly/2O3JYCm" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
     <br>
     <br>
@@ -202,7 +202,7 @@
   </p>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "" align="center"> 
   <p class="title-color">
 
     <br>

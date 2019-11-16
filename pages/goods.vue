@@ -6,7 +6,7 @@
   <div>
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Ebay">
+<b-card bg-variant="dark" text-variant="white" title= "Ebay" align="center">
   <p class="title-color">
     Buy and sell second hand goods online.
     <br>
@@ -15,7 +15,7 @@
   <b-button href="http://bit.ly/2QQGy8v" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Depop">
+<b-card bg-variant="dark" text-variant="white" title= "Depop" align="center">
   <p class="title-color">
     Buy and sell second hand goods online.
     <br>
@@ -25,7 +25,7 @@
   <b-button href="http://bit.ly/2PWTWa2" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Preloved">
+<b-card bg-variant="dark" text-variant="white" title= "Preloved" align="center">
   <p class="title-color">
 
     Buy and sell second hand goods.
@@ -41,7 +41,7 @@
 
 <b-card-group deck
       class="mb-3">
-      <b-card bg-variant="dark" text-variant="white" title= "Rebelle">
+      <b-card bg-variant="dark" text-variant="white" title= "Rebelle" align="center">
   <p class="title-color">
       online platform for high-quality luxury goods. You can buy and sell popular branded items.
     <br>
@@ -52,7 +52,7 @@
 </b-card>
 
 
-<b-card bg-variant="dark" text-variant="white" title= "We buy Books">
+<b-card bg-variant="dark" text-variant="white" title= "We buy Books" align="center">
   <p class="title-color">
     Sell your books, CDs, dVDs & games for cash!
     <br>
@@ -62,7 +62,7 @@
   <b-button href="http://bit.ly/2znSN60" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "World Of Books">
+<b-card bg-variant="dark" text-variant="white" title= "World Of Books" align="center">
   <p class="title-color">
     On line second hand book store.
     <br>

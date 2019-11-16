@@ -9,7 +9,7 @@
 <b-card-group deck
       class="mb-3">
 
-  <b-card bg-variant="dark" text-variant="white" title= "Homerton Hospital">
+  <b-card bg-variant="dark" text-variant="white" title= "Homerton Hospital" align="center">
   <p class="title-color">
     Homerton Row<br>
     Hackney<br>
@@ -22,7 +22,7 @@
     <b-button href="http://bit.ly/2QXpoWR" target="_blank" variant="info">open</b-button>
 
 </b-card>
-<b-card bg-variant="dark" text-variant="white" title= "King George Hospital">
+<b-card bg-variant="dark" text-variant="white" title= "King George Hospital" align="center">
   <p class="title-color">
     Barley Lane<br>
     Goodmayes<br>
@@ -34,7 +34,7 @@
     <b-button href="http://bit.ly/2QTRgvc" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Lewisham Hospital">
+<b-card bg-variant="dark" text-variant="white" title= "Lewisham Hospital" align="center">
   <p class="title-color">
     Lewisham High Street<br>
     London<br>
@@ -47,7 +47,7 @@
   <b-button href="http://bit.ly/2MYkVjw" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Mile End Hospital">
+<b-card bg-variant="dark" text-variant="white" title= "Mile End Hospital" align="center">
   <p class="title-color">
     Bancroft Road<br>
     London<br>
@@ -65,7 +65,7 @@
 <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Newham Hospital">
+<b-card bg-variant="dark" text-variant="white" title= "Newham Hospital" align="center">
   <p class="title-color">
     Glen Road<br>
     Plaistow<br>
@@ -78,7 +78,7 @@
   <b-button href="http://bit.ly/2MXSVwg" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Queen Elizabeth Hospital">
+<b-card bg-variant="dark" text-variant="white" title= "Queen Elizabeth Hospital" align="center">
   <p class="title-color">
     Stadium Road<br>
     London<br>
@@ -90,7 +90,7 @@
   <b-button href="http://bit.ly/2xxpYmd" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Queen's Hospital">
+<b-card bg-variant="dark" text-variant="white" title= "Queen's Hospital" align="center">
   <p class="title-color">
     Rom Valley Way<br>
     Romford<br>
@@ -103,7 +103,7 @@
   <b-button href="http://bit.ly/2QTRgvc" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Royal London Hospital">
+<b-card bg-variant="dark" text-variant="white" title= "The Royal London Hospital" align="center">
   <p class="title-color">
     Whitechapel Road<br>
     Whitechapel<br>
@@ -120,7 +120,7 @@
 <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "St Bartholomew's Hospital">
+<b-card bg-variant="dark" text-variant="white" title= "St Bartholomew's Hospital" align="center">
   <p class="title-color">
     West Smithfield<br>
     London<br>
@@ -132,7 +132,7 @@
     <b-button href="http://bit.ly/2zpMvTr" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Whipps Cross University Hospital">
+<b-card bg-variant="dark" text-variant="white" title= "Whipps Cross University Hospital" align="center">
   <p class="title-color">
     Whipps Cross Road<br>
     Leytonstone<br>
@@ -144,14 +144,14 @@
   <b-button href="http://bit.ly/2NC4P4n" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
 
   </p>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
 
     </p>

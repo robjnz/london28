@@ -1,18 +1,19 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "The Beauty Queen of Leenane" align ="center">
-    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1572081598/leenane_ul3m7t.jpg" fluid-grow alt="The Beauty Queen of Leenane poster"/>
+  <b-card bg-variant="dark" text-variant="white" title= "Robin Hood" align ="center">
+    <br>
+    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1573899326/Robin_Hood_zsqgzt.jpg" fluid-grow alt="Robin Hood poster"/>
 
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Wed 30 Oct - Sat 16 Nov 2019
+    Thurs 28 Nov 2019 - Sun 5 Jan 2020
     </p>
 
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="In a remote cottage in the mountains of Connemara, 40 year old Maureen Folan lives with her manipulative and possessive mother, Mag.
-Trapped together in a poisonous cycle of daily battles and with endless rain driving at the walls, Maureen dreams of escape. When a chance for happiness arrives in the form of unexpected suitor Pato Dooley, she dares to hope…
-But Mag has other ideas and sets in motion a chain of events that build to a terrifying climax…">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Deep in the heart of his foreboding Castle, the dastardly Sheriff of Nottingham is taxing the poor to pile up his gold, whilst imprisoning brave Maid Marian and her hilarious Nurse Nellie.
+
+But the Sheriff hasn’t banked on our arrow slinging hero Robin emerging from Sherwood Forest to target the hand of Marion and outwit the villain’s plans. Can Robin save the day with a little help from his band of Friar Tuck and plucky Merry Folk?">Description Read Me</b-button>
 </div>
 <p class="labour">
 </p>

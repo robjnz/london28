@@ -7,7 +7,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Buy With Confidence">
+<b-card bg-variant="dark" text-variant="white" title= "Buy With Confidence" align="center">
   <p class="title-color">
 
     All the businesses listed on this website have been vetted and approved by Trading Standards to ensure that they operate in a legal, honest and fair way.
@@ -16,7 +16,7 @@
     <b-button href="http://bit.ly/2N0FiNa" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "The Phone book">
+<b-card bg-variant="dark" text-variant="white" title= "The Phone book" align="center">
   <p class="title-color">
     The B.T phone book.
     <br>
@@ -27,7 +27,7 @@
   <b-button href="http://bit.ly/2QXXD0u" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Ask The Pigeon">
+<b-card bg-variant="dark" text-variant="white" title= "Ask The Pigeon" align="center">
   <p class="title-color">
     Search for local information using post codes.
     <br>
@@ -42,7 +42,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Fixya">
+<b-card bg-variant="dark" text-variant="white" title= "Fixya" align="center">
   <p class="title-color">
     Search or ask for information how to fix things.
     <br>
@@ -51,7 +51,7 @@
   <b-button href="http://bit.ly/2MW3hN6" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Parking Ticket Expert">
+<b-card bg-variant="dark" text-variant="white" title= "Parking Ticket Expert" align="center">
   <p class="title-color">
     Fight parking ticket and learn about the tricks and scams which are used to issue them.
     <br>
@@ -60,7 +60,7 @@
   <b-button href="http://bit.ly/2MWku9n" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Royal Mail">
+<b-card bg-variant="dark" text-variant="white" title= "Royal Mail" align="center">
   <p class="title-color">
     Royal Mail web site.
     <br>
@@ -73,7 +73,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "192">
+<b-card bg-variant="dark" text-variant="white" title= "192" align="center">
   <p class="title-color">
 
     Search for People, Businesses & Places in the UK.
@@ -82,7 +82,7 @@
     <b-button href="https://www.192.com" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Telephone Preference Service">
+<b-card bg-variant="dark" text-variant="white" title= "Telephone Preference Service" align="center">
   <b-embed type="iframe"
           aspect = "16by9"
           src    = "https://www.youtube.com/embed/otT_8ghHiH8"
@@ -98,7 +98,7 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
 
 

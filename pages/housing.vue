@@ -7,7 +7,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Crisis">
+<b-card bg-variant="dark" text-variant="white" title= "Crisis" align="center">
   <p class="title-color">
 
     National charity for homeless people.
@@ -18,7 +18,7 @@
     <b-button href="http://bit.ly/2xM4fWG" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Tenancy Deposit Protection">
+<b-card bg-variant="dark" text-variant="white" title= "Tenancy Deposit Protection" align="center">
   <p class="title-color">
     Landlord must put your deposit in a government-backed tenancy deposit scheme.
     <br>
@@ -27,7 +27,7 @@
   <b-button href="http://bit.ly/2O0zrfe" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Shelter">
+<b-card bg-variant="dark" text-variant="white" title= "Shelter" align="center">
   <p class="title-color">
     Shelter helps people struggling with bad housing or homelessness.
     <br>
@@ -40,7 +40,7 @@
 
 <b-card-group deck
       class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Shp">
+<b-card bg-variant="dark" text-variant="white" title= "Shp" align="center">
   <p class="title-color">
     London-wide charity working to prevent homelessness.
     <br>
@@ -49,17 +49,17 @@
   <b-button href="http://bit.ly/2NB5J11" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Zoopla">
+<b-card bg-variant="dark" text-variant="white" title= "Zoopla" align="center">
   <p class="title-color">
     Free search for homes to buy or rent in the UK.
     <br>
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2MVBqNk" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2MVBqNk" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
 
     <br>
