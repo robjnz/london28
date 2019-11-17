@@ -97,7 +97,7 @@ class="mb-3">
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Chafford Sports Complex">
-<a href="http://bit.ly/2EDNZ03" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1545231715/everyone_active_qcfdv8.png" fluid-grow alt="Chafford Sports Complex"/></a>
+<a href="http://bit.ly/2CT5NRM" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1574014699/fitness_logo_gqscxj.jpg" fluid-grow alt="Chafford Sports Complex"/></a>
 
 </b-card>
 
@@ -157,7 +157,7 @@ class="mb-3">
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Loxford Leisure Centre">
-<a href="http://bit.ly/2LqLdfb" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1545233781/vision_logo_cwk664.jpg" fluid-grow alt="Loxford Leisure Centre"/></a>
+<a href="http://bit.ly/2CXlzuR" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1574014699/fitness_logo_gqscxj.jpg" fluid-grow alt="Loxford Leisure Centre"/></a>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Tritons Swim School CIC">

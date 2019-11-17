@@ -48,9 +48,11 @@
 
 <b-card bg-variant="dark" text-variant="white" title= "The Hoxton Pony">
   <p class="title-color">
-  <a href="https://kutt.it/hoxtonpony" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_300/v1551112431/hoxtonpony_zzqf5u.jpg" fluid-grow alt="The Hoxton Pony" /></a>
+  <a href="" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_300/v1551112431/hoxtonpony_zzqf5u.jpg" fluid-grow alt="The Hoxton Pony" /></a>
     </p>
+    <!--
     <b-button href="https://kutt.it/hoxtonpony" target="_blank" variant="info">open</b-button>
+    -->
 <br>104-108 Curtain Road London EC2A 3AH
 </b-card>
 

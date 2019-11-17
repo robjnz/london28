@@ -27,21 +27,7 @@
   <b-button href="http://bit.ly/2QXXD0u" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Ask The Pigeon" align="center">
-  <p class="title-color">
-    Search for local information using post codes.
-    <br>
-    <br>
-    <br>
-    <br>
-  </p>
-  <b-button href="http://bit.ly/2px4D84" target="_blank" variant="info">open</b-button>
-</b-card>
-</b-card-group>
 
-
-<b-card-group deck
-      class="mb-3">
 <b-card bg-variant="dark" text-variant="white" title= "Fixya" align="center">
   <p class="title-color">
     Search or ask for information how to fix things.
@@ -50,6 +36,13 @@
   </p>
   <b-button href="http://bit.ly/2MW3hN6" target="_blank" variant="info">open</b-button>
 </b-card>
+
+
+</b-card-group>
+
+
+<b-card-group deck
+      class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Parking Ticket Expert" align="center">
   <p class="title-color">
@@ -69,10 +62,7 @@
   </p>
   <b-button href="http://bit.ly/2QRXZWg" target="_blank" variant="info">open</b-button>
 </b-card>
-</b-card-group>
 
-<b-card-group deck
-      class="mb-3">
 <b-card bg-variant="dark" text-variant="white" title= "192" align="center">
   <p class="title-color">
 
@@ -81,6 +71,13 @@
     </p>
     <b-button href="https://www.192.com" target="_blank" variant="info">open</b-button>
 </b-card>
+
+
+</b-card-group>
+
+
+<b-card-group deck
+      class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Telephone Preference Service" align="center">
   <b-embed type="iframe"
@@ -106,6 +103,17 @@
     </p>
 
 </b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
+  <p class="title-color">
+
+
+    <br>
+    </p>
+
+</b-card>
+
+
 </b-card-group>
 </div>
     </b-row>

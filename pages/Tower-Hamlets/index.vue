@@ -31,7 +31,7 @@
 <b-card  bg-variant="dark" text-variant="white" title="Jim Fitzpatrick MP">
 <p>Poplar & Limehouse</p>
 <p class="labour">Labour</p>
-<a href="http://bit.ly/2yXARgR" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1519662414/Jim_Fitzpatrick_fh9f4u.jpg" fluid-grow alt="Jim Fitzpatrick MP Poplar & Limehouse"/></a>
+<a href="" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1519662414/Jim_Fitzpatrick_fh9f4u.jpg" fluid-grow alt="Jim Fitzpatrick MP Poplar & Limehouse"/></a>
             <b-button block href="http://bit.ly/fitzpatrickvote" target="_blank" variant="info">Jim Fitzpatrick voting Record &rArr;</b-button>
 
 </b-card>

@@ -69,7 +69,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2QJY526" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2KsVfNm" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -202,7 +202,7 @@
   </p>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "" align="center"> 
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
 
     <br>
