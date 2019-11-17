@@ -4,9 +4,9 @@
 <!-- HornchurchFC -->
 <h6>The Stadium<br>Bridge Avenue Upminster Essex RM14 2LX</h6>
 <p class="asian">
-Sat 16 Nov 2019 @ 3pm <br>V<br>Corinthian Casuals<br>
-<!--
+
 Sat 30 Nov 2019 @ 3pm <br>V<br>Bognor Regis Town<br>
+<!--
 Sat 28 Dec 2019 @ 3pm <br>V<br>Brightlingsea Regent<br>
 Sat 4 Jan 2020 @ 3pm <br>V<br>Horsham<br>
 Sat 18 Jan 2019 @ 3pm<br>V<br>Leatherhead<br>

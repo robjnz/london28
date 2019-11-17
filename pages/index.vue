@@ -23,7 +23,7 @@
   -webkit-background-size: cover;
   -moz-background-size   : cover;
   -o-background-size     : cover;
-  height                 : 1570px;
+  height                 : 100%;
   margin-top             : -75px;
 
 }

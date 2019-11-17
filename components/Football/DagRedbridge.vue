@@ -5,10 +5,8 @@
 <!--Dag_RedFC-->
 <p class="asian">
 
-
-  Sat 16 Nov 2019 @ 3pm<br>V<br>Aldershot Town<br>
-  <!--
   Tues 26 Nov 2019 @ 7.45pm<br>V<br>Sutton United<br>
+  <!--
   Sat 7 Dec 2019 @ 3pm<br>V<br>Maidenhead United<br>
   Thurs 26 Dec 2019 @ 1pm<br>V<br>Ebbsfleet<br>
   Sat 4 Jan 2020 @ 3pm<br>V<br>Torquay United<br>

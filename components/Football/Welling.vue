@@ -6,9 +6,9 @@
 <!-- WUFC -->
 <p class="asian">
 
-Sat 16 Nov 2019 @ 3pm <br>V<br>Braintree<br>
-<!--
+
 Sat 7 Dec 2019 @ 3pm <br>V<br>Hemel<br>
+<!--
 Tues 26 Dec 2019 @ 3pm <br>V<br>Dartford<br>
 Sat 4 Jan 2020 <br>V<br>Weymouth<br>
 Sat 18 Jan 2020<br>V<br>Hungerford<br>
