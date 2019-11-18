@@ -23,7 +23,7 @@
         <b-card  bg-variant="dark" text-variant="white" title="Clive Efford MP">
           <p>Eltham</p>
         <p class="labour">Labour</p>
-        <a href="http://bit.ly/2Egwh3o" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1522836710/Clive_Efford_ujkjzb.jpg" fluid-grow alt="Clive Efford MP Eltham "/></a>
+        <a href="" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1522836710/Clive_Efford_ujkjzb.jpg" fluid-grow alt="Clive Efford MP Eltham "/></a>
     <b-button block href="http://bit.ly/effordvote" target="_blank" variant="info">Clive Efford voting Record &rArr;</b-button>
 
 </b-card>

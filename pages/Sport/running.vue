@@ -16,8 +16,8 @@ class="mb-3">
 <a href="http://bit.ly/2RZJEqW" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1545041236/barking_road_runners_j46rsy.png" fluid-grow alt="Barking Road Runners"/></a>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Dagenham 88 Runners">
-<a href="http://bit.ly/2PK2GzT" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1545041245/dagenham_88_kcsg1g.jpg" fluid-grow alt="Dagenham 88 Runners"/></a>
+<b-card bg-variant="dark" text-variant="white" title= "">
+<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "">
