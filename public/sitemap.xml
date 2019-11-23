@@ -1,222 +1,517 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://londoneast.life/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/computers/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/education/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/housing/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/goods/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/links/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/contact/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/hospitals/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/support/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/welfare/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/esa/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/travel/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/twitter-tfl/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/travel-links/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/barking/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/bexley/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/greenwich/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/hackney/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/havering/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/lewisham/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/newham/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/redbridge/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/tower-hamlets/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/waltham/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/visit/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/today/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/ent/cinemas/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/ent/free-movies/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/ent/free-series/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/ent/night/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/tv/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/ent/theatres/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/restaurants/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/job-resources/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/volunteering/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/video/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/sport/football/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/sport/rugby/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/sport/running/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/sport/swimming/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/sport/tennis/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://londoneast.life/ent/eighteen/</loc>
-  <lastmod>2019-08-19T17:58:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<!-- Sitemap File Generated by https://freesitemapgenerator.com/ at Sat, 23 Nov 2019 11:06:08 +0100 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                           http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>https://londoneast.life/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/computers</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/education</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/housing</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/goods</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/links</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/contact</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/hospitals</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/support</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/welfare</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/esa</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/travel</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/twitter-tfl</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/travel-links</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Barking</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Bexley</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Greenwich</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Hackney</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Havering</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Lewisham</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Newham</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Redbridge</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Tower-Hamlets</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Waltham</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/visit</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/today</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Ent/cinemas</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Ent/free-movies</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Ent/free-series</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Ent/night</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/TV</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Ent/theatres</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/restaurants</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/job-resources</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/volunteering</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/video</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/universal-credit</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Sport/football</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Sport/rugby</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Sport/running</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Sport/swimming</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Sport/tennis</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/sport/tennis/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.58</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/sport/rugby/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.58</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/sport/running/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.58</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/universal-credit/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.58</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/visit/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.57</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/tower-hamlets/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.57</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/waltham/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.56</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/ent/night/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.56</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/redbridge/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.56</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/ent/theatres/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.49</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/restaurants/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.49</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/job-resources/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.49</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/volunteering/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.49</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/video/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.49</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/sport/football/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.49</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/sport/swimming/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.49</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/greenwich/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.49</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/bexley/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.48</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/havering/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.48</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/lewisham/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.48</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/today/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.48</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/ent/cinemas/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.48</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/ent/free-movies/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.48</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/ent/free-series/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.48</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/tv/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.48</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/Ent/eighteen</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.46</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/travel/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.41</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/twitter-tfl/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.41</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/travel-links/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.40</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/barking/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.40</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/hackney/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.40</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/newham/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.40</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/computers/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.25</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/education/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.25</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/housing/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.24</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/goods/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.24</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/links/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.24</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/contact/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.24</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/hospitals/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.24</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/support/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.24</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/welfare/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.24</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/esa/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.24</priority>
+	</url>
+	<url>
+		<loc>https://londoneast.life/ent/eighteen/</loc>
+		<lastmod>2019-11-23T11:06:08+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.19</priority>
+	</url>
 </urlset>
