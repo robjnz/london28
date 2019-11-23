@@ -6,9 +6,8 @@
 <!-- westhamwomen WHUFC -->
 <p class="asian">
 
-Wed 20 Nov 2019 @ 7.30pm <br>V<br>Lewes<br>
-<!--
 Sun 24 Nov 2019 @ 3pm <br>V<br>Reading<br>
+<!--
 Sun 1 Dec 2019 @ 3pm <br>V<br>Manchester United<br>
 Wed 11 Dec 2019 @  7.30pm <br>V<br>Crystal Palace<br>
 Sun 5 Jan 2020 @ 3pm <br>V<br>Everton<br>

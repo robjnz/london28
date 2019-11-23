@@ -5,9 +5,9 @@
 <h6>VCD Athletic<br>Old Rd Crayford Dartford Kent DA1 4DN</h6>
 <p class="asian">
 <!-- #cafc #cafcwomen -->
-Wed 20 Nov 2019 @ 2pm <br>V<br>London City<br>
+
+Sun 8 Dec 2019 @ 2pm <br>V<br>Bristol City<br>
 <!--
-Sun 8 Dec 2019 @ 2pm <br>V<br>V<br>Bristol City<br>
 Sun 19 Jan 2020 @ 2pm <br>V<br>Blackburn Rovers <br>
 Sun 22 March 2020 @ 2pm <br>V<br>London Bees <br>
 Sun 29 March 2020 @ 2pm <br>V<br>Crystal Palace<br>

@@ -5,9 +5,8 @@
 <!--walthamstowfc-->
 <p class="asian">
 
-Tues 19 Nov 2019 @ 7.45pm <br>V<br>Takeley<br>
-<!--
 Sat Nov 23 2019 @ 3pm <br>V<br> Southend Manor<br>
+<!--
 Sat Nov 30 2019 @ 3pm <br>V<br> Hashtag United<br>
 Tues Dec 3 2019 @ 7.45pm <br>V<br> Hoddesdon Town<br>
 Sat Jan 4 2020 @ 3pm <br>V<br>Clapton<br>

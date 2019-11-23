@@ -71,6 +71,8 @@
         <b-dropdown-item href="/job-resources">Job Resources</b-dropdown-item>
         <b-dropdown-item href="/volunteering">Volunteering</b-dropdown-item>
         <b-dropdown-item href="/video">Job search Advice videos</b-dropdown-item>
+        <b-dropdown-item href="/universal-credit">Universal Credit</b-dropdown-item>
+
         </b-nav-item-dropdown>
 
         <b-nav-item-dropdown  text="Sport" right>
