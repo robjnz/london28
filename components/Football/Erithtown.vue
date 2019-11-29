@@ -6,9 +6,8 @@
 <p class="asian">
 
 
-Sat 23 Nov 2019 @ 3pm <br>V<br>Greenwich Borough<br>
-<!--
 Sat 30 Nov 2019 @ 3pm <br>V<br>Crowborough Athletic<br>
+<!--
 Sat 21 Dec 2019 @ 3pm <br>V<br>Fisher<br>
 Sat 28 Dec 2019 @ 3pm <br>V<br>Beckenham Townbr<br>
 Sat 18 Jan 2020 @ 3pm <br>V<br>AFC Croydon Athletic<br>

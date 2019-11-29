@@ -8,9 +8,8 @@
 <p class="asian">
 
 
-Sat 23 Nov 2019 @ 12.30pm<br>V<br>Tottenham Hotspur<br>
-<!--
 Sat 7 Dec 2019 @ 3pm <br>V<br>Arsenal<br>
+<!--
 Sat 28 Dec 2019 @ 3pm <br>V<br>Leicester City<br>
 Wed 1 Jan 2020 @ 3pm <br>V<br>Bournemouth<br>
 Sat 18 Jan 2020 @ 3pm<br>V<br>Everton<br>

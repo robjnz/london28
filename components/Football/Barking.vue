@@ -2,14 +2,12 @@
   <b-card bg-variant="dark" text-variant="white" title= "Barking F.C." align="center">
 <a href="https://kutt.it/barking-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543743135/barking_fc_mfqpl9.jpg" fluid-grow alt="Barking FC"/></a>
 <h6>Mayesbrook Park<br>Lodge Avenue Dagenham Essex RM8 2JR</h6>
-
+<!-- #barkingfc -->
 <p class="asian">
 
 
-
-  Sat Nov 23 2019 @ 3pm<br>V<br>Bracknell Town FC<br>
-  <!--
   Sat Dec 14 2019 @ 3pm<br>V<br>Uxbridge FC<br>
+  <!--
   Sat Dec 28 2019 @ 3pm<br>V<br>Hertford Town FC <br>
   Sat Jan 4 2020 @ 3pm<br>V<br>Bedfont Sports FC <br>
   Sat Jan 11 2020 @ 3pm<br>V<br>Northwood FC <br>

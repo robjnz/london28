@@ -5,9 +5,9 @@
 <!-- #CAFC -->
 <p class="asian">
 
-Sat 23 Nov 2019 @ 3pm <br>V<br>Cardiff City<br>
-<!--
+
 Sat 30 Nov 2019 @ 3pm <br>V<br>Sheffield Wednesday<br>
+<!--
 Tues 10 Dec 2019 @7.45pm <br>V<br>Huddersfield Town<br>
 Sat 14 Dec 2019 @ 3pm <br>V<br>Hull City<br>
 Thurs 26 Dec 2019 @ 3pm <br>V<br>Bristol City<br>

@@ -5,9 +5,9 @@
 <!--walthamstowfc-->
 <p class="asian">
 
-Sat Nov 23 2019 @ 3pm <br>V<br> Southend Manor<br>
+
+Sat 30 Nov 2019 @ 3pm <br>V<br> Hashtag United<br>
 <!--
-Sat Nov 30 2019 @ 3pm <br>V<br> Hashtag United<br>
 Tues Dec 3 2019 @ 7.45pm <br>V<br> Hoddesdon Town<br>
 Sat Jan 4 2020 @ 3pm <br>V<br>Clapton<br>
 Sat Feb 8 2020 @ 3pm <br>V<br>Sawbridgeworth Town<br>

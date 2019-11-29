@@ -5,9 +5,8 @@
 <!-- #leytonorientfc -->
 <p class="asian">
 
-Sat 23 Nov 2019 @ 3pm <br>V<br>Forest Green Rovers<br>
-<!--
 Sat 14 Dec 2019 @ 3pm <br>V<br>Bradford City<br>
+<!--
 Thurs 26 Dec 2019 @ 1pm <br>V<br> Colchester United<br>
 Sat 4 Jan 2020 @ 3pm <br>V<br>Northamton Town<br>
 Sat 11 Jan 2020 @ 3pm <br>V<br>Grimsby Town<br>
