@@ -2,7 +2,7 @@
 <section show class="showcase">
     <b-container>
 
-    <h1>What on in East London November 2019</h1>
+    <h1>What on in East London December 2019</h1>
     <br>
 <!--
    <b-row class="text-center">
