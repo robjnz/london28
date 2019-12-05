@@ -3,7 +3,7 @@ const newLocal="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v4.0"
 <section main>
   <b-container>
     <h1 class="title-color">This months events in East London</h1>
-    <h2>November 2019</h2>
+    <h2>December 2019</h2>
     <br>
     <b-card-group deck
 class="mb-3">
@@ -68,7 +68,7 @@ export default {
     return {
       titleTemplate: '%s todays events',
       meta         : [
-        { hid: 'description', name: 'description', content: 'This months events in east London November 2019' }
+        { hid: 'description', name: 'description', content: 'This months events in east London December 2019' }
       ]
     }
   }

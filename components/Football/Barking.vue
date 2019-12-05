@@ -6,7 +6,7 @@
 <p class="asian">
 
 
-  Sat Dec 14 2019 @ 3pm<br>V<br>Uxbridge FC<br>
+  Sat 14 Dec 2019 @ 3pm<br>V<br>Uxbridge FC<br>
   <!--
   Sat Dec 28 2019 @ 3pm<br>V<br>Hertford Town FC <br>
   Sat Jan 4 2020 @ 3pm<br>V<br>Bedfont Sports FC <br>

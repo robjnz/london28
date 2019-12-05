@@ -1,21 +1,20 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "Dirty Crusty" align="center">
-<b-embed type="iframe"
-          aspect = "16by9"
-          src    = "https://www.youtube.com/embed/Hso7huy5CG4"
-          allowfullscreen
-  ></b-embed>
+  <b-card bg-variant="dark" text-variant="white" title= "Pecsmas" align="center">
+    
+    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1575539491/pecsmas_vnlqtk.png" fluid-grow alt="Pecsmas poster"/>
+
+
   <br>
   <p class="title-color">
 
     The Yard Hackney<br>
-    24 October - 30 November 2019 @ 7.30pm
+    Mon 9- Fri 20 December 2019 @ 8pm
 
     </p>
 <p class="asian">
     </p>
       <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Jeanine is determined to improve her life. With sex. With dance. With new hobbies, like horticulture. But self-improvement is hard. Reclaiming your dreams is hard. And personal hygiene is really, really hard.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Every night our wise (Drag) kings will be joined onstage by a different special guest performer – and on Friday 20 December we’ll be ending the year with a Christmas party like no other.">Description Read Me</b-button>
 </div>
   <p class="labour">
 </p>

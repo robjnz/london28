@@ -6,10 +6,9 @@
 <p class="asian">
 
 
-Sat 30 Nov 2019 @ 3pm <br>V<br> Hashtag United<br>
+
+Sat 4 Jan 2020 @ 3pm <br>V<br>Clapton<br>
 <!--
-Tues Dec 3 2019 @ 7.45pm <br>V<br> Hoddesdon Town<br>
-Sat Jan 4 2020 @ 3pm <br>V<br>Clapton<br>
 Sat Feb 8 2020 @ 3pm <br>V<br>Sawbridgeworth Town<br>
 Sat Feb 29 2020 @ <br>V<br>Enfield<br>
 Tues March 17 2020 @ 7.45pm <br>V<br>West Essex<br>
