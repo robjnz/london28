@@ -37,7 +37,7 @@
 </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Ellie Reeves MP">
-  <p>Lewisham West and Penge</p>
+  <p>Lewisham West & Penge</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2AfdIIB" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face:auto,h_180,w_200/v1539799072/reeves_q6m3ir.jpg" fluid-grow alt="Ellie Reeves MP Lewisham West and Penge"/></a>
             <b-button block href="http://bit.ly/reevesvote" target="_blank" variant="info">Ellie Reeves voting Record &rArr;</b-button>

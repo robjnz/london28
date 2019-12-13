@@ -6,10 +6,8 @@
 <!-- WUFC -->
 <p class="asian">
 
-
-Sat 7 Dec 2019 @ 3pm <br>V<br>Hemel<br>
+Thurs 26 Dec 2019 @ 3pm <br>V<br>Dartford<br>
 <!--
-Tues 26 Dec 2019 @ 3pm <br>V<br>Dartford<br>
 Sat 4 Jan 2020 <br>V<br>Weymouth<br>
 Sat 18 Jan 2020<br>V<br>Hungerford<br>
 Sat 8 Feb 2020 @ 3pm <br>V<br>Slough Town<br>

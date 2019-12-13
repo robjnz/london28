@@ -5,9 +5,8 @@
 <!-- #CAFC -->
 <p class="asian">
 
-Tues 10 Dec 2019 @7.45pm <br>V<br>Huddersfield Town<br>
-<!--
 Sat 14 Dec 2019 @ 3pm <br>V<br>Hull City<br>
+<!--
 Thurs 26 Dec 2019 @ 3pm <br>V<br>Bristol City<br>
 Sat 11 Jan 2020 @ 3pm <br>V<br>West Bromwich Albion<br>
 Sat 25 Jan 2020 @ 3pm <br>V<br>Fulham<br>

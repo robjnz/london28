@@ -3,14 +3,12 @@
 <a href="https://kutt.it/westham-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636784/west_ham_fc_wrookz.png" fluid-grow alt="West Ham United F.C.‎"/></a>
 
 <h6>London stadium<br>Queen Elizabeth Olympic Park <br>London E20 2ST</h6>
-<!-- WHUFC -->
+<!-- #WHUFC -->
 
 <p class="asian">
 
-
-Sat 7 Dec 2019 @ 3pm <br>V<br>Arsenal<br>
-<!--
 Sat 28 Dec 2019 @ 3pm <br>V<br>Leicester City<br>
+<!--
 Wed 1 Jan 2020 @ 3pm <br>V<br>Bournemouth<br>
 Sat 18 Jan 2020 @ 3pm<br>V<br>Everton<br>
 Sat 1 Feb 2020 @ 3pm <br>V<br>Brighton and Hove Albion<br>

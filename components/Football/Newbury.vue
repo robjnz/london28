@@ -5,10 +5,8 @@
 <!-- #NewburyForestFC -->
 <p class="asian">
 
-
-Sat 7 Dec 2019 @ 3pm <br>V<br>Burnham Ramblers<br>
-<!--
 Sat 21 Dec 2019 @ 3pm <br>V<br> Lopes Tavares<br>
+<!--
 Sat 4 Jan 2020 @ 3pm <br>V<br>Halstead Town<br>
 Sat 25 Jan 2020 @ 3pm <br>V<br>Wormley Rovers<br>
 Sat 22 Feb 2020 @ 3pm <br>V<br>Coggeshall United<br>

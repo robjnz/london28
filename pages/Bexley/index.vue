@@ -36,11 +36,11 @@
 
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Teresa Pearce MP">
+<b-card  bg-variant="dark" text-variant="white" title="Abena Oppong-Asare MP">
 <p>Erith & Thamesmead</p>
 <p class="labour">Labour</p>
-<a href="http://bit.ly/2OhkwOE" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_face,h_180,w_200/v1516967810/Teresa_Pearce_tsxxty.jpg" fluid-grow alt="Teresa Pearce MP Erith & Thamesmead" /></a>
-    <b-button block href="http://bit.ly/pearcevote" target="_blank" variant="info">Teresa Pearce voting Record &rArr;</b-button>
+<a href="http://bit.ly/2YHIBAh" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1576226979/Abena_Oppong-Asare_w7dovf.jpg" fluid-grow alt="Abena Oppong-Asare" /></a>
+    <b-button block href="" target="_blank" variant="success">Abena Oppong-Asare voting Record &rArr;</b-button>
 
 </b-card>
 

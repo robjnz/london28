@@ -5,7 +5,7 @@
 <h6>108 South Street Romford RM1 1SS</h6>
 <p class="asian">
 
- Fri 6 Dec 2019 10pm - 4am <br>SCHPUNK<br>
+ Fri 20 Dec 2019 10pm - 4am <br>SCHPUNK<br>
 
 <!--#RomfordATIK-->
 

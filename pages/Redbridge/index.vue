@@ -28,11 +28,11 @@
 
 </b-card>
 
-<b-card  bg-variant="dark" text-variant="white" title="Mike Gapes MP">
+<b-card  bg-variant="dark" text-variant="white" title="Sam Tarry MP">
  <p>Ilford South</p>
-<p class="labour">The Independent Group</p>
-<a href="http://bit.ly/2NdB2eT" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,g_faces:auto,h_180,w_200/v1517232454/gapes_uaqlub.jpg" fluid-grow alt="Mike Gapes MP Ilford South"/></a>
-<b-button block href="https://kutt.it/gapesvote" target="_blank" variant="info">Mike Gapes voting Record &rArr;</b-button>
+<p class="labour">Labour</p>
+<a href="http://bit.ly/2rG3Nu8" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_fill,h_180,w_200/v1576228224/Sam_Tarry_qjindo.jpg" fluid-grow alt="Mike Gapes MP Ilford South"/></a>
+<b-button block href="" target="_blank" variant="success">Sam Tarry voting Record &rArr;</b-button>
 
 </b-card>
 

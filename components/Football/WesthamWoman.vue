@@ -5,12 +5,8 @@
 <h6>Rush Green Training Ground<br> Rush Green Road RM7 0LU</h6>
 <!-- westhamwomen WHUFC -->
 <p class="asian">
-
-
-Sun 1 Dec 2019 @ 3pm <br>V<br>Manchester United<br>
-<!--
-Wed 11 Dec 2019 @  7.30pm <br>V<br>Crystal Palace<br>
 Sun 5 Jan 2020 @ 3pm <br>V<br>Everton<br>
+<!--
 Sun 19 Jan 2020 @ 3pm <br>V<br>Brighton and Hove Albion<br>
 Sun 9 Feb 2020 @ 3pm <br>V<br>Manchester City<br>
 sun 23 Feb 2020 @ 3pm <br>V<br>Liverpool<br>
