@@ -40,7 +40,7 @@
 <p>Erith & Thamesmead</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/2YHIBAh" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1576226979/Abena_Oppong-Asare_w7dovf.jpg" fluid-grow alt="Abena Oppong-Asare" /></a>
-    <b-button block href="" target="_blank" variant="success">Abena Oppong-Asare voting Record &rArr;</b-button>
+    <b-button block href="http://bit.ly/2tDrp3p" target="_blank" variant="info">Abena Oppong-Asare voting Record &rArr;</b-button>
 
 </b-card>
 

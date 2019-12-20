@@ -1,14 +1,12 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "Redbridge F.C." align ="center">
-<a href="https://kutt.it/redbridge-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893899/redbridge_fc_xvapdx.jpg" fluid-grow alt="Redbridge F.C."/></a>
-<!-- #FcRedbridge #TheMotormen -->
+<a href="https://kutt.it/redbridge-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893899/redbridge_fc_xvapdx.jpg" fluid-grow alt="Redbridge FC"/></a>
+
 <h6>Oakside Stadium<br>Station Road Barkingside Essex IG6 1NB</h6>
 <p class="asian">
-
-
-Sat 14 Dec 2019 @ 3pm <br>V<br>Hoddesdon Town<br>
-<!--
+<!-- #FcRedbridge #TheMotormen -->
 Fri 10 Jan 2020 @ 19.45pm <br>V<br>Ilford<br>
+<!--
 Fri 31 Jan 2020 @ 19.45pm <br>V<br>Clapton<br>
 Sat 15 Feb 2020 @ 3pm <br>V<br>Cockfosters<br>
 Tues 25 Feb 2020 @ 19.45pm <br>V<br>Tower Hamlets<br>

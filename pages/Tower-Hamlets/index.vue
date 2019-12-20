@@ -32,7 +32,7 @@
 <p>Poplar & Limehouse</p>
 <p class="labour">Labour</p>
 <a href="http://bit.ly/35lIwo8" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_200/v1576229032/Apsana_Begum_g9lb0f.jpg" fluid-grow alt="Apsana Begum MP Poplar & Limehouse"/></a>
-<b-button block href="" target="_blank" variant="success">Apsana Begum voting Record &rArr;</b-button>
+<b-button block href="http://bit.ly/2Q35jyT" target="_blank" variant="info">Apsana Begum voting Record &rArr;</b-button>
 
 </b-card>
 
