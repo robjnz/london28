@@ -5,9 +5,9 @@
 <p class="asian">
 <!-- #erithbelvedere -->
 
-Sat 21 Dec 2019 <br>V<br>Chatham Town<br>
-<!--
+
 Sat 28 Dec 2019 <br>V<br>	Glebe<br>
+<!--
 Sat 11 Jan 2020 <br>V<br>Crowborough<br>
 Sat 25 Jan 2020 <br>V<br>Hollands & Blair<br>
 Sat 1 Feb 2020 <br>V<br>Lordswood<br>

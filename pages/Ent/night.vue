@@ -37,7 +37,7 @@
 <br>Jhankaar Club 27 Broadway<br> Stratford London E15 4BQ
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "kings bull Barking">
+<b-card bg-variant="dark" text-variant="white" title= "kings Bull Barking">
   <p class="title-color">
   <a href="https://kutt.it/kings-club" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_300/v1550941361/Kings-Bull_xgogbn.jpg" fluid-grow alt="kings bull Barking" /></a>
     </p>

@@ -5,8 +5,12 @@
 <h6>108 South Street Romford RM1 1SS</h6>
 <p class="asian">
 
- Fri 20 Dec 2019 10pm - 4am <br>SCHPUNK<br>
-
+ Tues 24 Dec 2019 10pm - 4am <br>Christmas Eve<br>
+ <!--
+ Thur 26 Dec 2019 10am - 4am <br> Boxing Day <br>
+ Fri 27 Dec 2019 10pm - 4am <br>Schpunk<br>
+ Tues 31 Dec 2019 10pm - 4am <br>Countdown To 2020<br>
+-->
 <!--#RomfordATIK-->
 
 
