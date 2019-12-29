@@ -6,9 +6,9 @@
 <p class="asian">
 
 
-Sat 28 Dec 2019 @ 3pm <br>V<br>Beckenham Townbr<br>
-<!--
+
 Sat 18 Jan 2020 @ 3pm <br>V<br>AFC Croydon Athletic<br>
+<!--
 Sat 1 Feb 2020 @ 3pm <br>V<br>Canterbury City<br>
 Sat 8 Feb 2020 @ 3pm <br>V<br>Glebe<br>
 Sat 22 Feb 2020 @ 3pm br<br>V<br>Sheppey United<br>
