@@ -5,13 +5,18 @@
 <h2 class ="asian" >Home Matches & World Football Match Results</h2>
 <b-card bg-variant="dark" text-variant="white" title= "" align="center">
       <script type="text/javascript" src="https://www.livescore.bz/api.livescore.0.1.js" api="livescore" async></script><a href="https://www.livescore.bz" sport="football(soccer)" data-1="today" lang="en">football results</a>
+
 </b-card>
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
+      <iframe src="https://www.btfodds.com/widgets/display-odds.php" 
+width="100%" height="200px" scrolling="yes" frameBorder="0" ></iframe>
+
+</b-card>
+
 
 
 <h1 class="title-color">Barking & Dagenham</h1>
 <div>
-
-
 <b-card-group deck
 class="mb-3">
 <Barking />
