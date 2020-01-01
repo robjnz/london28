@@ -2,7 +2,7 @@
 <section main>
 <b-container>
 <h1>Football Clubs in East London</h1>
-<h2 class ="asian" >Home Matches</h2>
+<h2 class ="asian" >Home Matches & World Football Match Results</h2>
 <b-card bg-variant="dark" text-variant="white" title= "" align="center">
       <script type="text/javascript" src="https://www.livescore.bz/api.livescore.0.1.js" api="livescore" async></script><a href="https://www.livescore.bz" sport="football(soccer)" data-1="today" lang="en">football results</a>
 </b-card>
@@ -211,7 +211,7 @@ head () {
 return {
 titleTemplate: '%s Football',
 meta         : [
-      { hid: 'description', name: 'description', content: 'East London Football, Home Matches, 2019 - 2020' }
+      { hid: 'description', name: 'description', content: 'East London Football, Home Matches & World Match Results, 2020' }
       ]
 }
 },

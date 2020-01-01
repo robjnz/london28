@@ -3,7 +3,7 @@
 
   <b-container>
     <h1 class="title-color">What on this month @ East London Theatres</h1>
-    <h2>December 2019</h2>
+    <h2>January 2020</h2>
     <br>
 
     <b-card-group deck
@@ -89,7 +89,7 @@ export default {
     return {
       titleTemplate: '%s theatres',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, December 2019, Hackney Empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
+        { hid: 'description', name: 'description', content: 'Whats on at the east London Theatres this month, January 2020, Hackney Empire, Kenneth More Theatre Ilford, Theatre Royal Stratford East and more!' }
       ]
     }
   },
