@@ -3,7 +3,6 @@
   <b-container>
     <h1 class="title-color">Television & Movies Online</h1>
     <br>
-
       <div>
       <b-card-group deck
       class="mb-3">
