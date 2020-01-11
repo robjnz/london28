@@ -6,10 +6,8 @@
 <p class="asian">
 
 
-
-Sat 4 Jan 2020 @ 3pm <br>V<br>Clapton<br>
-<!--
 Sat Feb 8 2020 @ 3pm <br>V<br>Sawbridgeworth Town<br>
+<!--
 Sat Feb 29 2020 @ <br>V<br>Enfield<br>
 Tues March 17 2020 @ 7.45pm <br>V<br>West Essex<br>
 Sat March 28 2020 @ 3pm <br>V<br>St Margaretsbury<br>

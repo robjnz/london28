@@ -6,7 +6,7 @@
 <p class="asian">
 
  
- Fri 3 Jan 2019 10pm - 4am <br>SCHPUNK<br>
+ Fri 17 Jan 2019 10pm - 4am <br>SCHPUNK<br>
 
 <!--#RomfordATIK-->
 

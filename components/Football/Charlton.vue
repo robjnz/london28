@@ -5,10 +5,8 @@
 <!-- #CAFC -->
 <p class="asian">
 
-
-Sat 11 Jan 2020 @ 3pm <br>V<br>West Bromwich Albion<br>
-<!--
 Sat 25 Jan 2020 @ 3pm <br>V<br>Fulham<br>
+<!--
 Sat 1 Feb 2020 @ 3pm <br>V<br>Barnsley<br>
 Sat 15 Feb 2020 @ 3pm <br>V<br>Blackburn Rovers<br>
 Sat 22 Feb 2020 @ 3pm <br>V<br>Luton Town<br>
