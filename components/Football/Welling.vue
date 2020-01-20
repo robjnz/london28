@@ -6,9 +6,9 @@
 <!--#WUFC -->
 <p class="asian">
 
-Sat 18 Jan 2020 @ 3 pm<br>V<br>Hungerford<br>
-<!--
+
 Sat 8 Feb 2020 @ 3pm <br>V<br>Slough Town<br>
+<!--
 Sat 22 Feb 2020 @ 3pm <br>V<br>Chippenham<br>
 Sat 29 Feb 2020 @ 3pm <br>V<br>Havant & Waterlooville<br>
 Sat 14 March 2020 @ 3pm <br>V<br>Billericay<br>
