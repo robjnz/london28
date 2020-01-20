@@ -1,21 +1,21 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "Sleeping Beauty" align ="center">
+  <b-card bg-variant="dark" text-variant="white" title= "Atrocity" align ="center">
   <br>
-  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1573319632/Sleeping_Beauty_ycytwg.jpg" fluid-grow alt="Sleeping Beauty poster"/>
+  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1579539378/Atrocity_j2ygub.jpg" fluid-grow alt="Atrocity poster"/>
 
   <p class="title-color">
     Greenwich Theatre<br>
-    Fri 22 Nov 2019 - Sun 12 Jan 2020
+    Wed 29 Jan - Sat 1 Feb 2020 @ 7.45 pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Andrew Pollard returns to Greenwich Theatre for a very special pantomime, celebrating the 50th anniversary of the reopening of Greenwich Theatre with a tale of a sleeping princess, an unlikely hero, an even more unlikely villain – and an adventure that’s out of this world…">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Occupied France, early 1700s. A Bristolian innkeeper and his young, artistic daughter are summonsed to the theatre of war. What can they give to the occupying forces? Atrocity follows the lives of those engaged in war, and those who witness it. With tight dialogue and black humour, the story leads to an horrific denouement and not one to be missed.">Description Read Me</b-button>
 </div>
 <p class="labour">
   </p>
 
-    <b-button href="https://kutt.it/greenwichT" target="_blank" variant="info">open</b-button>
+    <b-button href="http://bit.ly/2v7lp3D" target="_blank" variant="info">open</b-button>
 
 </b-card>
 </template>
