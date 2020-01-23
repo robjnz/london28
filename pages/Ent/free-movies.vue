@@ -87,6 +87,13 @@
   <Wonder /><!--Wonder park -->
   </b-card-group>
 
+  <b-card-group deck
+  class="mb-3 ">
+  <NineteenSeventeen />
+  <Blank />
+  <Blank />
+  </b-card-group>
+
 
       </b-container>
       </section>
@@ -186,6 +193,8 @@ import Johnwick from '@/components/Films/Johnwick/Johnwick'
 import Aladdin from '@/components/Films/Aladdin/Aladdin'
 import Booksmart from '@/components/Films/Booksmart/Booksmart'
 import Rocketman from '@/components/Films/Rocketman/Rocketman'
+import NineteenSeventeen from '@/components/Films/NineteenSeventeen'
+
 
 
 
@@ -287,6 +296,7 @@ export default {
     Junglee,
     Lion,
     Wonder,
+    NineteenSeventeen,
     eighteenB,
     nineteenB,
       }
