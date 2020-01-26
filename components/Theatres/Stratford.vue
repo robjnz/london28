@@ -6,7 +6,7 @@
       <p class="title-color">
 
     Theatre Royal Stratford East<br>
-    Wed 29 Jaan – Sat 15 Feb 2020
+    Wed 29 Jan – Sat 15 Feb 2020
 
     </p>
 

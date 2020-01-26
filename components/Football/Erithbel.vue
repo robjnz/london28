@@ -5,10 +5,8 @@
 <p class="asian">
 <!-- #erithbelvedere -->
 
-
-Sat 25 Jan 2020 <br>V<br>Hollands & Blair<br>
-<!--
 Sat 1 Feb 2020 <br>V<br>Lordswood<br>
+<!--
 Sat 15 Feb 2020 <br>V<br>Greenwich Borough<br>
 Sat 7 March 2020 <br>V<br>Canterbuty City<br>
 Sat 21 March 2020 <br>V<br>Bearsted<br>

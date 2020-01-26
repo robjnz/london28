@@ -16,7 +16,7 @@
   <b-card-group deck
   class="mb-3 ">
   <Handmaid /><!--The Handmaid's Tale-->
-  <Blank />
+  <Trial /><!--The Trial of Christine Keeler-->
   <Blank />
 
   </b-card-group>
@@ -33,6 +33,7 @@ import Thrones from '@/components/series/Thrones'
 import Grimm from '@/components/series/Grimm'
 import Handmaid from '@/components/series/Handmaid'
 import Homeland from '@/components/series/Homeland'
+import Trial from '@/components/Series/Trial'
 import Blank from '@/components/Films/Blank'
 
 
@@ -56,6 +57,7 @@ export default {
     Handmaid,
     Homeland,
     Thrones,
+    Trial,
       }
 }
 </script>
