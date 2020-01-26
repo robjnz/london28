@@ -33,7 +33,7 @@ import Thrones from '@/components/series/Thrones'
 import Grimm from '@/components/series/Grimm'
 import Handmaid from '@/components/series/Handmaid'
 import Homeland from '@/components/series/Homeland'
-import Trial from '@/components/Series/Trial'
+import Trial from '@/components/series/Trial'
 import Blank from '@/components/Films/Blank'
 
 
@@ -43,6 +43,7 @@ import Blank from '@/components/Films/Blank'
 
 
 export default {
+  
   head () {
     return {
       titleTemplate: '%s Free-Tv Series',
