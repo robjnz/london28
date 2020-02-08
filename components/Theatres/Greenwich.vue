@@ -1,16 +1,16 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "Atrocity" align ="center">
+  <b-card bg-variant="dark" text-variant="white" title= "Polly" align ="center">
   <br>
-  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1579539378/Atrocity_j2ygub.jpg" fluid-grow alt="Atrocity poster"/>
+  <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1581152198/Polly_nzuasl.jpg" fluid-grow alt="Polly poster"/>
 
   <p class="title-color">
     Greenwich Theatre<br>
-    Wed 29 Jan - Sat 1 Feb 2020 @ 7.45 pm
+    Fri 14 - Sat 15 Feb 2020 @ 7.30 pm
     </p>
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Occupied France, early 1700s. A Bristolian innkeeper and his young, artistic daughter are summonsed to the theatre of war. What can they give to the occupying forces? Atrocity follows the lives of those engaged in war, and those who witness it. With tight dialogue and black humour, the story leads to an horrific denouement and not one to be missed.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Join us for a Valentine's burning of an 18th Century rom-com. In a tacky beach resort on a storm hit island meet jilted brides, pregnant murderers, pirates, politicians and power pop girl bands. Polly is a viciously satirical, unashamedly sexy, very funny, not-quite-musical, with songs inspired by Peaches, Britney and Nina Simone. We rip open our hearts, and give you a battle-cry, for love, for loss and for revenge.">Description Read Me</b-button>
 </div>
 <p class="labour">
   </p>

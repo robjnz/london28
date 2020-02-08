@@ -5,10 +5,8 @@
 <!-- #barkingfc -->
 <p class="asian">
 
-
-  Sat Feb 1 2020 @ 3pm<br>V<br>FC Romania <br>
+  Sat 8 Feb 2020 @ 3pm<br>V<br>Hanwell Town FC  <br>
   <!--
-  Sat Feb 8 2020 @ 3pm<br>V<br>Hanwell Town FC  <br>
   Sat Feb 22 2020 @ 3pm<br>V<br>Tooting & Mitcham United FC  <br>
   Sat March 7 2020 @ 3pm<br>V<br>South Park FC   <br>
   Sat March 21 2020 @ 3pm<br>V<br>Ashford Town (Middx) FC<br>

@@ -5,18 +5,18 @@
 -->
 <b-embed type="iframe"
           aspect = "16by9"
-          src    = "https://www.youtube.com/embed/G_o-VNGLsp8"
+          src    = "https://www.youtube.com/embed/fXSisosDPWk"
           allowfullscreen
   ></b-embed>
   <p class="title-color">
     Queen's Theatre Hornchurch<br>
-    Sat 25 Jan 2020 @ 7.30 pm
+    Fri 7 - Sat 29 Feb 2020
     </p>
 
 <p class="asian">
 </p>
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Noreen Khan (BBC Asian Network) as she hosts a night of comedy with some of the UK’s favourite female acts.">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Three witches on a heath have a disturbing prophecy for a victorious warrior. Macbeth will be king of Scotland. As this wicked seed is planted, daring Macbeth and his determined wife Lady Macbeth draw bloody daggers and set out on a fateful path.">Description Read Me</b-button>
 </div>
 <p class="labour">
 </p>

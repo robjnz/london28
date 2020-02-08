@@ -5,9 +5,8 @@
 <!-- ErithTown -->
 <p class="asian">
 
-Sat 1 Feb 2020 @ 3pm <br>V<br>Canterbury City<br>
-<!--
 Sat 8 Feb 2020 @ 3pm <br>V<br>Glebe<br>
+<!--
 Sat 22 Feb 2020 @ 3pm br<br>V<br>Sheppey United<br>
 Sat 14 March 2020 @ 3pm <br>V<br>Welling Town<br>
 Sat 28 March 2020 @ 3pm <br>V<br>Hollands & Blair<br>
